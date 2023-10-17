@@ -1,0 +1,973 @@
+Code,StationName,Staffed,StationType,Address1,Address2,City,State,Zip,Country,Division,TimeZone,Latitude/Longitude,Elevation,Population
+ABB,"Abbotsford-Colby, Wisconsin",N,Curbside Bus Stop only (no shelter),1210 North Division St.,Super 29 Shell,Colby,WI,54421,United States,Central,C,"44.928553,-90.314667",1398,
+ABE,"Aberdeen, Maryland",N,Station Building (with waiting room),18 East Bel Air Avenue,Amtrak/MARC Station,Aberdeen,MD,21001-3701,United States,Mid-Atlantic,E,"39.508447,-76.163260",90,18000
+ABN,"Absecon, New Jersey",N,Platform with Shelter,Shore Road and Ohio Avenue,New Jersey Transit Station,Absecon,NJ,08201,United States,Northeast,E,"39.424041,-74.501475",20,8065
+ABQ,"Albuquerque, New Mexico",Y,Station Building (with waiting room),320 1st Street SW,Alvarado Transportation Center,Albuquerque,NM,87102-3405,United States,Southwest,M,"35.083457,-106.648024",4959,450000
+ACA,"Antioch-Pittsburg, California",N,Platform with Shelter,100 I Street,,Antioch,CA,94509-1122,United States,Pacific,P,"38.017700,-121.816024",14,100586
+ACY,"Atlantic City, New Jersey",N,Station Building (with waiting room),1 Atlantic City Expressway,New Jersey Transit Station,Atlantic City,NJ,08401-4106,United States,Northeast,E,"39.362689,-74.439903",7,37000
+ADM,"Ardmore, Oklahoma",N,Station Building (with waiting room),251 East Main Street,,Ardmore,OK,73401-7016,United States,Southwest,C,"34.172465,-97.125510",871,24810
+AGM,"Augusta, Maine",N,Curbside Bus Stop only (no shelter),9 Industrial Drive,Transportation Center,Augusta,ME,04330,United States,Northeast,E,"44.355913,-69.799133",225,
+AHL,"Ashland, Oregon",N,Curbside Bus Stop only (no shelter),585 Siskiyou Blvd,Safeway Market,Ashland,OR,97520,United States,Pacific,P,"42.193207,-122.706715",1954,20881
+AKY,"Ashland, Kentucky",N,Station Building (with waiting room),99 15th Street,,Ashland,KY,41101,United States,Mid-Atlantic,E,"38.480875,-82.639603",546,21570
+ALB,"Albany-Rensselaer, New York",Y,Station Building (with waiting room),525 East Street,,Rensselaer,NY,12144-2310,United States,Northeast,E,"42.641029,-73.741147",30,110000
+ALC,"Alliance, Ohio",N,Platform only (no shelter),820 East Main Street,,Alliance,OH,44601,United States,Central,E,"40.921275,-81.092904",1078,23376
+ALD,"Alderson, West Virginia",N,Platform with Shelter,1 C&O Plaza on Railroad Avenue,,Alderson,WV,24910,United States,Mid-Atlantic,E,"37.724277,-80.644856",1550,1086
+ALI,"Albion, Michigan",N,Station Building (with waiting room),300 North Eaton Street,,Albion,MI,49224,United States,Central,E,"42.247196,-84.755814",948,12115
+ALM,"Alpena, Michigan",N,Curbside Bus Stop only (no shelter),1141 US Highway 23 North,Z's Crossroads Gas Station,Alpena,MI,49707,United States,Central,E,"45.089602,-83.457868",627,
+ALN,"Alton, Illinois",Y,Station Building (with waiting room),3400 College Avenue,,Alton,IL,62002-5000,United States,Central,C,"38.904723,-90.136276",491,29269
+ALP,"Alpine, Texas",N,Station Building (with waiting room),102 West Holland Avenue,,Alpine,TX,79830,United States,Southwest,C,"30.357302,-103.661513",4483,6035
+ALT,"Altoona, Pennsylvania",Y,Station Building (with waiting room),1231 11th Avenue,,Altoona,PA,16601,United States,Mid-Atlantic,E,"40.514475,-78.401620",1180,56500
+ALX,"Alexandria, Virginia",Y,Station Building (with waiting room),110 Callahan Drive,,Alexandria,VA,22301-2752,United States,Mid-Atlantic,E,"38.806503,-77.062330",30,136974
+ALY,"Albany, Oregon",Y,Station Building (with waiting room),110 10th Avenue SW,,Albany,OR,97321-2457,United States,Pacific Northwest,P,"44.630464,-123.102774",223,40852
+AMM,"Amherst, Massachusetts",N,Platform with Shelter,13 Railroad Street,,Amherst,MA,01002-2318,United States,Northeast,E,"42.375315,-72.511567",258,34049
+AMS,"Amsterdam, New York",N,Platform only (no shelter),466 West Main Street,Route 5 West,Amsterdam,NY,12010-1053,United States,Northeast,E,"42.953719,-74.219500",270,22000
+ANA,"Anaheim, California",Y,Station Building (with waiting room),2150 East Katella Avenue,Anaheim Stadium Parking Lot,Anaheim,CA,92806,United States,Southwest,P,"33.803507,-117.882263",157,200100
+APP,"Appleton, Wisconsin",N,Curbside Bus Stop only (no shelter),100 East Washington Street,Appleton Transit Center,Appleton,WI,54911-5448,United States,Central,C,"44.263311,-88.405852",791,70191
+ARB,"Ann Arbor, Michigan",Y,Station Building (with waiting room),325 Depot Street,,Ann Arbor,MI,48104,United States,Central,E,"42.287692,-83.743154",780,99797
+ARC,"Arcata, California",N,Curbside Bus Stop only (no shelter),925 E Street,Transit Center,Arcata,CA,95521-6239,United States,Pacific,P,"40.868633,-124.083805",33,14140
+ARD,"Ardmore, Pennsylvania",N,Station Building (with waiting room),Station Road and Lancaster Avenue,,Ardmore,PA,19003,United States,Mid-Atlantic,E,"40.008278,-75.290399",358,12616
+ARI,"Astoria (Shell Station Mini Mart), Oregon",N,Curbside Bus Stop only (no shelter),95 West Marine Drive,Shell Station/Mini Mart,Astoria,OR,97103,United States,Pacific,P,"46.190543,-123.844997",21,9813
+ARK,"Arkadelphia, Arkansas",N,Platform with Shelter,798 South 5th Street,,Arkadelphia,AR,71923-6237,United States,Central,C,"34.113919,-93.053284",192,10475
+ARN,"Auburn, California",N,Platform with Shelter,277 Nevada Street,at Fulweiler Street,Auburn,CA,95603,United States,Pacific,P,"38.903638,-121.083187",1271,13000
+ART,"Astoria (Transit Center), Oregon",N,Curbside Bus Stop only (no shelter),900 Marine Drive,Astoria Transit Center,Astoria,OR,97103,United States,Pacific Northwest,P,"46.190210,-123.833290",10,
+ASD,"Ashland, Virginia",N,Platform with Shelter,112 North Railroad Avenue,,Ashland,VA,23005,United States,Mid-Atlantic,E,"37.759596,-77.481304",212,5800
+AST,"Aldershot, Ontario",Y,Station Building (with waiting room),1199 Waterdown Road,,Aldershot,ON,L7T 4A8,Canada,VIA Rail Canada Inc.,E,"43.313413,-79.855712",351,3868
+ATA,"Atascadero, California",N,Curbside Bus Stop only (no shelter),6904 El Camino Real,Atascadero Transit stop ,Atascadero,CA,93422,United States,Pacific,P,"35.487255,-120.666534",855,20000
+ATI,"Athol, Idaho",N,Curbside Bus Stop only (no shelter),29801 US Highway 95,Cydco Cenex Gas Station,Athol,ID,83801,United States,Pacific Northwest,P,"47.947193,-116.699808",2405,
+ATL,"Atlanta, Georgia",Y,Station Building (with waiting room),"1688 Peachtree Street, NW",,Atlanta,GA,30309,United States,Southern,E,"33.799445,-84.392477",889,4000000
+ATN,"Anniston, Alabama",N,Station Building (with waiting room),126 West 4th Street,,Anniston,AL,36201,United States,Southern,C,"33.649112,-85.832145",677,24052
+ATO,"Atco, New Jersey",N,Platform with Shelter,Cooper Road and Raritan Avenue,New Jersey Transit Station,Atco,NJ,08004,United States,Northeast,E,"39.783504,-74.907893",159,14300
+AUS,"Austin, Texas",Y,Station Building (with waiting room),250 North Lamar Boulevard,,Austin,TX,78703,United States,Southwest,C,"30.269449,-97.756940",463,644000
+BAG,Baggage,,Pseudo Station,,,,,,,,,"null,null",,
+BAK,"Baker City, Oregon",N,Station Building (with waiting room),515 Campbell Street,Baker Truck Corral / TRUKORP,Baker City,OR,97814,United States,Pacific Northwest,P,"44.781551,-117.813137",3432,9000
+BAL,"Baltimore (Penn Station), Maryland",Y,Station Building (with waiting room),1500 North Charles Street,Penn Station,Baltimore,MD,21201-5815,United States,Mid-Atlantic,E,"39.307302,-76.615688",70,651000
+BAM,"Bangor, Michigan",N,Station Building (with waiting room),541 Railroad Street,,Bangor,MI,49013-1464,United States,Central,E,"42.314519,-86.111646",655,1889
+BAN,"Bangor, Maine",N,Station Building (with waiting room),1039 Union Street,Bangor Transportation Center,Bangor,ME,04401-3011,United States,Northeast,E,"44.816614,-68.808747",151,31008
+BAR,"Barstow (Amtrak), California",N,Platform with Shelter,685 North First Avenue,,Barstow,CA,92311,United States,Southwest,P,"34.904820,-117.025435",2105,23628
+BAT,"Bath, Maine",N,Curbside Bus Stop only (no shelter),10 State Road,"Mail It 4 U - Suite 9, Coastal Plaza",Bath,ME,04530-6018,United States,Northeast,E,"43.906147,-69.830947",32,9184
+BAV,"Barnesville, Maryland",,Pseudo Station,8 Beallsville Road,MARC Station,Barnesville,MD,20841,United States,MARC,E,"null,null",,
+BBS,"Barstow (Bus), California",N,Curbside Bus Stop only (no shelter),1611 East Main Street,,Barstow,CA,92311-3239,United States,Southwest,P,"34.891277,-116.998434",2106,23628
+BBY,"Boston (Back Bay), Massachusetts",Y,Station Building (with waiting room),145 Dartmouth Street,,Boston,MA,02116-5162,United States,Northeast,E,"42.347317,-71.075828",20,641000
+BCA,"Baltimore (Camden Station), Maryland",,Pseudo Station,301 West Camden Street,MARC Station,Baltimore,MD,21230,United States,MARC,E,"null,null",,
+BCV,"Burke Centre, Virginia",N,Platform with Shelter,10399 Premier Court,Virginia Railway Express Station,Burke,VA,22015,United States,Mid-Atlantic,E,"38.797271,-77.298790",297,
+BCY,"Bay City, Michigan",N,Station Building (with waiting room),1124 Washington Avenue,Central Bus Terminal,Bay City,MI,48708,United States,Central,E,"43.601847,-83.886922",591,
+BDR,"Bend (Riverhouse), Oregon",N,Platform with Shelter,3075 North Business Highway 97,The Riverhouse Resort,Bend,OR,97701,United States,Pacific Northwest,P,"44.080868,-121.305716",3534,71892
+BDT,"Bradenton, Florida",N,Curbside Bus Stop only (no shelter),1113 Manatee Avenue West,Manatee County Courthouse,Bradenton,FL,34205-7803,United States,Southern,E,"27.495234,-82.573385",14,53662
+BED,"Bend (Bus Station), Oregon",N,Station Building (with waiting room),1555 NE Forbes Road,at Lava Lanes Bowling Alley,Bend,OR,97701,United States,Pacific Northwest,P,"44.055598,-121.282490",3664,71892
+BEL,"Bellingham, Washington",Y,Station Building (with waiting room),401 Harris Avenue,,Bellingham,WA,98225,United States,Pacific Northwest,P,"48.720263,-122.511255",13,80000
+BEN,"Benson, Arizona",N,Platform with Shelter,105 East 4th Street,,Benson,AZ,85602-6611,United States,Southwest,M,"31.968758,-110.296904",3589,4890
+BER,"Berlin, Connecticut",Y,Station Building (with waiting room),51 Depot Road,,Kensington,CT,06037,United States,Northeast,E,"41.635595,-72.765274",62,15121
+BET,"South Beloit, Illinois",N,Curbside Bus Stop only (no shelter),15766 Manchester Road,McDonalds/BP Amoco Travel Plaza,South Beloit,IL,61080-9723,United States,Central,C,"42.490067,-88.989116",798,5507
+BFD,"Bakersfield, California",Y,Station Building (with waiting room),601 Truxtun Avenue,Off Truxtun Ave and S Street,Bakersfield,CA,93301-5319,United States,Pacific,P,"35.372140,-119.008210",406,240000
+BFT,"Belfast, Maine",N,Curbside Bus Stop only (no shelter),22 Belmont Avenue,Shell Station/Dead River Convenience Store,Belfast,ME,04915,United States,Northeast,E,"44.422692,-69.025984",199,6803
+BFX,"Buffalo (Exchange St), New York",Y,Station Building (with waiting room),75 Exchange Street,,Buffalo,NY,14203,United States,Northeast,E,"42.878449,-78.873748",587,315000
+BGP,"Big Rapids, Michigan",N,Curbside Bus Stop only (no shelter),14342 Northland Drive,Ferris State Fitness Center,Big Rapids,MI,49307-2373,United States,Central,E,"43.673182,-85.480951",1004,12603
+BHM,"Birmingham, Alabama",Y,Station Building (with waiting room),1819 Morris Avenue,,Birmingham,AL,35203-3109,United States,Southern,C,"33.512467,-86.807364",644,1212848
+BIN,"Berlin, New Hampshire",N,Curbside Bus Stop only (no shelter),318 Glen Avenue,Irving Station/Circle K Convenience Store,Berlin,NH,03570-1900,United States,Northeast,E,"44.459040,-71.187430",941,9954
+BKO,"Brookings, Oregon",N,Station Building (with waiting room),624 Railroad Street  ,Southwest Point Depot,Brookings,OR,97415,United States,Pacific,P,"42.050778,-124.281564",130,
+BKY,"Berkeley, California",N,Platform only (no shelter),700 University Avenue,Under University Av overpass west of 4th St,Berkeley,CA,94710-1924,United States,Pacific,P,"37.867254,-122.300707",16,101555
+BLF,"Bellows Falls, Vermont",N,Station Building (with waiting room),54 Depot Street,,Bellows Falls,VT,05101-1356,United States,Northeast,E,"43.136540,-72.444597",305,3025
+BMM,"Birmingham, Michigan",N,Platform with Shelter,Villa Road and Lewis Street,,Birmingham,MI,48009,United States,Central,E,"42.545509,-83.194198",750,19185
+BMT,"Beaumont, Texas",N,Platform only (no shelter),2555 West Cedar Street,,Beaumont,TX,77704,United States,Southwest,C,"30.076458,-94.127367",15,109856
+BNC,"Burlington, North Carolina",N,Station Building (with waiting room),101 North Main Street,,Burlington,NC,27217,United States,Southern,E,"36.094225,-79.434531",662,48400
+BND,"Bend (Hawthorne Intermodal Center), Oregon",N,Curbside Bus Stop only (no shelter),334 Hawthorne Avenue,Hawthorne Station Intermodal Center,Bend,OR,97701,United States,Pacific Northwest,P,"44.058220,-121.301266",3646,71892
+BNF,"Branford, Connecticut",,Pseudo Station,39 Maple Street,,Branford,CT,06405,United States,Shore Line East,E,"null,null",,
+BNG,"Bingen-White Salmon, Washington",N,Platform with Shelter,Highway 14 and Walnut Street,,Bingen,WA,98605,United States,Pacific Northwest,P,"45.715020,-121.468730",115,500
+BNL,"Bloomington-Normal, Illinois",Y,Station Building (with waiting room),100 East Parkinson Street,,Normal,IL,61761-3015,United States,Central,C,"40.508192,-88.984093",788,100000
+BNS,"Burns, Oregon",N,Curbside Bus Stop only (no shelter),63 North Buena Vista,Figaro's Italian Kitchen,Burns,OR,97720,United States,Pacific Northwest,P,"43.586545,-119.056491",4154,2745
+BOI,"Boise, Idaho",N,Station Building (with waiting room),1212 West Bannock Street,Greyhound Station,Boise,ID,83702-5619,United States,Pacific Northwest,P,"43.619899,-116.207169",2696,163000
+BON,"Boston (North Station), Massachusetts",Y,Station Building (with waiting room),135 Causeway Street,Under the TD Garden,Boston,MA,02114,United States,Northeast,E,"42.366235,-71.061122",10,641071
+BOS,"Boston (South Station), Massachusetts",Y,Station Building (with waiting room),2 South Station,Summer Street & Atlantic Avenue,Boston,MA,02110,United States,Northeast,E,"42.352311,-71.055304",14,641071
+BRA,"Brattleboro, Vermont",N,Station Building (with waiting room),10 Vernon Road,,Brattleboro,VT,05301-3389,United States,Northeast,E,"42.850849,-72.556497",235,8289
+BRH,"Brookhaven, Mississippi",N,Station Building (with waiting room),440 North Railroad Avenue,Godbold Transportation Center,Brookhaven,MS,39601-3839,United States,Southern,C,"31.582961,-90.441070",484,9983
+BRK,"Brunswick, Maine",N,Curbside Bus Stop only (no shelter),16 Station Avenue,Brunswick Visitors' Center,Brunswick,ME,04011,United States,Northeast,E,"43.911388,-69.965541",131,14816
+BRL,"Burlington, Iowa",N,Station Building (with waiting room),300 South Main Street,,Burlington,IA,52601,United States,Central,C,"40.805788,-91.101951",538,27208
+BRO,"Browning, Montana",N,Station Building (with waiting room),Heart Butte Road and Depot Road,,Browning,MT,59417,United States,Pacific Northwest,M,"48.534067,-113.013151",4484,1065
+BRP,"Bridgeport, Connecticut",N,Station Building (with waiting room),525 Water Street,Metro North Station,Bridgeport,CT,06604-4315,United States,Northeast,E,"41.178006,-73.187539",37,142546
+BTL,"Battle Creek, Michigan",Y,Station Building (with waiting room),119 McCamly Street South,,Battle Creek,MI,49017-3521,United States,Central,E,"42.318453,-85.187825",822,92144
+BTR,"Baton Rouge, Louisiana",N,Curbside Bus Stop only (no shelter),1253 Florida Boulevard,Greyhound Bus Station,Baton Rouge,LA,70802,United States,Southern,C,"30.449741,-91.176374",53,229553
+BUF,"Buffalo-Depew, New York",Y,Station Building (with waiting room),55 Dick Road,,Depew,NY,14043,United States,Northeast,E,"42.907017,-78.726584",674,313000
+BUL,"Buellton, California",N,Curbside Bus Stop only (no shelter),238 East Highway 246,Burger King Restaurant,Buellton,CA,93427,United States,Pacific,P,"34.610660,-120.186595",358,4278
+BUR,"Burbank (Airport), California",N,Platform with Shelter,3750 Empire Avenue,,Burbank,CA,91505,United States,Southwest,P,"34.193072,-118.353767",689,95000
+BVD,"Beaver Dam, Wisconsin",N,Curbside Bus Stop only (no shelter),817 Park Avenue,Crossroads Shell Station,Beaver Dam,WI,53916,United States,Central,C,"43.456040,-88.816942",891,
+BWC,"Brunswick (Bowdoin College), Maine",N,Curbside Bus Stop only (no shelter),"Campus Bus Stop at Druckenmiller Hall, Sills Road",,Brunswick,ME,04011,United States,Northeast,E,"43.909295,-69.959306",72,14816
+BWE,"Bowie State, Maryland",,Pseudo Station,13900 Old Jericho Park Road,MARC Station - Bowie State University,Bowie,MD,20715,,MARC,E,"null,null",,
+BWI,"BWI Thurgood Marshall Airport Station, Maryland",Y,Station Building (with waiting room),7 Amtrak Way,Amtrak/MARC Station,BWI Airport,MD,21240-0642,United States,Mid-Atlantic,E,"39.192362,-76.694300",63,50000
+BWK,"Brunswick, Maryland",,Pseudo Station,100 South Maple Ave.,MARC Station,Brunswick,MD,21716-1147,United States,MARC,E,"null,null",,
+BWW,"Brewster, Washington",N,Curbside Bus Stop only (no shelter),405 Highway 97,Triangle Shell ,Brewster,WA,98812,United States,Pacific,P,"48.103585,-119.781412",815,2600
+BYD,"Boyds, Maryland",,Pseudo Station,15031 Clopper Road,MARC Station,Boyds,MD,20841,United States,MARC,E,"null,null",,
+BYF,"Boyne Falls, Michigan",N,Curbside Bus Stop only (no shelter),2568 US Hwy 131 South,Mobil EZ Mart,Boyne Falls,MI,49713,United States,Central,E,"45.167539,-84.916986",710,340
+BYN,"Bryan, Ohio",N,Station Building (with waiting room),Paige and Lynn Street,,Bryan,OH,43506,United States,Central,E,"41.480319,-84.551799",769,8348
+CAL,California Rail Pass,,Pseudo Station,,,,,,,,,"null,null",,
+CAM,"Camden, South Carolina",N,Station Building (with waiting room),1060 West Dekalb Street,,Camden,SC,29020,United States,Southern,E,"34.248157,-80.625190",174,6700
+CAY,"Conway, New Hampshire",N,Curbside Bus Stop only (no shelter),13 West Main Street,First Stop Market & Deli,Conway,NH,03818,United States,Northeast,E,"43.978298,-71.126573",460,1692
+CBN,Canadian Border New York,,Pseudo Station,,,,,,,,E,"43.109235,-79.058357",299,
+CBO,"Cannon Beach, Oregon",N,Curbside Bus Stop only (no shelter),1170 South Hemlock Street,Sunset Empire Bus Stop across from Family Mkt,Cannon Beach,OR,97110,United States,Pacific Northwest,P,"45.889496,-123.961842",30,1500
+CBR,"Cleburne, Texas",N,Station Building (with waiting room),206 North Border Street,Cleburne Intermodal Depot,Cleburne,TX,76031-4236,United States,Southwest,C,"32.349743,-97.382333",764,29689
+CBS,"Columbus, Wisconsin",Y,Station Building (with waiting room),359 North Ludington Street,,Columbus,WI,53925,United States,Central,C,"43.340611,-89.012609",845,5093
+CBY,"Coos Bay, Oregon",N,Curbside Bus Stop only (no shelter),126 East Market Avenue,Porter Stage Lines Bus Station,Coos Bay,OR,97420-2335,United States,Pacific Northwest,P,"43.369039,-124.213694",23,16000
+CBZ,"Cabazon, California",N,Curbside Bus Stop only (no shelter),49500 Seminole Drive,"Morongo Casino, Hotel & Spa",Cabazon,CA,92230,United States,Southwest,P,"33.921822,-116.801756",1953,
+CDE,"Cambridge, Maryland",N,Curbside Bus Stop only (no shelter),100 Heron Boulevard,Hyatt Regency Chesapeake Bay Resort,Cambridge,MD,21613,United States,Mid-Atlantic,E,"38.561752,-76.048392",28,
+CDL,"Carbondale, Illinois",Y,Station Building (with waiting room),401 South Illinois Street,,Carbondale,IL,62901,United States,Central,C,"37.724235,-89.216628",416,20681
+CDN,"Camden/Rockport, Maine",N,Curbside Bus Stop only (no shelter),20 Commercial Street,Maritime Farms,Rockport,ME,04856,United States,Northeast,E,"44.199095,-69.078634",123,3934
+CEN,"Centralia, Illinois",N,Station Building (with waiting room),110 South Oak St.,at Broadway,Centralia,IL,62801-3526,United States,Central,C,"38.527531,-89.136118",490,15000
+CER,"Coeur d'Alene, Idaho",N,Curbside Bus Stop only (no shelter),356 East Appleway Avenue,A&D Gas Station and Mini Mart,Coeur d'Alene,ID,83814,United States,Pacific Northwest,P,"47.701388,-116.808586",2208,
+CFX,"Colfax, Washington",N,Curbside Bus Stop only (no shelter),610 South Main St.,Ace Hardware,Colfax,WA,99111,United States,Pacific Northwest,P,"46.875679,-117.365156",1989,
+CHG,Charge,,Pseudo Station,,,,,,,,,"null,null",,
+CHI,"Chicago (Union Station), Illinois",Y,Station Building (with waiting room),225 South Canal Street,,Chicago,IL,60606-5702,United States,Central,C,"41.878684,-87.639443",587,2833321
+CHM,"Champaign-Urbana, Illinois",Y,Station Building (with waiting room),45 East University Avenue,2nd floor,Champaign,IL,61820-4046,United States,Central,C,"40.115843,-88.241366",737,73685
+CHP,"Chippewa Falls, Wisconsin",N,Curbside Bus Stop only (no shelter),2750 120th Street,Holiday Gas Station,Chippewa Falls,WI,54729,United States,Central,C,"44.883096,-91.427794",903,
+CHS,"Charleston, South Carolina",Y,Station Building (with waiting room),4565 Gaynor Avenue,,North Charleston,SC,29405,United States,Southern,E,"32.874866,-79.998002",20,549000
+CHW,"Charleston, West Virginia",Y,Station Building (with waiting room),350 MacCorkle Avenue - Southeast,(adjacent to South Side Bridge),Charleston,WV,25314,United States,Mid-Atlantic,E,"38.346368,-81.638494",606,51846
+CIC,"Chico, California",N,Platform only (no shelter),450 Orange Street,West 5th and Orange Streets,Chico,CA,95928-4602,United States,Pacific,P,"39.723259,-121.845861",188,35000
+CIN,"Cincinnati, Ohio",Y,Station Building (with waiting room),1301 Western Avenue,Cincinnati Union Terminal,Cincinnati,OH,45203-1130,United States,Central,E,"39.109927,-84.537061",503,551891
+CLA,"Claremont, New Hampshire",N,Platform only (no shelter),Plains Road and Maple Avenue,,Claremont,NH,03743,United States,Northeast,E,"43.368330,-72.377644",466,13264
+CLB,"Columbia, South Carolina",Y,Station Building (with waiting room),850 Pulaski Street,,Columbia,SC,29201,United States,Southern,E,"33.994297,-81.040490",193,113542
+CLC,"Cadillac, Michigan",N,Curbside Bus Stop only (no shelter),951 Casa Road,Wexford Transit Office,Cadillac,MI,49601-8624,United States,Central,E,"44.270402,-85.389748",1318,10300
+CLE,"Cleveland, Ohio",Y,Station Building (with waiting room),200 Cleveland Memorial Shoreway,,Cleveland,OH,44114,United States,Central,E,"41.505787,-81.696172",594,573822
+CLF,"Clifton Forge, Virginia",N,Station Building (with waiting room),307 East Ridgeway Street,CSX Office Building,Clifton Forge,VA,24422,United States,Mid-Atlantic,E,"37.814521,-79.827363",1058,4040
+CLK,"Crater Lake, Oregon",N,Curbside Bus Stop only (no shelter),Rim Drive,Community House at Rim Village,Crater Lake,OR,97604,United States,Pacific Northwest,P,"42.910901,-122.145006",7115,
+CLM,"Claremont, California",N,Platform with Shelter,200 West First Street,Metrolink Station,Claremont,CA,91711,United States,Southwest,P,"34.094469,-117.716857",1156,110000
+CLN,"Clinton, Connecticut",,Pseudo Station,10 John Street Extension,,Clinton,CT,06413,United States,Shore Line East,E,"null,null",,
+CLP,"Culpeper, Virginia",N,Platform only (no shelter),109 South Commerce Street,,Culpeper,VA,22701,United States,Mid-Atlantic,E,"38.472360,-77.993421",415,13011
+CLT,"Charlotte, North Carolina",Y,Station Building (with waiting room),1914 North Tryon Street,,Charlotte,NC,28206,United States,Southern,E,"35.241403,-80.822812",707,630478
+CLV,"Cloverdale, California",N,Curbside Bus Stop only (no shelter),Citrus Fair Road and Asti Road,,Cloverdale,CA,95425,United States,Pacific,P,"38.798399,-123.011511",301,3989
+CML,"Camarillo, California",N,Platform only (no shelter),30 Lewis Road,,Camarillo,CA,93010,United States,Southwest,P,"34.215933,-119.034114",150,45000
+CMO,"Chemult, Oregon",N,Platform with Shelter,Palmer/Kranz Street and Depot Street,"Off Highway 97, center of town",Chemult,OR,97731,United States,Pacific Northwest,P,"43.216784,-121.781594",4764,437
+CNH,"Concord, New Hampshire",N,Station Building (with waiting room),30 Stickney Avenue,Concord Transportation Center,Concord,NH,03301-5064,United States,Northeast,E,"43.212748,-71.534677",239,42970
+CNL,"Colonel Allensworth Park, California",N,Platform only (no shelter),4011 Grant Drive,Stop for prearranged groups only,Earlimart,CA,93219,United States,Pacific,P,"35.864338,-119.385865",213,
+CNV,"Castleton, Vermont",N,Station Building (with waiting room),266 Main Street,,Castleton,VT,05735-7716,United States,Northeast,E,"43.613382,-73.171337",425,
+COC,"Corcoran, California",N,Station Building (with waiting room),1099 Otis Avenue,Otis and Whitley Avenues,Corcoran,CA,93212-2445,United States,Pacific,P,"36.098516,-119.557050",209,14458
+COI,"Connersville, Indiana",N,Platform with Shelter,1012 Eastern Avenue,,Connersville,IN,47331,United States,Central,E,"39.645969,-85.133380",833,15550
+COS,"Colorado Springs, Colorado",N,Station Building (with waiting room),120 South Weber Street,Greyhound Station,Colorado Springs,CO,80903,United States,Central,M,"38.831613,-104.820170",6002,290500
+COT,"Coatesville, Pennsylvania",N,Platform with Shelter,Third Avenue and Fleetwood Street,,Coatesville,PA,19320,United States,Mid-Atlantic,E,"39.985688,-75.820929",368,11631
+COV,"Connellsville, Pennsylvania",N,Platform with Shelter,North Water Street & West Peach Street,,Connellsville,PA,15425,United States,Mid-Atlantic,E,"40.020282,-79.592813",891,11000
+COX,"Colfax, California",N,Platform only (no shelter),99 Railroad Street at Church Street,,Colfax,CA,95713,United States,Pacific,P,"39.098874,-120.952913",2426,971
+CPK,"College Park, Maryland",,Pseudo Station,7202 Bowdoin Avenue,MARC Station,College Park,MD,20740,United States,MARC,E,"null,null",,
+CPN,"Carpinteria, California",N,Platform with Shelter,475 Linden Avenue,at Fifth Street,Carpinteria,CA,93013,United States,Southwest,P,"34.396780,-119.522975",20,14600
+CRC,"Crescent City, California",N,Curbside Bus Stop only (no shelter),1001 Front Street   ,RCT Bus Stop at Cultural Center,Crescent City,CA,95531,United States,Pacific,P,"41.752373,-124.193475",1,
+CRF,"Crawfordsville, Indiana",N,Platform with Shelter,400 North Green Street,,Crawfordsville,IN,47933,United States,Central,E,"40.044705,-86.899187",743,15243
+CRH,"Cherry Hill, New Jersey",N,Station Building (with waiting room),Cornell Avenue & West Marlton Pike,New Jersey Transit Station,Cherry Hill,NJ,08002,United States,Northeast,E,"39.928946,-75.041824",23,13238
+CRM,"Carmel, California",N,Curbside Bus Stop only (no shelter),3645 Rio Road,at Chevron Station,Carmel,CA,93923-8609,United States,Pacific,P,"36.539400,-121.909263",34,3928
+CRN,"Creston, Iowa",N,Platform with Shelter,Pine and Adams Avenue,,Creston,IA,50891,United States,Central,C,"41.056920,-94.361617",1313,8234
+CRT,"Croton Harmon, New York",N,Station Building (with waiting room),1 Croton Point Avenue,,Croton-on-Hudson,NY,10520-3054,United States,Northeast,E,"41.189903,-73.882394",6,7000
+CRV,"Carlinville, Illinois",N,Station Building (with waiting room),128 Alton Road,,Carlinville,IL,62626-1625,United States,Central,C,"39.279295,-89.889276",622,5714
+CRY,Carry-on Charge,,Pseudo Station,,,,,,,,,"null,null",,
+CSN,"Clemson, South Carolina",N,Station Building (with waiting room),Calhoun Memorial Highway and College Avenue,,Clemson,SC,29631,United States,Southern,E,"34.691115,-82.832501",721,12444
+CTL,"Centralia, Washington",Y,Station Building (with waiting room),210 Railroad Avenue,,Centralia,WA,98531,United States,Pacific Northwest,P,"46.717470,-122.953062",189,10054
+CUA,"Cumberland (Allegany College), Maryland",N,Curbside Bus Stop only (no shelter),12401 Willowbrook Road SE,Allegany College Ctr for Continuing Education,Cumberland,MD,21502,United States,Mid-Atlantic,E,"39.650452,-78.730438",659,30000
+CUM,"Cumberland (Amtrak Station), Maryland",N,Station Building (with waiting room),201 East Harrison Street,,Cumberland,MD,21502,United States,Mid-Atlantic,E,"39.650628,-78.758000",643,30000
+CUT,"Cut Bank, Montana",N,Station Building (with waiting room),101 BNSF Industrial Site,Off Central Avenue/Highway 213,Cut Bank,MT,59427-2934,United States,Pacific Northwest,M,"48.638364,-112.331584",3754,3105
+CVD,"Camp Verde, Arizona",N,Curbside Bus Stop only (no shelter),365 North Goswick,Burger King # 7165,Camp Verde,AZ,86322-5201,United States,Southwest,M,"34.574530,-111.882742",3187,10610
+CVI,"Corvallis, Oregon",N,Station Building (with waiting room),153 NW 4th Avenue,Greyhound Station,Corvallis,OR,97330,United States,Pacific Northwest,P,"44.565432,-123.261389",232,49807
+CVJ,"Cave Junction, Oregon",N,Curbside Bus Stop only (no shelter),406 Redwood Coast Highway,Junction Inn,Cave Junction,OR,97523,United States,Pacific,P,"42.163002,-123.647000",1335,
+CVL,"Colville, Washington",N,Curbside Bus Stop only (no shelter),956 South Main Street,Rural Resources Community Action,Colville,WA,99114,United States,Pacific Northwest,P,"48.535879,-117.908378",1569,
+CVS,"Charlottesville, Virginia",Y,Station Building (with waiting room),810 West Main Street,,Charlottesville,VA,22903,United States,Mid-Atlantic,E,"38.031484,-78.491684",488,47049
+CWH,"Cornwells Heights, Pennsylvania",N,Platform with Shelter,700 Station Avenue,Station Avenue and Railroad Avenue,Cornwells Heights,PA,19020,United States,Northeast,E,"40.071663,-74.952187",35,3406
+CWL,"Chewelah, Washington",N,Curbside Bus Stop only (no shelter),214 East Main Avenue,Chamber of Commerce,Chewelah,WA,99109,United States,Pacific Northwest,P,"48.276184,-117.713875",1668,
+CWT,"Chatsworth, California",N,Platform with Shelter,10040 Old Depot Plaza Road,,Chatsworth,CA,91311,United States,Southwest,P,"34.253205,-118.599417",968,37225
+CYN,"Cary, North Carolina",Y,Station Building (with waiting room),211 North Academy Street,,Cary,NC,27513,United States,Southern,E,"35.788294,-78.782246",495,70000
+DAL,"Dallas, Texas",Y,Station Building (with waiting room),400 South Houston Street,Union Station,Dallas,TX,75202-4840,United States,Southwest,C,"32.776094,-96.807235",425,2000000
+DAM,"Damariscotta, Maine",N,Curbside Bus Stop only (no shelter),167 Main Street,Waltz Pharmacy,Damariscotta,ME,04543-4649,United States,Northeast,E,"44.032398,-69.531009",16,1972
+DAN,"Danville, Virginia",N,Station Building (with waiting room),677 Craghead Street,,Danville,VA,24541-1503,United States,Southern,E,"36.584090,-79.383968",428,45586
+DAV,"Davis, California",Y,Station Building (with waiting room),840 Second Street,Amtrak Passenger Station,Davis,CA,95616-4624,United States,Pacific,P,"38.543562,-121.737707",49,64401
+DBP,"Dublin-Pleasanton, California",N,Station Building (with waiting room),5801 Owens Drive,"BART Station, North side, East curb near parking structure.",Pleasanton,CA,94588-3900,United States,Pacific,P,"37.702833,-121.897697",334,41840
+DDE,"Dade City, Florida",N,Curbside Bus Stop only (no shelter),14218 US Highway 98,Highway 98/301 Truck Route,Dade City,FL,33525,United States,Southern,E,"28.364669,-82.184459",76,6987
+DDG,"Dodge City, Kansas",N,Station Building (with waiting room),Central Avenue & Wyatt Earp Street,,Dodge City,KS,67801,United States,Southwest,C,"37.752306,-100.016961",2490,27340
+DEB,"Denver (Bus Station), Colorado",N,Station Building (with waiting room),1055 19th Street,Greyhound Station,Denver,CO,80202,United States,Central,M,"39.750405,-104.991508",5219,2000000
+DEM,"Deming, New Mexico",N,Platform only (no shelter),400 East Railroad Avenue,,Deming,NM,88030,United States,Southwest,M,"32.271770,-107.754346",4338,15296
+DEN,"Denver, Colorado",Y,Station Building (with waiting room),1800 21st Street,Denver Temporary Station,Denver,CO,80202,United States,Central,M,"39.757120,-104.996859",5181,467610
+DER,"Dearborn, Michigan",Y,Station Building (with waiting room),16121 Michigan Avenue,,Dearborn,MI,48126,United States,Central,E,"42.312406,-83.198735",595,92382
+DET,"Detroit, Michigan",Y,Station Building (with waiting room),11 West Baltimore Avenue,,Detroit,MI,48202,United States,Central,E,"42.368097,-83.072397",632,871121
+DFB,"Deerfield Beach, Florida",Y,Station Building (with waiting room),1300 West Hillsboro Boulevard,,Deerfield Beach,FL,33442,United States,Southern,E,"26.317069,-80.122147",8,64583
+DHM,"Durham, New Hampshire",N,Station Building (with waiting room),3 Depot Road,University of New Hampshire campus,Durham,NH,03824-1909,United States,Northeast,E,"43.139328,-70.936013",79,9050
+DIL,"Dillon, South Carolina",N,Station Building (with waiting room),100 North Railroad Avenue,,Dillon,SC,29536,United States,Southern,E,"34.417647,-79.372301",115,32300
+DKS,"Dickerson, Maryland",,Pseudo Station,22211 Mt. Ephraim Road,MARC Station,Dickerson,MD,20842,United States,MARC,E,"null,null",,
+DLB,"Delray Beach, Florida",N,Platform with Shelter,345 South Congress Avenue,,Delray Beach,FL,33444,United States,Southern,E,"26.454021,-80.091154",18,60200
+DLD,"Deland, Florida",Y,Station Building (with waiting room),2491 Old New York Avenue,,Deland,FL,32720-2808,United States,Southern,E,"29.017849,-81.352477",26,31828
+DLK,"Detroit Lakes, Minnesota",N,Station Building (with waiting room),116 Pioneer Street,,Detroit Lakes,MN,56501,United States,Central,C,"46.819692,-95.845998",1363,8141
+DNC,"Durham, North Carolina",Y,Station Building (with waiting room),601 West Main Street,Suite 103,Durham,NC,27701-2887,United States,Southern,E,"35.997240,-78.907129",400,200000
+DNK,"Denmark, South Carolina",N,Station Building (with waiting room),200 West Baruch Street,,Denmark,SC,29042,United States,Southern,E,"33.326184,-81.143635",248,7000
+DOA,"Dowagiac, Michigan",N,Station Building (with waiting room),200 Depot Drive,,Dowagiac,MI,49047-1448,United States,Central,E,"41.980941,-86.109041",767,6589
+DOV,"Dover, New Hampshire",N,Station Building (with waiting room),33 Chestnut Street,,Dover,NH,03820-3327,United States,Northeast,E,"43.197968,-70.878361",70,28422
+DOW,"Downingtown, Pennsylvania",N,Platform with Shelter,West Lancaster Avenue and Stuart Avenue,,Downingtown,PA,19335,United States,Mid-Atlantic,E,"40.002193,-75.710775",260,7885
+DPK,"Deer Park, Washington",N,Curbside Bus Stop only (no shelter),810 South Main Street,Yoke's Supermarket,Deer Park,WA,99006,United States,Pacific Northwest,P,"47.946460,-117.477161",2104,
+DQN,"Du Quoin, Illinois",N,Station Building (with waiting room),20 North Chestnut Street,,Du Quoin,IL,62832-1602,United States,Central,C,"38.012328,-89.240254",464,6427
+DRD,"Durand, Michigan",N,Station Building (with waiting room),200 South Railroad Street,,Durand,MI,48429-1713,United States,Central,E,"42.909495,-83.982320",795,3678
+DRS,"Dorsey, Maryland",,Pseudo Station,7000 Route 100,MARC Station,Elkridge,MD,21075,United States,MARC,E,"null,null",,
+DRT,"Del Rio, Texas",N,Station Building (with waiting room),100 North Main Street,,Del Rio,TX,78840,United States,Southwest,C,"29.362202,-100.902662",962,37500
+DUF,"Duffields, West Virginia",,Pseudo Station,5057 Flowing Springs Road,MARC Station,Duffields,WV,25414,United States,MARC,E,"null,null",,
+DUK,"Dunkirk, New York",N,Curbside Bus Stop only (no shelter),411 Central Avenue,P&G Foods,Dunkirk,NY,14048,United States,Northeast,E,"42.482505,-79.334392",600,12300
+DUL,"Duluth (Greyhound Station), Minnesota",N,Station Building (with waiting room),4426 Grand Avenue,Greyhound Terminal,Duluth,MN,55806,United States,Central,C,"46.746990,-92.157508",634,85000
+DUN,"Dunsmuir, California",N,Station Building (with waiting room),5750 Sacramento Avenue,Amtrak Passenger Station,Dunsmuir,CA,96025-2024,United States,Pacific,P,"41.211127,-122.270587",2307,1836
+DUU,"Duluth (University of Minnesota), Minnesota",N,Curbside Bus Stop only (no shelter),175 Kirby Student Union,,Duluth,MN,55812,United States,Central,C,"46.817841,-92.086097",1108,85000
+DVI,"Danville, Illinois",N,Curbside Bus Stop only (no shelter),379 Lynch Road,BP Amoco Station,Danville,IL,61834-9378,United States,Central,C,"40.122053,-87.540521",659,32760
+DVL,"Devils Lake, North Dakota",N,Station Building (with waiting room),Railroad Avenue and Third Street,,Devils Lake,ND,58301,United States,Central,C,"48.110468,-98.861372",1467,6708
+DVP,"Davenport, Iowa",N,Station Building (with waiting room),304 West River Drive,Ground Transportation Center,Davenport,IA,52801,United States,Central,C,"41.520750,-90.577911",565,99514
+DVR,"Dover, Delaware",N,Station Building (with waiting room),716 South Governors Avenue,Greyhound Station,Dover,DE,19904-4106,United States,Mid-Atlantic,E,"39.149713,-75.525174",30,34735
+DWT,"Dwight, Illinois",N,Station Building (with waiting room),119 West Main Street,,Dwight,IL,60420-1321,United States,Central,C,"41.092981,-88.427884",634,4500
+DYA,"Daytona Beach, Florida",N,Curbside Bus Stop only (no shelter),100 North Atlantic Avenue,Hilton Daytona Beach Ocean Walk Village,Daytona Beach,FL,32118-4273,United States,Southern,E,"29.228923,-81.008922",18,64183
+DYE,"Dyer, Indiana",N,Platform with Shelter,913 Sheffield Avenue,,Dyer,IN,46311,United States,Central,C,"41.515413,-87.518076",624,10923
+EDG,"Edgewood, Maryland",,Pseudo Station,2127 Old Edgewood Road,MARC Station,Edgewood,MD,21040,United States,MARC,E,"null,null",,
+EDM,"Edmonds, Washington",Y,Station Building (with waiting room),211 Railroad Avenue,,Edmonds,WA,98020-4132,United States,Pacific Northwest,P,"47.811081,-122.384141",9,32000
+EFG,"Effingham, Illinois",N,Station Building (with waiting room),401 West National Avenue,,Effingham,IL,62401-3772,United States,Central,C,"39.117059,-88.547110",594,34000
+EGH,"Egg Harbor City, New Jersey",N,Platform with Shelter,South Philadelphia Avenue & Atlantic Avenue,New Jersey Transit Station,Egg Harbor City,NJ,08215,United States,Northeast,E,"39.526494,-74.648020",59,4454
+EKA,"Eureka, California",N,Curbside Bus Stop only (no shelter),6th and C Streets,Bus stop behind Denny's,Eureka,CA,95501,United States,Pacific,P,"40.800739,-124.169330",20,25700
+EKG,"Elk Grove, California",N,Curbside Bus Stop only (no shelter),9180 Harbour Point Drive,e-tran transit stop in front of Kelly's exp carwash,Elk Grove,CA,95758,United States,Pacific,P,"38.424746,-121.480807",17,59854
+EKH,"Elkhart, Indiana",N,Station Building (with waiting room),131 Tyler Avenue,,Elkhart,IN,46515,United States,Central,E,"41.680748,-85.971848",752,43627
+ELK,"Elko, Nevada",N,Platform with Shelter,1300 Water Street (Train 5),1301 Sharps Access Road (Train 6),Elko,NV,89801,United States,Pacific,P,"40.836483,-115.750530",5063,21500
+ELP,"El Paso, Texas",Y,Station Building (with waiting room),700 West San Francisco Avenue,,El Paso,TX,79901,United States,Southwest,M,"31.757346,-106.495644",3724,609415
+ELS,"Elsie, Oregon",N,Curbside Bus Stop only (no shelter),43128 US Highway 26,Oney's Roadhouse,Elsie,OR,97138-6162,United States,Pacific Northwest,P,"45.867040,-123.596050",450,1200
+ELT,"Elizabethtown, Pennsylvania",N,Station Building (with waiting room),50 South Wilson Avenue ,,Elizabethtown,PA,17022,United States,Mid-Atlantic,E,"40.147028,-76.612234",481,11897
+ELY,"Elyria, Ohio",N,Station Building (with waiting room),410 East River Road,,Elyria,OH,44035,United States,Central,E,"41.370033,-82.096685",728,56746
+EMI,"Escanaba, Michigan",N,Curbside Bus Stop only (no shelter),2901 27th Avenue North,Delta Area Transit Authority bus stop,Escanaba,MI,49829,United States,Central,E,"45.779858,-87.089868",630,12575
+EMY,"Emeryville, California",Y,Station Building (with waiting room),5885 Horton Street,,Emeryville,CA,94608-2037,United States,Pacific,P,"37.840474,-122.291615",14,8751
+EPH,"Ephrata (Train), Washington",N,Platform with Shelter,90 Alder Street NW,Transportation Center,Ephrata,WA,98823-2421,United States,Pacific Northwest,P,"47.320948,-119.549267",1275,5359
+EPL,"El Portal, California",N,Curbside Bus Stop only (no shelter),11136 Highway 140,Yosemite View Lodge,El Portal,CA,95318-0169,United States,Pacific,P,"37.678454,-119.765742",2096,635
+EPR,"Ephrata (Bus), Washington",N,Curbside Bus Stop only (no shelter),1352 Basin Street SW,Shell Gas Station,Ephrata,WA,98823-2151,United States,Pacific Northwest,P,"47.306774,-119.561202",1250,
+ERI,"Erie, Pennsylvania",N,Station Building (with waiting room),125 West 14th Street,,Erie,PA,16501,United States,Northeast,E,"42.120847,-80.082444",688,110000
+ESG,"El Segundo, California",N,Curbside Bus Stop only (no shelter),700 South Douglas Street,Douglas Green Line Station,El Segundo,CA,90245,United States,Southwest,P,"33.906609,-118.383533",90,
+ESM,"Essex, Montana",N,Platform only (no shelter),290 Izaak Walton Inn Road,Izaak Walton Inn,Essex,MT,59916-9710,United States,Pacific Northwest,M,"48.275543,-113.610942",3908,10
+ESN,"Easton, Maryland",N,Curbside Bus Stop only (no shelter),29137 Newman Road,Easton Airport - Main Terminal,Easton,MD,21601,United States,Mid-Atlantic,E,"38.811393,-76.064904",70,
+ESX,"Essex Junction, Vermont",N,Station Building (with waiting room),29 Railroad Avenue,,Essex Junction,VT,05452,United States,Northeast,E,"44.492466,-73.110277",355,19264
+EUC,"Eau Claire, Wisconsin",N,Curbside Bus Stop only (no shelter),South Farwell St. and Main St.,Eau Claire Transit Center,Eau Claire,WI,54701,United States,Central,C,"44.810351,-91.498003",786,56161
+EUG,"Eugene, Oregon",Y,Station Building (with waiting room),433 Willamette Street,,Eugene,OR,97401-2613,United States,Pacific Northwest,P,"44.055043,-123.092361",429,146356
+EUO,"Eugene (University of Oregon), Oregon",N,Curbside Bus Stop only (no shelter),1320 East 15th Avenue,Across from Student Recreation Center,Eugene,OR,97402,United States,Pacific Northwest,P,"44.043375,-123.074349",464,146356
+EVR,"Everett, Washington",Y,Station Building (with waiting room),3201 Smith Avenue,,Everett,WA,98201,United States,Pacific Northwest,P,"47.975401,-122.197858",60,82500
+EWR,"Newark Liberty International Airport, New Jersey",Y,Station Building (with waiting room),Newark Liberty International Airport,AirTrain from main airport terminal,Newark,NJ,07114-3401,United States,Northeast,E,"40.696618,-74.182290",9,281402
+EXC,Exchange,,Pseudo Station,,,,,,,,,"null,null",,
+EXP,Express,,Pseudo Station,,,,,,,,,"null,null",,
+EXR,"Exeter, New Hampshire",N,Platform with Shelter,60 Lincoln Street,Lincoln Street at Railroad Avenue,Exeter,NH,03833,United States,Northeast,E,"42.981020,-70.958700",52,10500
+EXT,"Exton, Pennsylvania",N,Platform with Shelter,425 Walkertown Road,US 30/Route 100 (Pottstown Pike) interchange,Exton,PA,19341,United States,Mid-Atlantic,E,"40.019291,-75.621713",385,4267
+FAR,"Fargo, North Dakota",Y,Station Building (with waiting room),420 4th Street North,,Fargo,ND,58102,United States,Central,C,"46.880982,-96.785372",902,93531
+FAY,"Fayetteville, North Carolina",Y,Station Building (with waiting room),472 Hay Street,,Fayetteville,NC,28301-5563,United States,Southern,E,"35.054993,-78.884788",102,77800
+FBG,"Fredericksburg, Virginia",N,Platform with Shelter,200 Lafayette Boulevard,,Fredericksburg,VA,22401-6067,United States,Mid-Atlantic,E,"38.298413,-77.457203",47,190000
+FDL,"Fond du Lac, Wisconsin",N,Curbside Bus Stop only (no shelter),976 South Main Street,Mobil Station,Fond du Lac,WI,54935-4705,United States,Central,C,"43.752309,-88.450764",791,42341
+FDN,"Fredonia, New York",N,Curbside Bus Stop only (no shelter),1 State University of New York,William Center Student Union,Fredonia,NY,14063,United States,Northeast,E,"42.450680,-79.339726",681,11127
+FED,"Fort Edward-Glens Falls, New York",N,Platform only (no shelter),70 East Street,East and Rogers Streets,Fort Edward,NY,12828,United States,Northeast,E,"43.269603,-73.580550",142,3700
+FGG,"Flagstaff (Greyhound), Arizona",N,Station Building (with waiting room),880 East Butler Ave.,,Flagstaff,AZ,86001-5843,United States,Southwest,M,"35.192292,-111.638801",6895,58213
+FHD,"Fort Hood, Texas",N,Curbside Bus Stop only (no shelter),"Building 18010, 48th Street",Copeland Soldier's Service Center,Fort Hood,TX,76544,United States,Southwest,C,"31.141597,-97.766812",949,33700
+FIL,"Fillmore, California",N,Curbside Bus Stop only (no shelter),718 West Ventura Street,International House of Pancakes,Fillmore,CA,93015-1835,United States,Southwest,P,"34.396009,-118.918319",437,9602
+FIN,Group Final,,Pseudo Station,,,,,,,,,"null,null",,
+FLG,"Flagstaff, Arizona",Y,Station Building (with waiting room),1 East Route 66,,Flagstaff,AZ,86001-5530,United States,Southwest,M,"35.197374,-111.648871",6904,50700
+FLN,"Flint, Michigan",Y,Station Building (with waiting room),1407 South Dort Highway,,Flint,MI,48503-2878,United States,Central,E,"43.015425,-83.651728",759,430700
+FLO,"Florence, South Carolina",Y,Station Building (with waiting room),805 East Day Street,,Florence,SC,29506,United States,Southern,E,"34.199157,-79.757056",142,65000
+FMD,"Fort Madison, Iowa",Y,Station Building (with waiting room),1601 20th Street,,Fort Madison,IA,52627,United States,Central,C,"40.622591,-91.336983",523,10916
+FMG,"Fort Morgan, Colorado",N,Station Building (with waiting room),South Ensign Street and Main Street,,Fort Morgan,CO,80701,United States,Central,M,"40.247169,-103.802818",4331,11000
+FMT,"Fremont (Capitol Trains), California",N,Station Building (with waiting room),37260 Fremont Boulevard,,Fremont,CA,94536,United States,Pacific,P,"37.559093,-122.007496",58,201961
+FNO,"Fresno, California",Y,Station Building (with waiting room),2650 Tulare Street,Santa Fe Station,Fresno,CA,93721-1325,United States,Pacific,P,"36.738457,-119.782926",295,466714
+FOX,"Foxwoods Casino, Connecticut",N,Curbside Bus Stop only (no shelter),39 Norwich Westerley Road,Foxwoods Resort Casino,Ledyard,CT,06339-1128,United States,Northeast,E,"41.472320,-71.959227",190,
+FRA,"Framingham, Massachusetts",N,Platform with Shelter,417 Waverly Street,Intersection Route 126 at Route 135,Framingham,MA,01702-6948,United States,Northeast,E,"42.276688,-71.417465",165,35000
+FRC,"Frederick (Transit Center), Maryland",N,Station Building (with waiting room),100 South East Street,Frederick Transit Center/MARC Station,Frederick,MD,21704,United States,Mid-Atlantic,E,"39.411855,-77.405580",279,60000
+FRO,"Florence, Oregon",N,Curbside Bus Stop only (no shelter),290 US Highway 101,"US 101 and 2nd Street, east side",Florence,OR,97439,United States,Pacific Northwest,P,"43.968173,-124.107588",16,8122
+FRR,"Frederick (Airport), Maryland",N,Curbside Bus Stop only (no shelter),1341 Hughes Ford Road,BayRunner Shuttle Office,Frederick,MD,21705,United States,Mid-Atlantic,E,"39.416261,-77.382299",299,60000
+FRT,"Fremont (San Joaquin Buses), California",N,Curbside Bus Stop only (no shelter),42745 Mission Blvd,off I-680,Fremont,CA,94538,United States,Pacific,P,"37.539150,-121.923640",264,162800
+FSB,"Frostburg, Maryland",N,Curbside Bus Stop only (no shelter),101 Braddock Road,"Frostburg State Univ, Harold J Cordts PE Ctr",Frostburg,MD,21532,United States,Mid-Atlantic,E,"39.648900,-78.933168",1939,
+FSC,"Frisco, Colorado",N,Curbside Bus Stop only (no shelter),1010 Meadow Drive,Frisco Transfer Center,Frisco,CO,80443,United States,Central,M,"39.588416,-106.098178",9070,2500
+FTA,"Fortuna, California",N,Curbside Bus Stop only (no shelter),719 South Fortuna Blvd,Pepper's Restaurant,Fortuna,CA,95540,United States,Pacific,P,"40.583672,-124.146188",71,63300
+FTC,"Ticonderoga, New York",N,Platform with Shelter,NYS Hwy 74 and Sandy Redoubt,near Lake Champlain Ferry,Ticonderoga,NY,12883,United States,Northeast,E,"43.853788,-73.389681",117,2100
+FTL,"Fort Lauderdale, Florida",Y,Station Building (with waiting room),200 Southwest  21 Terrace,,Fort Lauderdale,FL,33312,United States,Southern,E,"26.119256,-80.170000",4,152397
+FTM,"Fort Myers, Florida",N,Curbside Bus Stop only (no shelter),6050 Plaza Drive,"Fort Myers Travel Plaza, I-75 exit 139",Fort Myers,FL,33906-4419,United States,Southern,E,"26.655312,-81.801382",18,60531
+FTN,"Fulton, Kentucky",N,Station Building (with waiting room),21 Newton Road,,Fulton,KY,42041,United States,Central,C,"36.525704,-88.888772",420,2775
+FTW,"Fort Worth, Texas",Y,Station Building (with waiting room),1001 Jones Street,,Fort Worth,TX,76102,United States,Southwest,C,"32.752563,-97.326673",601,703073
+FUL,"Fullerton, California",Y,Station Building (with waiting room),120 East Santa Fe Avenue,Fullerton Transportation Center,Fullerton,CA,92832,United States,Southwest,P,"33.868969,-117.922849",162,114000
+GAC,"Santa Clara (Great America), California",N,Platform only (no shelter),5099 Stars & Stripes Drive,Under Tasman Drive Overpass,Santa Clara,CA,95054,United States,Pacific,P,"37.406778,-121.967003",13,108518
+GAI,"Gaithersburg, Maryland",,Pseudo Station,5 South Summit Avenue,MARC Station,Gaithersburg,MD,20877,United States,MARC,E,"null,null",,
+GAS,"Gastonia, North Carolina",N,Station Building (with waiting room),350 Hancock Street,,Gastonia,NC,28054,United States,Southern,E,"35.269186,-81.162366",819,69904
+GBB,"Galesburg, Illinois",Y,Station Building (with waiting room),225 South Seminary Street,,Galesburg,IL,61401,United States,Central,C,"40.944678,-90.364106",780,31738
+GBC,"Garibaldi Highlands, British Columbia",N,Curbside Bus Stop only (no shelter),40446 Government Road,Greyhound Canada Bus Stop,Garibaldi Highlands,BC,V0N 1T0,Canada,Pacific,P,"49.741591,-123.136652",49,5966
+GBT,"Greenbelt, Maryland",,Pseudo Station,5600 Greenbelt Metro Drive,MARC/Metro Station,Greenbelt,MD,20770,,MARC,E,"null,null",,
+GBV,"Garberville, California",N,Curbside Bus Stop only (no shelter),924 Redwood Drive,Waterwheel Restaurant,Garberville,CA,95542,United States,Pacific,P,"40.097700,-123.795143",556,1200
+GBY,"Green Bay, Wisconsin",N,Station Building (with waiting room),800 Cedar Street,Greyhound Station,Green Bay,WI,54301,United States,Central,C,"44.514294,-88.004702",590,100353
+GCA,Group Car Attendant,,Pseudo Station,,,,,,,,,"null,null",,
+GCB,"Grand Canyon National Park (Buses), Arizona",N,Curbside Bus Stop only (no shelter),Maswik Lodge,,Grand Canyon National Park,AZ,86023,United States,Southwest,M,"36.053640,-112.144648",6848,1460
+GCK,"Garden City, Kansas",Y,Station Building (with waiting room),100 North 7th Street,One block south of 7th/Fulton (Bus. Hwy. 50),Garden City,KS,67846,United States,Southwest,C,"37.964365,-100.873256",2835,26665
+GCN,"Grand Canyon National Park (Railway), Arizona",N,Station Building (with waiting room),Grand Canyon Railway Station,downhill from Bright Angel Lodge,Grand Canyon National Park,AZ,86023,United States,Southwest,M,"36.056867,-112.136845",6882,1460
+GDL,"Glendale, California",N,Platform with Shelter,400 West Cerritos Avenue,Glendale Transportation Center,Glendale,CA,91204,United States,Southwest,P,"34.123706,-118.258868",434,155000
+GEM,"Germantown, Maryland",,Pseudo Station,19311 Mateny Hill Road,MARC Station,Germantown,MD,20875,United States,MARC,E,"null,null",,
+GFK,"Grand Forks, North Dakota",Y,Station Building (with waiting room),5555 DeMers Avenue,,Grand Forks,ND,58201,United States,Central,C,"47.917522,-97.110835",836,51313
+GFV,"Greenfield Village, Michigan",N,Platform with Shelter,20900 Oakwood Boulevard,Stop for prearranged groups only,Dearborn,MI,48216,United States,Central,E,"42.307458,-83.228538",598,
+GGW,"Glasgow, Montana",N,Station Building (with waiting room),424 1st  Avenue South,,Glasgow,MT,59230-2396,United States,Pacific Northwest,M,"48.194854,-106.636188",2092,3523
+GHL,"Gold Hill, Oregon",N,Curbside Bus Stop only (no shelter),868 2nd Avenue,Ray's Market,Gold Hill,OR,97525,United States,Pacific,P,"42.431980,-123.054646",1087,
+GHT,"Gearhart, Oregon",N,Curbside Bus Stop only (no shelter),"4320 Highway 101, North",Gearhart Builders Supply Store,Gearhart,OR,97301,United States,Pacific Northwest,P,"46.036616,-123.913350",42,995
+GIF,Gift Certificate,,Pseudo Station,,,,,,,,,"null,null",,
+GJT,"Grand Junction, Colorado",Y,Station Building (with waiting room),339 South 1st Street,,Grand Junction,CO,81501-2207,United States,Pacific,M,"39.064375,-108.569929",4578,45000
+GLE,"Gainesville, Texas",N,Station Building (with waiting room),605 East California Street,,Gainesville,TX,76240,United States,Southwest,C,"33.625159,-97.140896",735,16452
+GLF,Golf Bag,,Pseudo Station,,,,,,,,,"null,null",,
+GLM,"Gilman, Illinois",N,Platform with Shelter,US Highway 24 & West Wenona Street,,Gilman,IL,60983,United States,Central,C,"40.752547,-87.998055",654,1913
+GLN,"Glenview, Illinois",Y,Station Building (with waiting room),1116 Depot Street,,Glenview,IL,60025,United States,Central,C,"42.075038,-87.805562",631,46321
+GLP,"Gallup, New Mexico",N,Station Building (with waiting room),201 East Highway 66,(Amtrak shares space with Gallup Cultural Center),Gallup,NM,87301,United States,Southwest,M,"35.529176,-108.740548",6509,19000
+GLS,"Galveston (Texas Eagle Bus), Texas",N,Curbside Bus Stop only (no shelter),123 Rosenberg Street,Galveston Railroad Museum,Galveston,TX,77550,United States,Southwest,C,"29.306615,-94.796849",6,64519
+GLV,"Galveston (Sunset Limited Bus), Texas",N,Station Building (with waiting room),"3825 Broadway, Suite B",A-Z Cellular Phone/Valero Station,Galveston,TX,77550-3819,United States,Southwest,C,"29.295208,-94.809920",8,
+GLY,"Gilroy, California",N,Curbside Bus Stop only (no shelter),7250 Monterey Street,Caltrain Station,Gilroy,CA,95020,United States,Pacific,P,"37.003961,-121.566798",198,21641
+GMS,"Grimsby, Ontario",N,Platform with Shelter,Ontario Street and Drake Avenue,,Grimsby,ON,L3M 3H6,Canada,VIA Rail Canada Inc.,E,"43.195910,-79.558007",282,157983
+GNB,"Greensburg, Pennsylvania",N,Platform with Shelter,Harrison Avenue and Seton Hill Drive,,Greensburg,PA,15601,United States,Mid-Atlantic,E,"40.304986,-79.546893",1097,15870
+GNF,"Gainesville, Florida",N,Curbside Bus Stop only (no shelter),201 East University Avenue,,Gainesville,FL,32601,United States,Southern,E,"29.651852,-82.323536",175,95447
+GNS,"Gainesville, Georgia",N,Station Building (with waiting room),116 Industrial Boulevard,,Gainesville,GA,30501,United States,Southern,E,"34.288897,-83.819694",1206,33340
+GPB,Group Breakfast,,Pseudo Station,,,,,,,,,"null,null",,
+GPD,Group Dinner,,Pseudo Station,,,,,,,,,"null,null",,
+GPF,Group FedEx TBM,,Pseudo Station,,,,,,,,,"null,null",,
+GPI,Kids Trains and Meal,,Pseudo Station,,,,,,,,,"null,null",,
+GPK,"East Glacier Park, Montana",Y,Station Building (with waiting room),400 Highway 49 North,,East Glacier Park,MT,59434,United States,Pacific Northwest,M,"48.442333,-113.219523",4806,396
+GPL,Group Lunch,,Pseudo Station,,,,,,,,,"null,null",,
+GPM,"Garrett Park, Maryland",,Pseudo Station,11015 Rokeby Avenue,MARC Station,Garrett Park,MD,20852,United States,MARC,E,"null,null",,
+GPS,Group Special Meal,,Pseudo Station,,,,,,,,,"null,null",,
+GRA,"Granby, Colorado",N,Platform only (no shelter),438 Railroad Avenue,,Granby,CO,80446,United States,Central,M,"40.084188,-105.935503",7963,963
+GRI,"Green River, Utah",N,Platform only (no shelter),250 South Broadway,@ RR Tracks and Green River Avenue,Green River,UT,84525,United States,Pacific,M,"38.992039,-110.165228",4089,1500
+GRO,"Greensboro, North Carolina",Y,Station Building (with waiting room),236 East Washington Street,Galyon Transportation Center,Greensboro,NC,27401-2704,United States,Southern,E,"36.069797,-79.787080",317,236865
+GRR,"Grand Rapids, Michigan",N,Station Building (with waiting room),431 Wealthy Street SW,near Market and Wealthy Streets SW,Grand Rapids,MI,49503-4061,United States,Central,E,"42.956349,-85.678868",611,193083
+GRU,Group,,Pseudo Station,,,,,,,,,"null,null",,
+GRV,"Greenville, South Carolina",Y,Station Building (with waiting room),1120 West Washington Street,,Greenville,SC,29601,United States,Southern,E,"34.858256,-82.413486",962,57428
+GSC,"Glenwood Springs, Colorado",Y,Station Building (with waiting room),413 7th Street,,Glenwood Springs,CO,81601,United States,Central,M,"39.547903,-107.323218",5755,7700
+GSN,"Goshen Junction, California",N,Curbside Bus Stop only (no shelter),30821 Highway 99,Arco Travel Plaza,Goshen,CA,93227,United States,Pacific,P,"36.349627,-119.427663",284,24400
+GTA,"Goleta, California",N,Platform with Shelter,25 South La Patera Lane,,Goleta,CA,93117,United States,Southwest,P,"34.437729,-119.843092",42,66000
+GTP,"Grants Pass, Oregon",N,Station Building (with waiting room),460 NE Agness Avenue,Grants Pass Transportation Ctr/Greyhound Station,Grants Pass,OR,97526,United States,Pacific,P,"42.433474,-123.298315",975,20000
+GTV,"Grantsville, Maryland",N,Curbside Bus Stop only (no shelter),3000 Chestnut Ridge Road,Pilot Travel Center,Grantsville,MD,21536,United States,Mid-Atlantic,E,"39.692354,-79.100326",2693,
+GUA,"Guadalupe-Santa Maria, California",N,Station Building (with waiting room),330 Guadalupe Street,Highway 1,Guadalupe,CA,93434,United States,Southwest,P,"34.962927,-120.573410",85,5575
+GUI,"Guilford, Connecticut",,Pseudo Station,325 Old Whitfield Street,,Guilford,CT,06437,United States,Shore Line East,E,"null,null",,
+GUT,"Guthrie, Oklahoma",N,Platform only (no shelter),409 West Oklahoma Ave.,Santa Fe Depot,Guthrie,OK,73044-3150,United States,Central,C,"35.877861,-97.429698",946,
+GVB,"Grover Beach, California",N,Platform with Shelter,180 West Grand Avenue,,Grover Beach,CA,93433-1968,United States,Southwest,P,"35.121260,-120.629266",16,12500
+GVI,"Grangeville, Idaho",N,Curbside Bus Stop only (no shelter),901 West Main (Highway 95),ZIP TRIP,Grangeville,ID,83530,United States,Pacific Northwest,P,"45.927188,-116.131574",3381,3200
+GWD,"Greenwood, Mississippi",N,Station Building (with waiting room),Carrollton Avenue and East Gibson Street,,Greenwood,MS,38930,United States,Central,C,"33.517159,-90.176454",133,17590
+HAE,"Halethorpe, Maryland",,Pseudo Station,5833 Southwestern Boulevard,MARC Station,Baltimore,MD,21227,United States,MARC,E,"null,null",,
+HAG,"Hagerstown, Maryland",N,Curbside Bus Stop only (no shelter),10524 Sharpsburg Pike,Liberty Gas Station/7-Eleven Store,Hagerstown,MD,21740-1414,United States,Mid-Atlantic,E,"39.602882,-77.729935",510,
+HAM,"Hamlet, North Carolina",N,Station Building (with waiting room),2 Main Street,at Bridges St.,Hamlet,NC,28345,United States,Southern,E,"34.883663,-79.699218",310,6900
+HAR,"Harrisburg, Pennsylvania",Y,Station Building (with waiting room),4th and Chestnut Streets,,Harrisburg,PA,17101,United States,Mid-Atlantic,E,"40.262050,-76.878256",320,47164
+HAS,"Hastings, Nebraska",Y,Station Building (with waiting room),501 West First Street,,Hastings,NE,68901,United States,Central,C,"40.584276,-98.387534",1927,24000
+HAV,"Havre, Montana",Y,Station Building (with waiting room),235 Main Street,,Havre,MT,59501-3599,United States,Pacific Northwest,M,"48.554465,-109.678352",2487,9621
+HAY,"Hayward, California",N,Platform with Shelter,22555 Meekland Avenue,,Hayward,CA,94541,United States,Pacific,P,"37.665997,-122.099277",74,140606
+HAZ,"Hazlehurst, Mississippi",N,Platform with Shelter,North Ragsdale Avenue and East Conway Street,,Hazlehurst,MS,39083,United States,Southern,C,"31.861320,-90.394347",466,4374
+HBG,"Hattiesburg, Mississippi",N,Station Building (with waiting room),308 Newman Street,,Hattiesburg,MS,39401,United States,Southern,C,"31.326921,-89.286463",161,48012
+HDS,"Hudson, Wisconsin",N,Curbside Bus Stop only (no shelter),Carmichael Road and Coulee Road,Park and Ride,Hudson,WI,54016,United States,Central,C,"44.964226,-92.723127",860,
+HEA,"Healdsburg, California",N,Curbside Bus Stop only (no shelter),165 Healdsburg Avenue,Singletree Inn,Healdsburg,CA,95448-4000,United States,Pacific,P,"38.607095,-122.869554",100,7217
+HEM,"Hermann, Missouri",N,Platform with Shelter,Wharf & Gutenberg Streets,,Hermann,MO,65041,United States,Central,C,"38.707222,-91.432571",514,2751
+HER,"Helper, Utah",N,Station Building (with waiting room),1 Depot Street,,Helper,UT,84526,United States,Pacific,M,"39.684036,-110.853894",5825,3200
+HET,"Hemet (West Florida Ave), California",N,Curbside Bus Stop only (no shelter),3246 West Florida Avenue,Coco's Restaurant,Hemet,CA,92545-3622,United States,Southwest,P,"33.747509,-117.005831",1530,70136
+HFD,"Hartford, Connecticut",Y,Station Building (with waiting room),One Union Place,,Hartford,CT,06103,United States,Northeast,E,"41.768761,-72.681314",64,121800
+HFY,"Harpers Ferry, West Virginia",N,Platform with Shelter,Potomac Street & Shenandoah Street,Amtrak/MARC Station,Harpers Ferry,WV,25425,United States,Mid-Atlantic,E,"39.324452,-77.731078",293,2000
+HGD,"Huntingdon, Pennsylvania",N,Station Building (with waiting room),Fourth and Allegheny Streets,,Huntingdon,PA,16652,United States,Mid-Atlantic,E,"40.483665,-78.011780",620,7000
+HGH,"Houghton, Michigan",N,Curbside Bus Stop only (no shelter),Townsend Drive and Hubbell Street,"Michigan Tech University, Memorial Union",Houghton,MI,49931,United States,Central,E,"47.118726,-88.549630",694,7014
+HHL,"Haverhill, Massachusetts",N,Platform with Shelter,Washington Street at Railroad Square,,Haverhill,MA,01832-5418,United States,Northeast,E,"42.773297,-71.086375",45,60176
+HIN,"Hinton, West Virginia",N,Station Building (with waiting room),100 Second Avenue,Intersection of Second and Maple Avenues,Hinton,WV,25951,United States,Mid-Atlantic,E,"37.675037,-80.892232",1384,2651
+HKL,"Hinckley, Minnesota",N,Curbside Bus Stop only (no shelter),Tobies Restaurant,404 Fire Monument Road,Hinckley,MN,55037,United States,Central,C,"46.010861,-92.930370",1030,1432
+HKM,"Hancock, Michigan",N,Curbside Bus Stop only (no shelter),125 Quincy Street,Shottle Bop Liquor Store,Hancock,MI,49930,United States,Central,E,"47.126982,-88.580295",695,
+HLD,"Holdrege, Nebraska",N,Station Building (with waiting room),100 West Avenue,,Holdrege,NE,68949,United States,Central,C,"40.435926,-99.371241",2328,6000
+HMD,"Hammond, Louisiana",Y,Station Building (with waiting room),404 N.W. Railroad Avenue,,Hammond,LA,70401,United States,Southern,C,"30.507180,-90.462169",44,19134
+HMI,"Hammond-Whiting, Indiana",N,Station Building (with waiting room),1135 North Calumet Avenue,,Hammond,IN,46320-1044,United States,Central,C,"41.691155,-87.506511",588,100000
+HMT,"Hemet (Devonshire Ave), California",N,Curbside Bus Stop only (no shelter),305 East Devonshire Avenue,RTA Bus Stop at Simpson Senior Center,Hemet,CA,92543-2905,United States,Southwest,P,"33.751098,-116.969285",1596,70136
+HMW,"Homewood, Illinois",Y,Station Building (with waiting room),18015 Park Avenue,,Homewood,IL,60430,United States,Central,C,"41.562446,-87.668685",656,18700
+HNF,"Hanford, California",Y,Station Building (with waiting room),200 Santa Fe Avenue #A,,Hanford,CA,93230-4554,United States,Pacific,P,"36.326078,-119.651816",248,44100
+HNK,"Hancock, Maryland",N,Curbside Bus Stop only (no shelter),434 East Main Street,Hancock Truck Plaza,Hancock,MD,21750,United States,Mid-Atlantic,E,"39.695657,-78.153919",437,
+HOL,"Hollywood, Florida",Y,Station Building (with waiting room),3001 Hollywood Boulevard,,Hollywood,FL,33021,United States,Southern,E,"26.011641,-80.167884",5,145800
+HOM,"Holland, Michigan",N,Station Building (with waiting room),171 Lincoln Avenue,,Holland,MI,49423,United States,Central,E,"42.791096,-86.096553",609,34245
+HOO,"Hood River, Oregon",N,Curbside Bus Stop only (no shelter),114 Cascade Avenue,Adjacent to The Eyeglass Store,Hood River,OR,97031,United States,Pacific Northwest,P,"45.709658,-121.511721",121,5000
+HOS,"Houston, Texas",Y,Station Building (with waiting room),902 Washington Avenue,,Houston,TX,77002,United States,Southwest,C,"29.767245,-95.367526",43,2144491
+HPT,"High Point, North Carolina",N,Station Building (with waiting room),100 West High Avenue,,High Point,NC,27260,United States,Southern,E,"35.957128,-80.006097",921,97796
+HTN,"Hammonton, New Jersey",N,Platform with Shelter,Egg Harbor Road & Line Street,New Jersey Transit Station,Hammonton,NJ,08037,United States,Northeast,E,"39.631317,-74.799340",98,13500
+HUD,"Hudson, New York",Y,Station Building (with waiting room),69 South Front Street,,Hudson,NY,12534,United States,Northeast,E,"42.253891,-73.797729",7,35000
+HUN,"Huntington, West Virginia",Y,Station Building (with waiting room),1050 8th Avenue,,Huntington,WV,25701,United States,Mid-Atlantic,E,"38.415820,-82.439735",570,49007
+HUT,"Hutchinson, Kansas",N,Station Building (with waiting room),North Walnut Street & East 3rd Avenue,,Hutchinson,KS,67501,United States,Central,C,"38.055712,-97.931522",1530,42080
+HWC,"Howard City, Michigan",N,Curbside Bus Stop only (no shelter),130 North Ensley Street,BP Station,Howard City,MI,49329,United States,Central,E,"43.397855,-85.468933",878,1351
+IDO,"Indio, California",N,Curbside Bus Stop only (no shelter),Highway 111 and Monroe Street,Northeast Corner,Indio,CA,92201-3917,United States,Southwest,P,"33.714863,-116.233132",3,36000
+IDP,"Independence, Missouri",N,Station Building (with waiting room),600 South Grand Avenue,,Independence,MO,64050-3564,United States,Central,C,"39.086917,-94.429711",951,120000
+IND,"Indianapolis, Indiana",Y,Station Building (with waiting room),350 South Illinois Street,,Indianapolis,IN,46225-1198,United States,Central,E,"39.761984,-86.160423",706,733271
+IRV,"Irvine, California",Y,Station Building (with waiting room),15215 Barranca Parkway,Irvine Transportation Center,Irvine,CA,92618,United States,Southwest,P,"33.656771,-117.733695",265,50000
+ISE,"Isleton, California",N,Curbside Bus Stop only (no shelter),100 2nd Street,Delta Breeze Transit Stop,Isleton,CA,95641,United States,Pacific,P,"38.161723,-121.612580",6,
+JAN,"Jackson, Mississippi",Y,Station Building (with waiting room),300 West Capitol Street,,Jackson,MS,39201,United States,Southern,C,"32.300808,-90.190936",288,176614
+JAX,"Jacksonville, Florida",Y,Station Building (with waiting room),3570 Clifford Lane,,Jacksonville,FL,32209-2123,United States,Southern,E,"30.365601,-81.723893",19,794555
+JEF,"Jefferson City, Missouri",N,Station Building (with waiting room),101 Jefferson Street,,Jefferson City,MO,65101,United States,Central,C,"38.578870,-92.169906",558,39274
+JES,"Jessup, Maryland",,Pseudo Station,8 Old Jessup Road,MARC Station,Jessup,MD,20794,United States,MARC,E,"null,null",,
+JMN,"Jamestown, New York",N,Curbside Bus Stop only (no shelter),4th and Clinton Streets - temporary bus stop,"111 West 3rd Street, US News - bus co tickets",Jamestown,NY,14701,United States,Northeast,E,"42.096008,-79.242948",1367,
+JNL,"June Lake, California",N,Curbside Bus Stop only (no shelter),June Lake Loop,June Lake Ski Area Parking Lot,June Lake,CA,95529,United States,Pacific,P,"37.768016,-119.090692",7547,
+JOL,"Joliet, Illinois",Y,Station Building (with waiting room),50 East Jefferson Street,Union Station,Joliet,IL,60431,United States,Central,C,"41.524521,-88.079753",540,142702
+JSP,"Jesup, Georgia",N,Platform only (no shelter),176 Northwest Broad Street,,Jesup,GA,31545-1300,United States,Southern,E,"31.605589,-81.882173",98,12000
+JST,"Johnstown, Pennsylvania",Y,Station Building (with waiting room),47 Walnut Street,,Johnstown,PA,15901,United States,Mid-Atlantic,E,"40.329689,-78.921996",1174,42000
+JVL,"Janesville, Wisconsin",N,Station Building (with waiting room),3120 North Pontiac Drive,Bus Station,Janesville,WI,53545-0373,United States,Central,C,"42.719995,-88.988186",890,
+JXN,"Jackson, Michigan",Y,Station Building (with waiting room),501 East Michigan Avenue,,Jackson,MI,49201,United States,Central,E,"42.248113,-84.399670",931,39569
+KAL,"Kalamazoo, Michigan",Y,Station Building (with waiting room),459 North Burdick Street,,Kalamazoo,MI,49007-3669,United States,Central,E,"42.295255,-85.584018",778,218241
+KAN,"Kannapolis, North Carolina",N,Station Building (with waiting room),201 South Main Street,,Kannapolis,NC,28081,United States,Southern,E,"35.496172,-80.624928",825,40223
+KCY,"Kansas City, Missouri",Y,Station Building (with waiting room),30 West Pershing Road,"Union Station, Suite 160",Kansas City,MO,64108-2410,United States,Central,C,"39.084576,-94.585129",804,451572
+KEE,"Kewanee, Illinois",N,Platform with Shelter,210 West Third Street,Near 3rd and North Tremont Streets,Kewanee,IL,61443,United States,Central,C,"41.245765,-89.927544",851,16000
+KEL,"Kelso-Longview, Washington",N,Station Building (with waiting room),501 South First Street,,Kelso,WA,98626,United States,Pacific Northwest,P,"46.142264,-122.913016",23,22000
+KFS,"Klamath Falls, Oregon",Y,Station Building (with waiting room),1600 Oak Avenue,,Klamath Falls,OR,97601-3286,United States,Pacific Northwest,P,"42.225509,-121.771952",4104,19462
+KGC,"King City, California",N,Curbside Bus Stop only (no shelter),1350 Broadway Circle,McDonalds Restaurant - south side parking lot,King City,CA,93930-3446,United States,Pacific,P,"36.202547,-121.136344",304,5495
+KGS,"Kingsley, Michigan",N,Curbside Bus Stop only (no shelter),119 East Main Street (Hwy 113),Kingsley Laundromat,Kingsley,MI,49649,United States,Central,E,"44.584797,-85.535201",971,
+KIL,"Killeen, Texas",N,Station Building (with waiting room),200 East Avenue C,Arrow Trailways Bus Station,Killeen,TX,76541-5231,United States,Southwest,C,"31.121152,-97.728617",846,83716
+KIN,"Kingston, Rhode Island",Y,Station Building (with waiting room),1 Railroad Avenue,,West Kingston,RI,02892-1508,United States,Northeast,E,"41.483959,-71.560597",117,50000
+KIS,"Kissimmee, Florida",Y,Station Building (with waiting room),111 East Dakin Avenue,,Kissimmee,FL,34741-5723,United States,Southern,E,"28.293835,-81.404234",64,60900
+KKI,"Kankakee, Illinois",N,Station Building (with waiting room),199 South East Ave.,,Kankakee,IL,60901-3834,United States,Central,C,"41.119259,-87.865430",629,101300
+KLK,"Kalkaska, Michigan",N,Curbside Bus Stop only (no shelter),906 North Cedar St.,Arby's,Kalkaska,MI,49646-8473,United States,Central,E,"44.743685,-85.173641",1041,13497
+KNG,"Kingman, Arizona",N,Station Building (with waiting room),106 4th Street,,Kingman,AZ,86401,United States,Southwest,M,"35.188279,-114.052816",3339,10500
+KNT,"Kent Island, Maryland",N,Curbside Bus Stop only (no shelter),3206 Main Street,Hilton Garden Inn,Grasonville,MD,21638-1030,United States,Mid-Atlantic,E,"38.966498,-76.240827",4,
+KSM,"Kensington, Maryland",,Pseudo Station,10417 Howard Ave.,MARC Station,Kensington,MD,20895,United States,MARC,E,"null,null",,
+KTC,"Kettleman City, California",N,Curbside Bus Stop only (no shelter),3300 Hubert Way,I-5 & Hwy 41 (Carl's Jr Restaurant),Kettleman City,CA,93239,United States,Pacific,P,"35.988483,-119.960609",355,
+KTF,"Kettle Falls, Washington",N,Curbside Bus Stop only (no shelter),425 West Third Avenue,,Kettle Falls,WA,99141,United States,Pacific Northwest,P,"48.610370,-118.061899",1636,
+KTR,"Kingstree, South Carolina",N,Station Building (with waiting room),101 East Main St.,,Kingstree,SC,29556-3425,United States,Southern,E,"33.663882,-79.829026",48,4200
+KWD,"Kirkwood, Missouri",N,Station Building (with waiting room),110 West Argonne Drive,,Kirkwood,MO,63122-4202,United States,Central,C,"38.581067,-90.406761",637,33000
+LAB,"Latrobe, Pennsylvania",N,Platform with Shelter,329 McKinley Avenue,,Latrobe,PA,15650,United States,Mid-Atlantic,E,"40.317405,-79.385083",1005,11800
+LAE,"La Grande, Oregon",N,Station Building (with waiting room),2204 E Penn Avenue ,Greyhound Bus Station,La Grande,OR,97850,United States,Pacific Northwest,P,"45.327000,-118.077210",2766,10000
+LAF,"Lafayette, Indiana",N,Station Building (with waiting room),200 North Second Street,,Lafayette,IN,47901-1238,United States,Central,E,"40.419347,-86.895901",541,43764
+LAG,"La Grange Road, Illinois",N,Platform with Shelter,25 West Burlington Avenue,,La Grange,IL,60525,United States,Central,C,"41.815634,-87.871545",640,100000
+LAJ,"La Junta, Colorado",Y,Station Building (with waiting room),1 West First Street,,La Junta,CO,81050,United States,Southwest,M,"37.988249,-103.543576",4068,10000
+LAK,"Lakeland, Florida",Y,Station Building (with waiting room),600 East  Main Street,,Lakeland,FL,33801-5036,United States,Southern,E,"28.045603,-81.951874",183,90207
+LAN,"L'Anse, Michigan",N,Curbside Bus Stop only (no shelter),102 North Main Street,In the Mind's Eye Store,L'Anse,MI,49946,United States,Central,E,"46.758449,-88.453593",613,
+LAP,"La Plata, Missouri",N,Station Building (with waiting room),535 North Owensby Street,R.R. #1,La Plata,MO,63549,United States,Central,C,"40.029220,-92.493384",917,1445
+LAS,"Las Vegas International Airport, Nevada",N,Curbside Bus Stop only (no shelter),5757 Wayne Newton Blvd,McCarran International Airport,Las Vegas,NV,89111-5000,United States,Southwest,P,"36.085973,-115.148493",2087,
+LAU,"Laurel, Mississippi",N,Station Building (with waiting room),230 North Maple Street,,Laurel,MS,39440,United States,Southern,C,"31.692168,-89.127933",245,18450
+LAX,"Los Angeles, California",Y,Station Building (with waiting room),800 North Alameda Street,Los Angeles Union Station,Los Angeles,CA,90012-2902,United States,Southwest,P,"34.056177,-118.236778",280,3900000
+LBC,"Long Beach, California",N,Curbside Bus Stop only (no shelter),601 Long Beach Blvd.,Denny's Restaurant,Long Beach,CA,90802-1323,United States,Southwest,P,"33.774589,-118.189815",39,417400
+LBQ,"Long Beach (Queen Mary), California",N,Curbside Bus Stop only (no shelter),1146 Queens Highway,Next to the Seasonal Catalina Ferry Terminal,Long Beach,CA,90802-6331,United States,Southwest,P,"33.753027,-118.193140",16,
+LCA,"La Crescenta, California",N,Curbside Bus Stop only (no shelter),Honolulu and Lowell Avenues,Pickup north side Honolulu Av west of Lowell Av,La Crescenta,CA,91214,United States,Southwest,P,"34.231944,-118.266511",1580,
+LCH,"Lake Charles, Louisiana",N,Station Building (with waiting room),100 Ryan Street,,Lake Charles,LA,70601-2152,United States,Southern,C,"30.238126,-93.217037",13,70224
+LCN,"Lincoln, Illinois",N,Platform with Shelter,101 North Chicago Street,,Lincoln,IL,62656,United States,Central,C,"40.147855,-89.363699",585,14822
+LCS,"Lancaster, California",N,Platform with Shelter,44812 Sierra Highway,Metrolink Station,Lancaster,CA,93534-3218,United States,Southwest,P,"34.696300,-118.136432",2357,130000
+LCV,"Lincolnville, Maine",N,Curbside Bus Stop only (no shelter),2512 Atlantic Highway,US Post Office,Lincolnville,ME,04849,United States,Northeast,E,"44.282075,-69.008642",12,
+LDB,"Lordsburg, New Mexico",N,Platform only (no shelter),Center Street and East Motel Drive,"Railroad crossing, south side of tracks",Lordsburg,NM,88045,United States,Southwest,M,"32.350070,-108.707025",4250,2762
+LDW,"Lindenwold, New Jersey",N,Station Building (with waiting room),Station Avenue & White Horse Road West,NJ Transit/PATCO station,Somerdale,NJ,08083,United States,Northeast,E,"39.833830,-75.000759",70,
+LEE,"Lee's Summit, Missouri",N,Platform with Shelter,217 SW Main Street,,Lee's Summit,MO,64063-2332,United States,Central,C,"38.912623,-94.377972",1039,28000
+LEG,"Leggett, California",N,Curbside Bus Stop only (no shelter),69501 Highway 101 North,Price's Peg House,Leggett,CA,95585-8911,United States,Pacific,P,"39.878226,-123.727964",909,
+LEV,"Leavenworth (Buses), Washington",N,Curbside Bus Stop only (no shelter),585 Highway 2,76 Station Icicle Quik Stop,Leavenworth,WA,98826,United States,Pacific Northwest,P,"47.588471,-120.674502",1194,1692
+LEW,"Lewistown, Pennsylvania",N,Station Building (with waiting room),150 Helen Street,,Lewistown,PA,17044,United States,Mid-Atlantic,E,"40.588309,-77.580047",489,11000
+LEX,"Lexington, North Carolina",N,Platform only (no shelter),Center Street and Railroad Tracks,Lexington Barbecue Festival,Lexington,NC,27292,United States,Southern,E,"35.831183,-80.263284",751,
+LFT,"Lafayette, Louisiana",N,Station Building (with waiting room),100 Lee Avenue,,Lafayette,LA,70501-8032,United States,Southern,C,"30.226548,-92.014519",38,114214
+LGO,"Lego Land, Carlsbad, California",N,Curbside Bus Stop only (no shelter),1 Legoland Drive,Lego Land Amusement Park,Carlsbad,CA,92008-4610,United States,Pacific,P,"33.126206,-117.310920",122,
+LGX,Legoland Admission Ticket,,Pseudo Station,Legoland Amusement Park,Book between LGO and LGX,Carlsbad,CA,92008,United States,,,"null,null",,
+LIB,"Libby, Montana",N,Station Building (with waiting room),100 Mineral Avenue,,Libby,MT,59923-1933,United States,Pacific Northwest,M,"48.394842,-115.548890",2075,2626
+LIV,"Livermore (Transit Center), California",N,Curbside Bus Stop only (no shelter),2500 Railroad Avenue,(Near 1st Street),Livermore,CA,94550-3011,United States,Pacific,P,"37.684915,-121.767121",494,55800
+LKL,"Lakeland, Florida",Y,Station Building (with waiting room),600 East Main Street,,Lakeland,FL,33801-5036,United States,Southern,E,"28.045603,-81.951874",183,90207
+LLK,"Loon Lake, Washington",N,Curbside Bus Stop only (no shelter),State Highway 292 & Colville Road,Dinner Bell Restaurant,Loon Lake,WA,99148,United States,Pacific Northwest,P,"48.060505,-117.621748",2410,
+LMC,"Lemoore, California",N,Curbside Bus Stop only (no shelter),300 E Street,Chamber of Commerce ,Lemoore,CA,93245-3663,United States,Pacific,P,"36.303131,-119.784545",228,
+LMN,"Lemoore (Naval Air Station), California",N,Curbside Bus Stop only (no shelter),25th Ave and Highway 198,,Lemoore,CA,93245,United States,Pacific,P,"36.256074,-119.902959",228,
+LMQ,"La Marque, Texas",N,Curbside Bus Stop only (no shelter),727 South Oak Street,McKown Air Conditioning,La Marque,TX,77568,United States,Southwest,C,"29.372804,-94.963611",15,25000
+LMR,"Lamar, Colorado",N,Platform only (no shelter),Main & Beech Streets,,Lamar,CO,81052,United States,Southwest,M,"38.089623,-102.618574",3618,8869
+LMY,"Lamy, New Mexico",Y,Station Building (with waiting room),Santa Fe County Road 33,152 Old Lamy Trail,Lamy,NM,87540,United States,Southwest,M,"35.480973,-105.879968",6478,109
+LNC,"Lancaster, Pennsylvania",Y,Station Building (with waiting room),53 McGovern Avenue,,Lancaster,PA,17602,United States,Mid-Atlantic,E,"40.054181,-76.307714",350,56348
+LNK,"Lincoln, Nebraska",Y,Station Building (with waiting room),510 N Street,,Lincoln,NE,68508,United States,Central,C,"40.815871,-96.713170",1152,200000
+LNL,"Laguna Niguel/Mission Viejo, California",N,Platform with Shelter,28200 Forbes Road,Metrolink Station,Laguna Niguel,CA,92677,United States,Southwest,P,"33.552726,-117.674540",243,
+LNN,"Lincoln, New Hampshire",N,Curbside Bus Stop only (no shelter),36 Main Street,Sunoco Station/Munce's Konvenience Store,Lincoln,NH,03251,United States,Northeast,E,"44.038243,-71.674710",767,
+LNS,"East Lansing, Michigan",Y,Station Building (with waiting room),1240 South Harrison Road,,East Lansing,MI,48823-5223,United States,Central,E,"42.719007,-84.494828",850,47542
+LNV,"Laughlin, Nevada",N,Curbside Bus Stop only (no shelter),2121 S. Casino Dr.,Tropicana Express Hotel & Casino,Laughlin,NV,89029-1519,United States,Southwest,P,"35.158536,-114.575884",599,
+LOD,"Lodi, California",N,Station Building (with waiting room),24 South Sacramento Street,,Lodi,CA,95240,United States,Pacific,P,"38.133201,-121.271887",50,
+LOM,"Lompoc, California",N,Curbside Bus Stop only (no shelter),111 South I Street,Lompoc Visitor's Center,Lompoc,CA,93436,United States,Southwest,P,"34.638340,-120.459285",104,41900
+LOR,"Lorton (Auto Train), Virginia",Y,Station Building (with waiting room),8006 Lorton Road,,Lorton,VA,22079,United States,Southern,E,"38.708143,-77.220942",85,
+LPD,"Lake Placid, New York",N,Curbside Bus Stop only (no shelter),2384 Saranac Avenue, High Peaks Resort,Lake Placid,NY,12946,United States,Northeast,E,"44.291438,-73.985926",1904,
+LPE,"Lapeer, Michigan",N,Station Building (with waiting room),73 Howard Street,,Lapeer,MI,48446-2515,United States,Central,E,"43.049520,-83.306154",823,6272
+LPN,"La Pine, Oregon",N,Curbside Bus Stop only (no shelter),16515 Reed Road,Shell Station,La Pine,OR,97739,United States,Pacific Northwest,P,"43.674176,-121.499956",4234,
+LPS,"Lompoc-Surf, California",N,Platform with Shelter,Ocean Ave and Park Rd,,Surf,CA,93437,United States,Southwest,P,"34.682704,-120.605001",45,
+LQT,"La Quinta, California",N,Curbside Bus Stop only (no shelter),78822 Highway 111,SunLine Transit Stop next to Eisenhower Occupational Health ,La Quinta,CA,92253,United States,Southwest,P,"33.710979,-116.289964",74,44704
+LRC,"Lawrence, Kansas",N,Station Building (with waiting room),413 East 7th Street,,Lawrence,KS,66044,United States,Central,C,"38.971166,-95.230539",828,87643
+LRK,"Little Rock, Arkansas",Y,Station Building (with waiting room),1400 West Markham Street,,Little Rock,AR,72201,United States,Central,C,"34.750298,-92.286785",268,183133
+LRM,"Laurel, Maryland",,Pseudo Station,22 Main Street,MARC Station,Laurel,MD,20707,United States,MARC,E,"null,null",,
+LRT,"Laurel Racetrack, Maryland",,Pseudo Station,"Laurel Racetrack Rd, off MD 198",MARC Station,Laurel,MD,20725,United States,MARC,E,"null,null",,
+LSE,"La Crosse, Wisconsin",Y,Station Building (with waiting room),(St. Andrew and Caledonia Streets),601 St. Andrew Street,La Crosse,WI,54601,United States,Central,C,"43.833155,-91.247298",655,50902
+LSV,"Las Vegas, New Mexico",N,Station Building (with waiting room),500 Railroad Avenue at Lincoln,,Las Vegas,NM,87701,United States,Southwest,M,"35.593432,-105.212779",6406,13000
+LTL,"Littleton, New Hampshire",N,Curbside Bus Stop only (no shelter),336 Cottage Street,Irving Gas Station,Littleton,NH,03561-4118,United States,Northeast,E,"44.296787,-71.769090",929,
+LTM,"Lathrop/Manteca, California",N,Platform with Shelter,17800 Shideler Parkway,ACE Station,Manteca,CA,95330,United States,Pacific,P,"37.798360,-121.263658",27,
+LTR,"Littlerock, California",N,Curbside Bus Stop only (no shelter),7225 Pearblossom Hwy,Chevron Station Food Mart,Littlerock,CA,93543-3034,United States,Southwest,P,"34.521339,-118.000580",2896,
+LTV,"Laytonville, California",N,Curbside Bus Stop only (no shelter),44900 Highway 101,Park N Takit Market,Laytonville,CA,95454,United States,Pacific,P,"39.686633,-123.482019",1658,1096
+LVL,"Louisville, Kentucky",N,Station Building (with waiting room),720 West Muhammad Ali Blvd.,Greyhound Station,Louisville,KY,40203-1917,United States,Central,E,"38.251675,-85.763445",457,283900
+LVN,"Lee Vining, California",N,Curbside Bus Stop only (no shelter),30 Main Street,Lake View Lodge,Lee Vining,CA,95541,United States,Pacific,P,"37.955403,-119.118687",6792,
+LVS,"Las Vegas (Downtown), Nevada",N,Station Building (with waiting room),200 South Main St.,Greyhound Station,Las Vegas,NV,89101-6357,United States,Southwest,P,"36.170266,-115.147489",2025,
+LVW,"Longview, Texas",Y,Station Building (with waiting room),905 Pacific Avenue,,Longview,TX,75602,United States,Southwest,C,"32.494032,-94.728322",332,76524
+LWA,"Leavenworth (Trains), Washington",N,Platform with Shelter,11645 North Road ,Icicle Station,Leavenworth,WA,98826,United States,Pacific Northwest,P,"47.605235,-120.641038",1243,
+LWN,"Lewiston, Idaho",N,Curbside Bus Stop only (no shelter),1920 Highway 128,Shell Dyna Mart,Lewiston,ID,83501-1617,United States,Pacific Northwest,P,"46.426931,-117.005923",753,28100
+LYH,"Lynchburg, Virginia",Y,Station Building (with waiting room),825 Kemper Street,Amtrak is below street level at track level,Lynchburg,VA,24501-1303,United States,Southern,E,"37.406439,-79.156934",706,67720
+MAC,"Macomb, Illinois",N,Station Building (with waiting room),120 East Calhoun Street,,Macomb,IL,61455-7321,United States,Central,C,"40.461212,-90.670940",703,18400
+MAK,"Mackinaw City, Michigan",N,Curbside Bus Stop only (no shelter),102 South Huron Ave.,Village Hall,Mackinaw City,MI,49701,United States,Central,E,"45.781335,-84.725770",590,875
+MAL,"Malta, Montana",N,Station Building (with waiting room),51 South 1st Street East,,Malta,MT,59538-1732,United States,Pacific Northwest,M,"48.360477,-107.872242",2254,2120
+MAR,"Marceline, Missouri",N,Platform only (no shelter),120 East Santa Fe Avenue,Stop for prearranged groups only,Marceline,MO,64658,United States,Central,C,"39.715998,-92.947702",862,
+MAT,"Mattoon, Illinois",N,Station Building (with waiting room),1718 Broadway Avenue,,Mattoon,IL,61938-3920,United States,Central,C,"39.482730,-88.376045",732,19200
+MAY,"Maysville,  Kentucky",N,Station Building (with waiting room),West Front Street & Rosemary Clooney Street,,Maysville,KY,41056,United States,Central,E,"38.652148,-83.771074",505,9179
+MCA,"McCall, Idaho",N,Curbside Bus Stop only (no shelter),507 N 3rd Street,Old Town Shell Station ,McCall,ID,83638-4408,United States,Pacific Northwest,P,"44.899158,-116.096803",5048,2188
+MCB,"McComb, Mississippi",N,Station Building (with waiting room),114 Northeast Railroad Avenue,,McComb,MS,39648,United States,Southern,C,"31.244467,-90.451334",405,13607
+MCD,"Merced, California",Y,Station Building (with waiting room),324 West 24th Street,,Merced,CA,95340,United States,Pacific,P,"37.307183,-120.476805",172,76313
+MCG,"McGregor, Texas",N,Station Building (with waiting room),1 Amtrak Boulevard,,McGregor,TX,76657,United States,Southwest,C,"31.443352,-97.404756",711,4845
+MCI,"Michigan City, Indiana",N,Platform only (no shelter),100 Washington Street,,Michigan City,IN,46360-3246,United States,Central,C,"41.721103,-86.905385",599,70000
+MCK,"McCook, Nebraska",N,Station Building (with waiting room),101 Norris Avenue,,McCook,NE,69001-3779,United States,Central,C,"40.197634,-100.625792",2512,8400
+MCY,"Monocacy (Frederick), Maryland",,Pseudo Station,7800 Genstar Drive,MARC Station,Frederick,MD,21704,United States,MARC,E,"null,null",,
+MDN,"Meriden, Connecticut",Y,Station Building (with waiting room),60 State Street,,Meriden,CT,06450,United States,Northeast,E,"41.539385,-72.800678",143,57000
+MDP,"Midpines, California",N,Curbside Bus Stop only (no shelter),6979 Highway 140,Yosemite Bug Youth Hostel,Midpines,CA,95345,United States,Pacific,P,"37.544143,-119.920202",2577,
+MDR,"Madera, California",N,Platform only (no shelter),18770 Road 26,,Madera,CA,93638,United States,Pacific,P,"37.022471,-120.074980",289,54959
+MDS,"Madison, Connecticut",,Pseudo Station,79 Bradley Road,,Madison,CT,06443,,Shore Line East,E,"null,null",,
+MDT,"Mendota, Illinois",N,Station Building (with waiting room),783 Main Street,,Mendota,IL,61342,United States,Central,C,"41.549584,-89.117920",742,7072
+MEE,"Monroe (Eastbound), Washington",N,Curbside Bus Stop only (no shelter),19746 US Highway 2,Grocery Outlet/Community Transit Stop,Monroe,WA,98272,United States,Pacific Northwest,P,"47.858216,-121.966252",79,4278
+MEI,"Meridian, Mississippi",Y,Station Building (with waiting room),1901 Front Street,,Meridian,MS,39301,United States,Southern,C,"32.364166,-88.696568",336,38200
+MEM,"Memphis, Tennessee",Y,Station Building (with waiting room),Central Station,545 South Main Street,Memphis,TN,38103,United States,Central,C,"35.132458,-90.059109",258,670900
+MET,"Metropark (Iselin), New Jersey",Y,Station Building (with waiting room),100 Middlesex-Essex Turnpike,,Iselin,NJ,08830-2707,United States,Northeast,E,"40.568056,-74.329583",59,22548
+MEW,"Monroe (Westbound), Washington",N,Curbside Bus Stop only (no shelter),19721 US Highway 2,Shell Station/Red Barn Store/Community Transit,Monroe,WA,98272,United States,Pacific Northwest,P,"47.858463,-121.966193",81,4278
+MFR,"Medford, Oregon",N,Station Building (with waiting room),200 S. Front Street,Rogue Valley Transit Center,Medford,OR,97501,United States,Pacific,P,"42.324198,-122.871538",1379,17000
+MGP,"Mangonia Park, Florida",N,Platform with Shelter,1415 45th Street,Tri-Rail Station,West Palm Beach,FL,33407,United States,Southern,E,"26.758303,-80.076508",17,
+MHC,"Morgan Hill, California",N,Platform with Shelter,17300 Depot Street,Caltrain Station,Morgan Hill,CA,95037-3617,United States,Pacific,P,"37.130085,-121.650004",353,
+MHL,"Marshall, Texas",Y,Station Building (with waiting room),800 North Washington Street,Suite 2,Marshall,TX,75670-5330,United States,Southwest,C,"32.551549,-94.366995",370,23965
+MHT,"Manchester, New Hampshire",N,Curbside Bus Stop only (no shelter),119 Canal Street,Manchester Transportation Center,Manchester,NH,03101-2333,United States,Northeast,E,"42.986893,-71.466051",175,
+MIA,"Miami, Florida",Y,Station Building (with waiting room),8303 NW 37th Avenue,,Miami,FL,33147,United States,Southern,E,"25.849554,-80.257759",4,404500
+MID,"Middletown, Pennsylvania",N,Platform with Shelter,Union Street and Mill Street,,Middletown,PA,17057,United States,Mid-Atlantic,E,"40.192569,-76.730943",303,8858
+MIN,"Mineola, Texas",N,Platform with Shelter,115 East Front Street,,Mineola,TX,75773-2453,United States,Southwest,C,"32.662049,-95.489100",411,5091
+MJY,"Mount Joy, Pennsylvania",N,Platform with Shelter,East Henry Street and North Market Street,,Mount Joy,PA,17552,United States,Mid-Atlantic,E,"40.108960,-76.502641",366,7056
+MKA,"Milwaukee (General Mitchell Intl Airport), Wisconsin",N,Station Building (with waiting room),5601 South 6th Street,(South 6th Street & Airport Spur Freeway),Milwaukee,WI,53221,United States,Central,C,"42.940583,-87.924359",729,573358
+MKE,"Milwaukee (Intermodal Station), Wisconsin",Y,Station Building (with waiting room),433 West St. Paul Avenue,,Milwaukee,WI,53203,United States,Central,C,"43.034518,-87.917104",587,604477
+MKV,"McKinleyville, California",N,Curbside Bus Stop only (no shelter),3561 Boeing Avenue,Arcata Airport Terminal,McKinleyville,CA,95519-9358,United States,Pacific,P,"40.970641,-124.106537",205,
+MLI,"Moline, Illinois",N,Station Building (with waiting room),1200 River Drive,Centre Station,Moline,IL,61265-1302,United States,Central,C,"41.506758,-90.521104",571,
+MLK,"Moses Lake, Washington",N,Curbside Bus Stop only (no shelter),1810 East Kittleson Road,Ernie's Truck Stop - Chevron Station,Moses Lake,WA,98837,United States,Pacific Northwest,P,"47.101976,-119.245360",1196,11235
+MLN,"Mancelona, Michigan",N,Curbside Bus Stop only (no shelter),8497 US Highway 131 North,McDonald's Restaurant,Mancelona,MI,49659-7804,United States,Central,E,"44.912833,-85.050309",1122,1370
+MMK,"Mammoth Lakes, California",N,Curbside Bus Stop only (no shelter),1 Minaret Road,Mammoth Mountain Inn,Mammoth Lakes,CA,93546,United States,Pacific,P,"37.651389,-119.038900",8911,
+MNG,"Montgomery, West Virginia",N,Platform with Shelter,Third Avenue and Washington Street,,Montgomery,WV,25136,United States,Mid-Atlantic,E,"38.180743,-81.324030",639,2046
+MNI,"Manning, Oregon",N,Curbside Bus Stop only (no shelter),47000 Highway 26,East of Dairy Queen,Manning,OR,97106,United States,Pacific Northwest,P,"45.666772,-123.167068",251,
+MNM,"Menomonie, Wisconsin",N,Curbside Bus Stop only (no shelter),302 10th Avenue East,UW-Stout Memorial Student Center,Menomonie,WI,54751,United States,Central,C,"44.873665,-91.926059",856,
+MOC,"Moscow, Idaho",N,Curbside Bus Stop only (no shelter),120 West 6th St.,Royal Motor Inn,Moscow,ID,83843-2318,United States,Pacific Northwest,P,"46.730120,-117.002249",2559,17200
+MOD,"Modesto, California",Y,Station Building (with waiting room),1700 Held Drive,,Modesto,CA,95355-8301,United States,Pacific,P,"37.668951,-120.912913",117,97284
+MOJ,"Mojave, California",N,Curbside Bus Stop only (no shelter),15900 Sierra Highway,Carl's Jr. Restaurant,Mojave,CA,93501-1516,United States,Pacific,P,"35.052490,-118.173181",2762,
+MOT,"Minot, North Dakota",Y,Station Building (with waiting room),400 1st Avenue S.W.,,Minot,ND,58701,United States,Central,C,"48.236083,-101.298557",1560,35419
+MOV,"Moreno Valley, California",N,Curbside Bus Stop only (no shelter),2650 East Alessandro Blvd.,RTA Bus Stop at Curb,Riverside,CA,92508-2306,United States,Southwest,P,"33.916959,-117.284319",1536,
+MPK,"Moorpark, California",N,Platform only (no shelter),300 High Street,Amtrak / Metrolink Station,Moorpark,CA,93021,United States,Southwest,P,"34.284760,-118.878059",523,60000
+MPR,"Montpelier, Vermont",N,Platform only (no shelter),Junction Road and Short Road,,Montpelier,VT,05602,United States,Northeast,E,"44.255749,-72.606394",526,7954
+MQT,"Marquette, Michigan",N,Station Building (with waiting room),1325 Commerce Drive,Marquette Transit Authority,Marquette,MI,49855,United States,Central,E,"46.556786,-87.451166",873,
+MRB,"Martinsburg, West Virginia",N,Station Building (with waiting room),229 East Martin Street,Caperton Station,Martinsburg,WV,25401,United States,Mid-Atlantic,E,"39.458661,-77.961014",437,14000
+MRC,"Maricopa, Arizona",Y,Station Building (with waiting room),19427 North John Wayne Parkway,P.O. Box 897,Maricopa,AZ,85139,United States,Southwest,M,"33.056284,-112.047137",1175,20000
+MRM,"Mariposa (Midtown), California",N,Curbside Bus Stop only (no shelter),Highway 140 and 7th Street,YARTS Bus Stop,Mariposa,CA,95338,United States,Pacific,P,"37.485747,-119.966205",1956,
+MRP,"Mariposa (Park and Ride), California",N,Curbside Bus Stop only (no shelter),4974 Joe Howard Street,Mariposa Park and Ride,Mariposa,CA,95338,United States,Pacific,P,"37.491268,-119.974222",2014,
+MRV,"Marysville, California",N,Station Building (with waiting room),I Street between 8th and 9th,Yuba-Sutter Transit Stop,Marysville,CA,95901-5211,United States,Pacific,P,"39.143721,-121.597259",62,11400
+MRY,"Monterey (Transit Plaza), California",N,Curbside Bus Stop only (no shelter),500 Tyler St.  ,Corner of East Pearl St. and Tyler St.,Monterey,CA,93940,United States,Pacific,P,"36.597495,-121.894198",21,
+MSA,"Martin State Airport, Maryland",,Pseudo Station,2710 Eastern Boulevard,MARC Station,Middle River,MD,21220,United States,MARC,E,"null,null",,
+MSC,Miscellaneous,,Pseudo Station,,,,,,,,,"null,null",,
+MSD,"Madison (Deforest), Wisconsin",N,Curbside Bus Stop only (no shelter),6162 Highway 51,Truckers Inn Truck Stop,Deforest,WI,53532,United States,Central,C,"43.184486,-89.323362",868,
+MSI,"Mosinee, Wisconsin",N,Curbside Bus Stop only (no shelter),2400 CWA Drive,Central  Wisconsin Airport,Mosinee,WI,54455,United States,Central,C,"44.784233,-89.672975",1288,
+MSN,"Madison (University of Wisconsin), Wisconsin",N,Curbside Bus Stop only (no shelter),800 Langdon Street,Univ of Wisconsin Memorial Union,Madison,WI,53706-1419,United States,Central,C,"43.075929,-89.399274",860,
+MSP,"St. Paul-Minneapolis, Minnesota",Y,Station Building (with waiting room),Midway Station,730 Transfer Road,St. Paul,MN,55114-1498,United States,Central,C,"44.962906,-93.184942",902,662195
+MSS,"Manassas, Virginia",N,Station Building (with waiting room),9431 West Street,,Manassas,VA,20110,United States,Mid-Atlantic,E,"38.750084,-77.472577",309,36638
+MTC,"Manitowoc, Wisconsin",N,Curbside Bus Stop only (no shelter),1701 South 41st Street,Shell Station,Manitowoc,WI,54220,United States,Central,C,"44.078388,-87.698759",676,
+MTG,"Metropolitan Grove, Maryland",,Pseudo Station,2 Metropolitan Court,MARC Station - behind MVA office,Gaithersburg,MD,20878,United States,MARC,E,"null,null",,
+MTO,"Manton, Michigan",N,Curbside Bus Stop only (no shelter),102 South Michigan Avenue,Manton Shell Station,Manton,MI,49663,United States,Central,E,"44.410563,-85.398401",1119,
+MTP,"Mt. Pleasant, Iowa",Y,Station Building (with waiting room),418 North Adams Street,,Mt. Pleasant,IA,52641,United States,Central,C,"40.971179,-91.550772",724,7007
+MTR,"Montreal (Gare Centrale), Quebec",Y,Station Building (with waiting room),895 rue de la Gauchetiere ouest,Gare Centrale,Montreal,QC,H3B 4G1,Canada,VIA Rail Canada Inc.,E,"45.500169,-73.565767",83,2500000
+MTZ,"Martinez, California",Y,Station Building (with waiting room),601 Marina Vista Avenue,,Martinez,CA,94553-1132,United States,Pacific,P,"38.018921,-122.138784",13,31808
+MUK,"Muirkirk, Maryland",,Pseudo Station,7012-B Muirkirk Road,MARC Station,Beltsville,MD,20705,United States,MARC,E,"null,null",,
+MVN,"Malvern, Arkansas",N,Platform with Shelter,200 East First Street,,Malvern,AR,72104-3922,United States,Central,C,"34.365484,-92.814018",274,9046
+MVW,"Mount Vernon, Washington",N,Station Building (with waiting room),105 East Kincaid Street,Skagit Transportation Center,Mount Vernon,WA,98273-4327,United States,Pacific Northwest,P,"48.418470,-122.334738",34,22800
+MWI,"Marinette, Wisconsin",N,Curbside Bus Stop only (no shelter),W1390 Old Peshtigo Road,Shell Station/Taco Bell,Marinette,WI,54143,United States,Central,C,"45.079497,-87.664782",616,
+MYA,"Monterey (Aquarium), California",N,Curbside Bus Stop only (no shelter),886 Cannery Row,Monterey Bay Aquarium ,Monterey,CA,93940,United States,Pacific,P,"36.617680,-121.901640",23,
+MYH,"Monterey (Hyatt Regency), California",N,Curbside Bus Stop only (no shelter),1 Old Golf Course Road,Hyatt Regency Hotel,Monterey,CA,93940,United States,Pacific,P,"36.593107,-121.875798",58,
+MYM,"Monterey (Marriott), California",N,Curbside Bus Stop only (no shelter),350 Calle Principal,Marriott Hotel,Monterey,CA,93940,United States,Pacific,P,"36.600361,-121.894992",30,
+MYS,"Mystic, Connecticut",N,Platform with Shelter,2 Roosevelt Avenue,U.S.Route 1,Mystic,CT,06355,United States,Northeast,E,"41.350934,-71.963093",8,22000
+MYT,"Monterey (Travelodge), California",N,Curbside Bus Stop only (no shelter),675 Munras Street,Casa Munras Garden Hotel,Monterey,CA,93940,United States,Pacific,P,"36.595379,-121.892522",38,
+NAM,"Nampa, Idaho",N,Station Building (with waiting room),"3116 Garrity Blvd, Suite 7","Mail, Express & Maps Store",Nampa,ID,83651,United States,Pacific Northwest,M,"43.587422,-116.532790",2535,28000
+NAP,"Napa (VINE Transit Center), California",N,Curbside Bus Stop only (no shelter),1151 Pearl St.,,Napa,CA,94559-2528,United States,Pacific,P,"38.300086,-122.287359",23,
+NBK,"New Brunswick, New Jersey",Y,Station Building (with waiting room),French and Albany Streets,New Jersey Transit Station,New Brunswick,NJ,08901,United States,Northeast,E,"40.496522,-74.446265",46,42450
+NBN,"Newbern-Dyersburg, Tennessee",N,Platform with Shelter,108 Jefferson St,,Newbern,TN,38059,United States,Central,C,"36.112711,-89.262264",376,21000
+NBT,"Newburyport, Massachusetts",N,Station Building (with waiting room),90 Storey Avenue,,Newburyport,MA,01950-3580,United States,Northeast,E,"42.819073,-70.913722",80,
+NBU,"New Buffalo, Michigan",N,Platform with Shelter,226 North Whittaker Street,,New Buffalo,MI,49117-1161,United States,Central,E,"41.796656,-86.745782",606,
+NCG,"Nacogdoches, Texas",N,Curbside Bus Stop only (no shelter),9855 US Highway 259 North,Exxon Gas Station,Nacogdoches,TX,75965-0818,United States,Southwest,C,"31.700274,-94.675886",539,52900
+NCM,"Necanicum Junction, Oregon",N,Curbside Bus Stop only (no shelter),Highway 26 and Highway 53,Bus stop is 100 ft east of junction,Necanicum Junction,OR,97301,United States,Pacific Northwest,P,"45.902226,-123.759275",418,
+NCR,"New Carrollton, Maryland",Y,Station Building (with waiting room),4300 Garden City Drive,,New Carrollton,MD,20784,United States,Mid-Atlantic,E,"38.948098,-76.871494",99,12651
+NDL,"Needles, California",N,Platform only (no shelter),900 Front Street,,Needles,CA,92363,United States,Southwest,P,"34.839964,-114.604635",487,20000
+NEW,"Newton, Kansas",Y,Station Building (with waiting room),414 North Main Street,,Newton,KS,67114,United States,Central,C,"38.046976,-97.344886",1446,19132
+NFK,"Norfolk, Virginia",N,Curbside Bus Stop only (no shelter),East Virginia Beach Blvd and Monticello Ave,Bus Shelter at Cedar Grove Parking Lot,Norfolk,VA,23510,United States,Mid-Atlantic,E,"36.858730,-76.286717",6,500000
+NFL,"Niagara Falls, New York, United States",Y,Station Building (with waiting room),2701 Willard Avenue,27th Street and Lockport Road,Niagara Falls,NY,14305,United States,Northeast,E,"43.113548,-79.031865",600,64500
+NFS,"Niagara Falls, Ontario, Canada",Y,Station Building (with waiting room),4267 Bridge Street,,Niagara Falls,ON,L2E 2R6,Canada,VIA Rail Canada Inc.,E,"43.108736,-79.063291",574,75000
+NHL,"Santa Clarita-Newhall, California",N,Platform with Shelter,24300 Railroad Avenue,Metrolink Station,Santa Clarita,CA,91321-0000,United States,Southwest,P,"34.379451,-118.527338",1270,24400
+NHN,"New Hampton, New Hampshire",N,Curbside Bus Stop only (no shelter),325 Route 104,Munce's Konvenience Store/CITGO,New Hampton,NH,03256-4219,United States,Northeast,E,"43.617415,-71.636254",525,
+NHV,"New Haven, Connecticut",Y,Station Building (with waiting room),50 Union Avenue,Union Station,New Haven,CT,06519-1754,United States,Northeast,E,"41.297714,-72.926670",22,143860
+NIB,"New Iberia, Louisiana",N,Platform only (no shelter),402 West Washington Street,At Railroad Tracks - Downtown,New Iberia,LA,70560,United States,Southern,C,"30.008415,-91.823809",19,32981
+NLC,"New London, Connecticut",Y,Station Building (with waiting room),27 Water Street,,New London,CT,06320,United States,Northeast,E,"41.354267,-72.093225",6,105892
+NLS,"Niles, Michigan",Y,Station Building (with waiting room),598 Dey Street,,Niles,MI,49120-1745,United States,Central,E,"41.837412,-86.252372",690,12990
+NNI,"Nanaimo, British Columbia",N,Station Building (with waiting room),1 North Terminal Avenue,Greyhound Canada Bus Depot,Nanaimo,BC,V9R 5R4,Canada,Pacific,P,"49.170781,-123.943117",72,
+NOL,"New Orleans, Louisiana",Y,Station Building (with waiting room),1001 Loyola Avenue,New Orleans Union Passenger Terminal,New Orleans,LA,70113,United States,Southern,C,"29.946085,-90.078291",4,343829
+NOR,"Norman, Oklahoma",N,Station Building (with waiting room),200 South Jones Avenue,,Norman,OK,73069-6023,United States,Central,C,"35.219963,-97.443013",1170,106957
+NPN,"Newport News, Virginia",Y,Station Building (with waiting room),9304 Warwick Boulevard,,Newport News,VA,23601-4535,United States,Mid-Atlantic,E,"37.022731,-76.451970",28,170045
+NPO,"Newport, Oregon",N,Station Building (with waiting room),956 SW 10th Street,Valley Retriever Station,Newport,OR,97365,United States,Pacific Northwest,P,"44.627396,-124.060478",112,
+NPV,"Naperville, Illinois",Y,Station Building (with waiting room),105 E. Fourth Ave.,Corner of 4th Avenue & Ellsworth Street,Naperville,IL,60540,United States,Central,C,"41.779514,-88.145497",714,110100
+NPW,"Napa (Wine Train Station), California",N,Curbside Bus Stop only (no shelter),1275 McKinstry Street,,Napa,CA,94559-1925,United States,Pacific,P,"38.302059,-122.283725",18,
+NRK,"Newark, Delaware",N,Platform with Shelter,429 South College Ave.,,Newark,DE,19711-5105,United States,Mid-Atlantic,E,"39.669686,-75.753513",111,70000
+NRO,"New Rochelle, New York",N,Station Building (with waiting room),1 Railroad Plaza,Metro-North Station,New Rochelle,NY,10801-6353,United States,Northeast,E,"40.911451,-73.784329",75,72852
+NSF,"North Carolina State Fair, North Carolina",N,Platform only (no shelter),1025 Blue Ridge Boulevard,at the railroad crossing,North Carolina State Fair,NC,27607-3902,United States,Southern,E,"35.794203,-78.706292",483,
+NSH,"Nashua, New Hampshire",N,Curbside Bus Stop only (no shelter),8 North Southwood Drive,Transportation Center,Nashua,NH,03064,United States,Northeast ,E,"42.790718,-71.503866",198,
+NWK,"Newark (Penn Station), New Jersey",Y,Station Building (with waiting room),1 Raymond Plaza West,Market Street,Newark,NJ,07102-5405,United States,Northeast,E,"40.734706,-74.164750",18,382417
+NYF,"New York State Fair, New York",N,Platform with Shelter,581 State Fair Blvd.,Gate 11,Syracuse,NY,13209-1551,United States,Northeast,E,"43.071924,-76.229473",379,
+NYP,"New York (Penn Station), New York",Y,Station Building (with waiting room),234 W. 31st Street-Pennsylvania Station,8th Avenue and W. 31st/33rd Streets,New York,NY,10001,United States,Northeast,E,"40.750327,-73.994459",33,8000000
+OAC,"Oakland (Coliseum/Airport), California",N,Platform with Shelter,700 73rd Avenue,Across San Leandro Blvd. from BART station,Oakland,CA,94621-3316,United States,Pacific,P,"37.752499,-122.198147",9,
+OCA,"Ocala, Florida",N,Station Building (with waiting room),531 Northeast First Avenue,Central Transfer Station,Ocala,FL,34470-6647,United States,Southern,E,"29.192235,-82.135282",69,
+OCM,"Ocean City, Maryland",N,Station Building (with waiting room),12848 Ocean Gateway,West Ocean City Park and Ride,Ocean City,MD,21842,United States,Mid-Atlantic,E,"38.334867,-75.102911",7,
+OCO,"Oconto, Wisconsin",N,Curbside Bus Stop only (no shelter),517 Smith Avenue,Shell Station,Oconto,WI,54153,United States,Central,C,"44.879381,-87.887149",595,
+OCP,"Ocean Pines, Maryland",N,Curbside Bus Stop only (no shelter),11011 Manklin Creek Road,Rite Aid Pharmacy,Berlin,MD,21811-4010,United States,Mid-Atlantic,E,"38.376210,-75.164144",13,
+OGD,"Ogden, Utah",N,Station Building (with waiting room),2393 Wall Avenue,Greyhound Bus Station,Ogden,UT,84401,United States,Pacific,M,"41.223128,-111.979027",4298,
+OGE,"Orange, California",N,Platform with Shelter,194 North Atchison Street,Metrolink Station,Orange,CA,92866,United States,Southwest,P,"33.788704,-117.857356",180,
+OGW,"Okanagan,  Washington",N,Curbside Bus Stop only (no shelter),424 Second Avenue South,In front of Okanogan Co Comm Action Council,Okanogan,WA,98840,United States,Pacific,P,"48.362300,-119.582904",843,
+OKC,"Oklahoma City, Oklahoma",N,Station Building (with waiting room),100 South E.K. Gaylord Boulevard,,Oklahoma City,OK,73102,United States,Southwest,C,"35.465490,-97.512749",1207,551789
+OKE,"Okeechobee, Florida",N,Platform with Shelter,801 North Parrott Avenue,,Okeechobee,FL,34972-2130,United States,Southern,E,"27.251867,-80.830812",29,6000
+OKJ,"Oakland (Jack London Square), California",Y,Station Building (with waiting room),245 Second Street,,Oakland,CA,94607,United States,Pacific,P,"37.793866,-122.271667",13,400000
+OKL,"Oakville, Ontario",Y,Station Building (with waiting room),200 Cross Avenue,,Oakville,ON,L6J 2W6,Canada,VIA Rail Canada Inc.,E,"43.455394,-79.682392",328,90000
+OLT,"San Diego (Old Town), California",N,Platform only (no shelter),4005 Taylor Street,,San Diego,CA,92110,United States,Southwest,P,"32.755266,-117.200073",15,875500
+OLW,"Olympia-Lacey, Washington",N,Station Building (with waiting room),6600 Yelm Highway SE,,Lacey,WA,98513-6481,United States,Pacific Northwest,P,"46.991273,-122.794059",193,41000
+OMA,"Omaha, Nebraska",Y,Station Building (with waiting room),1003 South 9th Street,,Omaha,NE,68108,United States,Central,C,"41.249828,-95.928650",1044,345000
+OMW,"Omak, Washington",N,Curbside Bus Stop only (no shelter),800 East Riverside Drive,Shell Station/Food Mart,Omak,WA,98841-9580,United States,Pacific,P,"48.416500,-119.510649",955,
+ONA,"Ontario, California",N,Platform only (no shelter),198 East Emporia Street,Amtrak Passenger Platform,Ontario,CA,91764,United States,Southwest,P,"34.061672,-117.649569",991,145000
+ONT,"Ontario, Oregon",N,Station Building (with waiting room),191 SE 3rd St.,Greyhound Station,Ontario,OR,97914-2830,United States,Pacific Northwest,M,"44.024151,-116.958099",2151,9000
+ORB,"Old Orchard Beach, Maine (Seasonal)",N,Platform only (no shelter),11 First Street,Chamber of Commerce,Old Orchard Beach,ME,04064,United States,Northeast,E,"43.514326,-70.376225",14,8856
+ORC,"Oregon City, Oregon",N,Platform only (no shelter),1757 Washington Street,,Oregon City,OR,97045,United States,Pacific Northwest,P,"45.366146,-122.595925",34,30667
+ORL,"Orlando, Florida",Y,Station Building (with waiting room),1400 Sligh Blvd.,,Orlando,FL,32806-3905,United States,Southern,E,"28.525926,-81.381516",107,220500
+ORO,"Orono-University of Maine, Maine",N,Curbside Bus Stop only (no shelter),Campus bus stop at Memorial Gymnasium,near Black Bear Mascot statue,Orono,ME,04473,United States,Northeast,E,"44.903065,-68.669945",113,
+ORV,"Oroville, California",N,Curbside Bus Stop only (no shelter),Hwy 70 and Grand Avenue,Park and Ride,Oroville,CA,95965,United States,Pacific,P,"39.520057,-121.572102",244,10200
+OSB,"Old Saybrook, Connecticut",Y,Station Building (with waiting room),455 Boston Post Road,Saybrook Junction Market Place,Old Saybrook,CT,06475-1516,United States,Northeast,E,"41.300390,-72.376818",30,36475
+OSC,"Osceola, Iowa",N,Station Building (with waiting room),Main & East Clay Streets,,Osceola,IA,50213,United States,Central,C,"41.037116,-93.764894",1136,4500
+OSD,"Oceanside, California",Y,Station Building (with waiting room),235 South Tremont Street,Oceanside Transit Center,Oceanside,CA,92054,United States,Southwest,P,"33.192515,-117.379430",50,90000
+OSH,"Oshkosh (Airport), Wisconsin",N,Curbside Bus Stop only (no shelter),525 West 20th Avenue,Wittman Regional Airport Terminal,Oshkosh,WI,54902-6871,United States,Central,C,"43.994303,-88.551236",773,
+OSU,"Oshkosh (University of Wisconsin), Wisconsin",N,Curbside Bus Stop only (no shelter),208 Osceola Street,Univ of Wisconsin Gruenhagen Conference Ctr,Oshkosh,WI,54901,United States,Central,C,"44.022747,-88.548899",754,
+OTM,"Ottumwa, Iowa",Y,Station Building (with waiting room),210 West Main Street,,Ottumwa,IA,52501,United States,Central,C,"41.018815,-92.414929",648,35000
+OTN,"Odenton, Maryland",,Pseudo Station,1400 Odenton Road,MARC Station,Odenton,MD,21113,United States,MARC,E,"null,null",,
+OWO,"Owosso, Michigan",N,Station Building (with waiting room),109 Comstock Street,Indian Trails Bus Station,Owosso,MI,48867,United States,Central,E,"42.996636,-84.170085",732,
+OXN,"Oxnard, California",Y,Station Building (with waiting room),201 East Fourth Street,Oxnard Transportation Center,Oxnard,CA,93030,United States,Southwest,P,"34.199241,-119.175978",55,126000
+PAK,"Palatka, Florida",N,Platform only (no shelter),220 North 11th Street,,Palatka,FL,32177-3615,United States,Southern,E,"29.649734,-81.640471",20,
+PAO,"Paoli, Pennsylvania",Y,Station Building (with waiting room),13 Lancaster Avenue,East Lancaster Pike & North Valley Road,Paoli,PA,19301,United States,Mid-Atlantic,E,"40.042754,-75.483760",549,7000
+PAR,"Parkesburg, Pennsylvania",N,Platform with Shelter,West First and South Culvert Streets,,Parkesburg,PA,19365,United States,Mid-Atlantic,E,"39.959180,-75.922123",541,3445
+PAS,"Pasadena, California",N,Curbside Bus Stop only (no shelter),150 South Los Robles Ave.,Pasadena Hilton Hotel,Pasadena,CA,91101-2441,United States,Southwest,P,"34.142577,-118.141273",835,165000
+PBF,"Poplar Bluff, Missouri",N,Station Building (with waiting room),400 South Main Street,,Poplar Bluff,MO,63901-5855,United States,Central,C,"36.753995,-90.393341",357,17059
+PBT,"Pemberton, British Columbia",N,Station Building (with waiting room),7424 Frontier Street,Greyhound Canada Bus Stop,Pemberton,BC,V0N 2L0,Canada,Pacific,P,"50.321377,-122.806342",712,
+PCH,"Port Charlotte, Florida",N,Curbside Bus Stop only (no shelter),909 Kings Highway,Mobil Station/7-Eleven Store,Port Charlotte,FL,33980-4248,United States,Southern,E,"27.016757,-82.052514",25,
+PCT,"Princeton, Illinois",N,Station Building (with waiting room),107 Bicentennial Drive,,Princeton,IL,61356,United States,Central,C,"41.385191,-89.466815",693,7555
+PCV,"Placerville, California",N,Curbside Bus Stop only (no shelter),Mosquito Road and Clay Street,Placerville Station Transit Center,Placerville,CA,95667,United States,Pacific,P,"38.733020,-120.789419",1912,6739
+PDC,"Palm Desert, California",N,Curbside Bus Stop only (no shelter),44449 Towne Center Way ,Sunline Transit Stop (in front of Best Buy),Palm Desert,CA,92260,United States,Southwest,P,"33.725715,-116.398519",207,51878
+PDG,"Portland (Greyhound Station), Oregon",N,Station Building (with waiting room),550 NW 6th Avenue,,Portland,OR,97209,United States,Pacific,P,"45.527361,-122.676475",34,529121
+PDL,"Prunedale, California",N,Curbside Bus Stop only (no shelter),Highway 156 and Hwy 101,Caltrans Park-and-Ride Lot,Prunedale,CA,93907,United States,Pacific,P,"36.789342,-121.670938",96,
+PDX,"Portland (Amtrak - Union Station), Oregon",Y,Station Building (with waiting room),800 NW Sixth Avenue,Union Station,Portland,OR,97209-3789,United States,Pacific Northwest,P,"45.528724,-122.676806",34,529121
+PEN,"Pendleton, Oregon",N,Station Building (with waiting room),801 SE Court Avenue,Double J Drive Thru/Greyhound Station,Pendleton,OR,97801,United States,Pacific Northwest,P,"45.674323,-118.779502",1080,
+PFS,"Post Falls, Idaho",N,Curbside Bus Stop only (no shelter),201 East Fourth Avenue,Chamber of Commerce,Post Falls,ID,88354,United States,Pacific Northwest,P,"47.711250,-116.946426",2165,
+PGH,"Pittsburgh, Pennsylvania",Y,Station Building (with waiting room),1100 Liberty Avenue,,Pittsburgh,PA,15222,United States,Mid-Atlantic,E,"40.443880,-79.992733",744,1000000
+PHA,"Phoenix (Airport), Arizona",N,Station Building (with waiting room),3400 East Sky Harbor Boulevard,"City-to-City Transport Desk, Terminals 2, 3 or 4",Phoenix,AZ,85034,United States,Southwest,M,"33.436390,-112.013047",1120,1500000
+PHG,"Phoenix (Greyhound), Arizona",N,Station Building (with waiting room),2115 East Buckeye Road,,Phoenix,AZ,85034,United States,Southwest,M,"33.436395,-112.035623",1100,1500000
+PHL,"Philadelphia (30th St), Pennsylvania",Y,Station Building (with waiting room),2955 Market Street,30th Street Station,Philadelphia,PA,19104-2898,United States,Mid-Atlantic,E,"39.955615,-75.181041",16,1585577
+PHN,"Philadelphia (North), Pennsylvania",N,Station Building (with waiting room),2900 North Broad Street,Broad St. and Glenwood Avenue,Philadelphia,PA,19132-2400,United States,Mid-Atlantic,E,"39.996780,-75.155114",114,
+PIA,"Peoria, Illinois",N,Station Building (with waiting room),407 Southwest Adams Street,City Link Transit Center,Peoria,IL,61602-1538,United States,Central,C,"40.689245,-89.593871",494,
+PIC,"Picayune, Mississippi",N,Station Building (with waiting room),200 Highway 11 South,at Tate Street,Picayune,MS,39466,United States,Southern,C,"30.524606,-89.680260",73,11759
+PIT,"Pittsfield, Massachusetts",N,Platform only (no shelter),1355 East Street,CSX yard,Pittsfield,MA,01201-5314,United States,Northeast,E,"42.454382,-73.219078",1004,51974
+PJC,"Princeton Junction, New Jersey",Y,Station Building (with waiting room),2 Wallace Circle,,Princeton Junction,NJ,08550-1008,United States,Northeast,E,"40.315850,-74.623976",79,
+PLB,"Plattsburgh, New York",N,Station Building (with waiting room),Bridge and Dock Streets,,Plattsburgh,NY,12901,United States,Northeast,E,"44.696728,-73.446284",117,19298
+PLO,"Plano, Illinois",N,Station Building (with waiting room),101 West Main Street,,Plano,IL,60545,United States,Central,C,"41.662384,-88.538272",649,5600
+PLS,"Pleasanton (ACE Station), California",N,Platform with Shelter,4950 Pleasanton Avenue,,Pleasanton,CA,94566,United States,Pacific,P,"37.658152,-121.882639",333,
+PLU,"Plummer, Idaho",N,Curbside Bus Stop only (no shelter),396070 Highway 95,Warpath Smoke Shop and Trading Post,Plummer,ID,83851-9553,United States,Pacific Northwest,P,"47.338388,-116.888786",2716,
+PMD,"Palmdale, California",N,Curbside Bus Stop only (no shelter),39000 Clock Tower Plaza Drive,"Palmdale Transportation Center, Bus Bay 2E",Palmdale,CA,93550-4513,United States,Southwest,P,"34.591238,-118.120737",2633,
+PMM,"Primm, Nevada",N,Curbside Bus Stop only (no shelter),31900 Las Vegas Blvd. South,Whiskey Petes's Hotel/Casino,Primm,NV,89019-7002,United States,Southwest,P,"35.611030,-115.391742",2612,
+PMO,"Plymouth, New Hampshire",N,Curbside Bus Stop only (no shelter),83 Main Street,Chase Street Market,Plymouth,NH,03264-1548,United States,Northeast,E,"43.757848,-71.687691",507,
+PNT,"Pontiac, Michigan",N,Station Building (with waiting room),51000 Woodward Avenue,Pontiac Transportation Center,Pontiac,MI,48342-2276,United States,Central,E,"42.632771,-83.292325",933,67124
+POG,"Portage, Wisconsin",N,Platform with Shelter,400 West Oneida Street,,Portage,WI,53901,United States,Central,C,"43.547079,-89.467627",811,9919
+POH,"Port Henry, New York",N,Station Building (with waiting room),20 Park Place,Senior Citizen Center,Port Henry,NY,12974-1324,United States,Northeast,E,"44.042297,-73.458753",109,2500
+PON,"Pontiac, Illinois",N,Station Building (with waiting room),721 West Washington Street,,Pontiac,IL,61764,United States,Central,C,"40.879652,-88.636601",639,11353
+POR,"Portland, Maine",Y,Station Building (with waiting room),100 Thompson's Point Road,Portland Transportation Center,Portland,ME,04102-2630,United States,Northeast,E,"43.654097,-70.291258",20,16557
+POS,"Pomona (Sunset Ltd), California",N,Platform only (no shelter),100 West Commercial Street,,Pomona,CA,91768,United States,Southwest,P,"34.059224,-117.750621",866,154271
+POU,"Poughkeepsie, New York",N,Station Building (with waiting room),41 Main Street,Amtrak/Metro-North Station,Poughkeepsie,NY,12601-2909,United States,Northeast,E,"41.707056,-73.937490",55,89000
+PRB,"Paso Robles, California",N,Station Building (with waiting room),800 Pine Street,Paso Robles Intermodal Station,Paso Robles,CA,93446-2856,United States,Southwest,P,"35.622683,-120.687860",729,20000
+PRC,"Prince, West Virginia (Beckley)",Y,Station Building (with waiting room),5034 Stanaford Road,(station between highway and railroad tracks),Prince,WV,25907,United States,Mid-Atlantic,E,"37.856594,-81.060694",1198,29003
+PRI,"Perris, California",N,Curbside Bus Stop only (no shelter),1688-J North Perris Blvd,International House of Pancakes,Perris,CA,92571-4702,United States,Southwest,P,"33.801955,-117.229795",1454,
+PRK,"Port Kent, New York",N,Platform only (no shelter),NY 373 and Lake Street,near Burlington-Fort Kent ferry dock,Port Kent,NY,12975,United States,Northeast,E,"44.524079,-73.403536",142,500
+PRM,"Point of Rocks, Maryland",,Pseudo Station,4000 Clay Street,MARC Station,Point of Rocks,MD,21777,United States,MARC,E,"null,null",,
+PRO,"Provo, Utah",N,Platform with Shelter,300 West 600 South,,Provo,UT,84601-4542,United States,Pacific,M,"40.225957,-111.664001",4523,60000
+PRV,"Perryville, Maryland",,Pseudo Station,650 Broad Street,MARC Station,Perryville,MD,21903,United States,MARC,E,"null,null",,
+PSC,"Pasco, Washington",Y,Station Building (with waiting room),535 North 1st Avenue,Pasco Intermodal Train Station,Pasco,WA,99301-5378,United States,Pacific Northwest,P,"46.237012,-119.087729",390,49927
+PSK,"Petoskey, Michigan",N,Curbside Bus Stop only (no shelter),301 West Mitchell St.,The Book Stop,Petosky,MI,49770-2327,United States,Central,C,"45.373819,-84.964139",634,6200
+PSN,"Palm Springs (Train), California",N,Platform with Shelter,North Indian Canyon Drive and Palm Springs Station Road,0.6 mi /1.0 km south of I-10,Palm Springs,CA,92262,United States,Southwest,P,"33.897491,-116.547913",685,47806
+PSP,"Palm Springs (Buses-Airport), California",N,Curbside Bus Stop only (no shelter),3400 East Tahquitz Canyon Way,SunLine Transit Bus Stop,Palm Springs,CA,92262,United States,Southwest,P,"33.824009,-116.508939",418,100000
+PSS,"Palm Springs (Buses-Downtown), California",N,Curbside Bus Stop only (no shelter),100 North Indian Canyon Drive,SunLine Transit Bus Stop,Palm Springs,CA,92262-6414,United States,Southwest,P,"33.824643,-116.545440",458,
+PST,"Pellston, Michigan",N,Curbside Bus Stop only (no shelter),45 South US Hwy 31,BP Station/General Store,Pellston,MI,49769,United States,Central,E,"45.550636,-84.783762",696,580
+PTB,"Petersburg, Virginia",Y,Station Building (with waiting room),3516 South Street,Ettrick Station,Petersburg,VA,23803-1642,United States,Southern,E,"37.241627,-77.428794",103,
+PTC,"Petaluma, California",N,Curbside Bus Stop only (no shelter),100 Fairgrounds Drive,Regional Library,Petaluma,CA,94952,United States,Pacific,P,"38.242606,-122.631366",32,41300
+PTE,"Pateros, Washington",N,Curbside Bus Stop only (no shelter),245 Lakeshore Drive,Chevron Station/Super Stop Store,Pateros,WA,98846,United States,Pacific,P,"48.051619,-119.902313",800,
+PTH,"Port Huron, Michigan",Y,Station Building (with waiting room),2223 16th Street,,Port Huron,MI,48060,United States,Central,E,"42.960419,-82.443805",604,35796
+PTL,"Potlatch, Idaho",N,Curbside Bus Stop only (no shelter),5497 US Highway 95,Dad's Diner,Potlatch,ID,83855,United States,Pacific Northwest,P,"46.921502,-116.901792",2502,
+PTS,"Portsmouth, New Hampshire",N,Station Building (with waiting room),185 Grafton Drive,Portsmouth Transportation Center,Portsmouth,NH,03801-7126,United States,Northeast,E,"43.059678,-70.804088",62,
+PUB,"Pueblo, Colorado",N,Station Building (with waiting room),123 Court Street,Transit Center,Pueblo,CO,81003,United States,Central,M,"38.268742,-104.610270",4663,99600
+PUL,"Pullman, Washington",N,Station Building (with waiting room),1002 Northwest Nye St.,Northwestern Stage Lines Depot,Pullman,WA,99163-3429,United States,Pacific Northwest,P,"46.738008,-117.174584",2359,23600
+PUR,"Purcell, Oklahoma",N,Station Building (with waiting room),East Main Street and North Santa Fe Avenue,,Purcell,OK,73080,United States,Central,C,"35.012033,-97.357416",1037,6129
+PVD,"Providence, Rhode Island",Y,Station Building (with waiting room),100 Gaspee Street,,Providence,RI,02903,United States,Northeast,E,"41.829490,-71.413478",17,175000
+PVL,"Pauls Valley, Oklahoma",N,Station Building (with waiting room),South Santa Fe Street and East Paul Avenue,,Pauls Valley,OK,73075,United States,Southwest,C,"34.741735,-97.218460",873,6121
+PXN,"Phoenix (Metro Center Transit Station), Arizona",N,Platform only (no shelter),9617 North Metro Parkway West,North Phoenix,Phoenix,AZ,85023,United States,Southwest,M,"33.572957,-112.123148",1230,1500000
+QAN,"Quantico, Virginia",N,Platform with Shelter,550 Railroad Avenue,at Potomac Avenue  inside Marine Corps base,Quantico,VA,22134-3444,United States,Mid-Atlantic,E,"38.521882,-77.293027",36,600
+QCY,"Quincy, Illinois",N,Station Building (with waiting room),North 30th Street and Wisman Lane,,Quincy,IL,62301,United States,Central,C,"39.957063,-91.368525",623,40000
+QUC,"Quincy, Washington",N,Curbside Bus Stop only (no shelter),223 F Street SE,Short Stop Gas Station,Quincy,WA,98848-1497,United States,Pacific Northwest,P,"47.234141,-119.848625",1299,3738
+RAT,"Raton, New Mexico",Y,Station Building (with waiting room),201 South First Street,(At Cook Ave),Raton,NM,87740-3903,United States,Southwest,M,"36.901072,-104.437886",6661,8500
+RBC,"Richmond, British Columbia",N,Curbside Bus Stop only (no shelter),10251 St. Edwards Drive,Sandman Signature Hotel,Richmond,BC,V6X 2M9,Canada,Pacific,P,"49.187230,-123.109885",20,148867
+RBF,"Red Bluff, California",N,Curbside Bus Stop only (no shelter),Rio and Walnut Streets,TRAX Bus & Ride,Red Bluff,CA,96080-3802,United States,Pacific,P,"40.178482,-122.234586",303,94900
+RCK,"Rockford, Illinois",N,Station Building (with waiting room),7559 Walton St.,Van Galder Bus Station,Rockford,IL,61108-4606,United States,Central,C,"42.268845,-88.966110",837,
+RDD,"Redding (Amtrak Station), California",N,Station Building (with waiting room),1620 Yuba Street,,Redding,CA,96001-1712,United States,Pacific,P,"40.583595,-122.393370",560,90033
+RDM,"Redmond Airport, Oregon",N,Curbside Bus Stop only (no shelter),2300 Redmond Airport Way,Redmond Airport,Redmond,OR,97756,United States,Pacific Northwest,P,"44.253466,-121.161056",3063,
+RDR,"Redding (RABA Transit Center), California",N,Platform with Shelter,1530 Yuba Street,,Redding,CA,96001-1008,United States,Pacific,P,"40.583521,-122.392768",559,
+RDS,"Rio Dell-Scotia, California",N,Curbside Bus Stop only (no shelter),100 Main Street,Scotia Inn,Scotia,CA,95565,United States,Pacific,P,"40.484822,-124.100790",159,2687
+RDW,"Red Wing, Minnesota",N,Station Building (with waiting room),420 Levee Street,,Red Wing,MN,55066,United States,Central,C,"44.566214,-92.537066",687,15687
+REE,"Reed City, Michigan",N,Curbside Bus Stop only (no shelter),US 10 & 220th Ave.,McDonald's Restaurant,Reed City,MI,49677-1119,United States,Central,E,"43.886840,-85.521804",1080,2379
+REF,Refund,,Pseudo Station,,,,,,,,,"null,null",,
+REN,"Rensselaer, Indiana",N,Platform with Shelter,776 North Cullen Street,,Rensselaer,IN,47978,United States,Central,C,"40.943281,-87.155121",668,5045
+RGH,"Raleigh, North Carolina",Y,Station Building (with waiting room),320 West Cabarrus Street,,Raleigh,NC,27601,United States,Southern,E,"35.774923,-78.645894",311,1200000
+RHI,"Rhinecliff, New York",Y,Station Building (with waiting room),Hutton and Charles Streets,,Rhinecliff,NY,12574,United States,Northeast,E,"41.921346,-73.951278",39,2336
+RIC,"Richmond, California",N,Platform with Shelter,1700 Nevin Avenue,BART Station,Richmond,CA,94802,United States,Pacific,P,"37.936752,-122.354130",38,
+RIV,"Riverside, California",N,Platform with Shelter,4066 Vine Street,Metrolink Station,Riverside,CA,92507-4223,United States,Southwest,P,"33.975670,-117.369988",873,240000
+RKF,"Rockford, Michigan",N,Curbside Bus Stop only (no shelter),"2770 Ten Mile Road, Northeast",BP Station,Rockford,MI,49341,United States,Central,E,"43.116549,-85.601879",871,3750
+RKI,"Rock Island, Illinois",N,Curbside Bus Stop only (no shelter),3500 5th Avenue,"Augustana College, Carver P.E. Center",Rock Island,IL,61201,United States,Central,C,"41.506223,-90.550389",591,
+RKV,"Rockville, Maryland",N,Platform with Shelter,307 South Stonestreet Avenue,at Park Road - Metro/MARC/Amtrak station,Rockville,MD,20850,United States,Mid-Atlantic,E,"39.084547,-77.145995",425,50000
+RLN,"Rocklin, California",N,Station Building (with waiting room),Rocklin Rd. and Railroad Ave.,,Rocklin,CA,95677,United States,Pacific,P,"38.791006,-121.237299",254,
+RLP,Destination code for Rail Pass,,Pseudo Station,,,,,,,,,"null,null",,
+RMT,"Rocky Mount, North Carolina",Y,Station Building (with waiting room),101 Coastline Street,,Rocky Mount,NC,27804-5820,United States,Southern,E,"35.938001,-77.797855",113,60000
+RNO,"Reno, Nevada",Y,Station Building (with waiting room),280 North Center Street,East Commercial Row and Center Street,Reno,NV,89501-1425,United States,Pacific,P,"39.528521,-119.812123",4501,120000
+RNY,"Running Y Ranch, Oregon",N,Curbside Bus Stop only (no shelter),5500 Running Y Road,Running Y Lodge,Klamath Falls,OR,97601,United States,Pacific Northwest,P,"42.276880,-121.885157",4220,
+ROC,"Rochester, New York",Y,Station Building (with waiting room),320 Central Avenue,,Rochester,NY,14605,United States,Northeast,E,"43.163411,-77.608057",518,230000
+ROD,"Rockland, Maine",N,Station Building (with waiting room),517A Main Street,Maine State Ferry Terminal,Rockland,ME,04841-3366,United States,Northeast,E,"44.107267,-69.108220",2,
+ROM,"Rome, New York",N,Station Building (with waiting room),6599 Martin Street,,Rome,NY,13440,United States,Northeast,E,"43.199425,-75.449960",437,34220
+ROY,"Royal Oak, Michigan",N,Platform with Shelter,202 South Sherman Drive,,Royal Oak,MI,48069,United States,Central,E,"42.488439,-83.147010",664,57984
+RPA,Rail Pass,,Pseudo Station,,,,,,,,,"null,null",,
+RPC,"Rohnert Park, California",N,Curbside Bus Stop only (no shelter),6335 Commerce Blvd,Transit Stop,Rohnert Park,CA,94928,United States,Pacific,P,"38.347328,-122.709749",99,22965
+RPH,"Randolph, Vermont",N,Platform only (no shelter),South Main and Salisbury Streets,Depot Square,Randolph,VT,05060,United States,Northeast,E,"43.922398,-72.665459",705,5091
+RPT,"Reedsport, Oregon",N,Curbside Bus Stop only (no shelter),2012 Winchester Avenue,"Lion's Park, across street from 7-11 store",Reedsport,OR,97467-1605,United States,Pacific Northwest,P,"43.695675,-124.120214",60,
+RSP,"Rouses Point, New York",N,Platform only (no shelter),Delaware and Pratt Streets,,Rouses Point,NY,12979,United States,Northeast,E,"44.994870,-73.371093",119,2250
+RSV,"Roseville, California",N,Platform with Shelter,201 Pacific Street,,Roseville,CA,95678-2242,United States,Pacific,P,"38.750016,-121.286286",156,32700
+RTE,"Route 128, Westwood, Massachusetts",Y,Station Building (with waiting room),50 University Avenue,,Westwood,MA,02090-2307,United States,Northeast,E,"42.210242,-71.147894",53,12750
+RTL,"Rantoul, Illinois",N,Platform with Shelter,West Sangamon and North Kentucky Avenues,,Rantoul,IL,61866,United States,Central,C,"40.310905,-88.159126",755,20641
+RTZ,"Ritzville, Washington",N,Curbside Bus Stop only (no shelter),1503 South Smittys Blvd.,Zips Drive In,Ritzville,WA,99169,United States,Pacific Northwest,P,"47.119405,-118.365340",1885,
+RUD,"Rutland, Vermont",N,Station Building (with waiting room),25 Evelyn Street,,Rutland,VT,05701,United States,Northeast,E,"43.605756,-72.981538",547,18001
+RUG,"Rugby, North Dakota",Y,Station Building (with waiting room),201 West Dewey Street,,Rugby,ND,58368,United States,Central,C,"48.369846,-99.997556",1560,2574
+RVD,"Riverdale, Maryland",,Pseudo Station,3 Queensberry Road,MARC Station,Riverdale,MD,20737,United States,MARC,E,"null,null",,
+RVM,"Richmond (Main St), Virginia",N,Station Building (with waiting room),1500 East Main Street,,Richmond,VA,23219,United States,Mid-Atlantic,E,"37.534209,-77.429512",26,100000
+RVR,"Richmond (Staples Mill Rd), Virginia",Y,Station Building (with waiting room),7519 Staples Mill Road,,Richmond,VA,23228,United States,Mid-Atlantic,E,"37.617693,-77.496943",208,200000
+RVT,"Rio Vista, California",N,Curbside Bus Stop only (no shelter),28 South Front Street,Delta Breeze Transit bus stop,Rio Vista,CA,94571-1837,United States,Pacific,P,"38.155708,-121.690895",17,
+SAB,"St. Albans, Vermont",N,Station Building (with waiting room),40 Federal Street,,St Albans,VT,05478,United States,Northeast,E,"44.812360,-73.086191",389,7409
+SAC,"Sacramento, California",Y,Station Building (with waiting room),401 I Street,,Sacramento,CA,95814-2308,United States,Pacific,P,"38.584004,-121.500704",33,369305
+SAF,"Santa Fe (Lamy Shuttle), New Mexico",N,Curbside Bus Stop only (no shelter),No specific stop location,Call 505-982-8829 for pickup,Santa Fe,NM,87501,United States,Southwest,M,"null,null",,59200
+SAL,"Salisbury, North Carolina",N,Station Building (with waiting room),215 Depot Street,,Salisbury,NC,28144,United States,Southern,E,"35.667496,-80.466323",748,28480
+SAN,"San Diego (Downtown), California",Y,Station Building (with waiting room),1050 Kettner Boulevard,,San Diego,CA,92101-3339,United States,Southwest,P,"32.716169,-117.169576",15,875500
+SAO,"Saco, Maine",N,Station Building (with waiting room),138 Main Street,Saco Island on Main Street,Saco,ME,04072-3502,United States,Northeast,E,"43.496191,-70.449139",61,18289
+SAP,"Santa Paula, California",N,Curbside Bus Stop only (no shelter),327 South Palm Avenue,Carrow's Restaurant,Santa Paula,CA,93060-3376,United States,Southwest,P,"34.346197,-119.069060",244,24400
+SAR,"Saratoga Springs, New York",Y,Station Building (with waiting room),26 Station Lane,,Saratoga Springs,NY,12866,United States,Northeast,E,"43.082810,-73.810027",325,23000
+SAS,"San Antonio, Texas",Y,Station Building (with waiting room),350 Hoefgen Street,,San Antonio,TX,78205,United States,Southwest,C,"29.419350,-98.478143",660,1296682
+SAT,"Santa Maria, California",N,Curbside Bus Stop only (no shelter),205 South Nicholson Avenue,International House of Pancakes,Santa Maria,CA,93455,United States,Southwest,P,"34.951608,-120.416455",242,20000
+SAV,"Savannah, Georgia",Y,Station Building (with waiting room),2611 Seaboard Coastline Drive,,Savannah,GA,31401-1634,United States,Southern,E,"32.083412,-81.148264",17,142350
+SBA,"Santa Barbara, California",Y,Station Building (with waiting room),209 State Street,,Santa Barbara,CA,93101-3833,United States,Southwest,P,"34.413718,-119.692785",22,90200
+SBG,"Sebring, Florida",Y,Station Building (with waiting room),601 East Center Avenue,,Sebring,FL,33870-3513,United States,Southern,E,"27.496632,-81.434202",145,10648
+SBY,"Shelby, Montana",Y,Station Building (with waiting room),230 West Central Avenue,,Shelby,MT,59474-2050,United States,Pacific Northwest,M,"48.506748,-111.856649",3283,3216
+SCA,"St. Catharines, Ontario",Y,Station Building (with waiting room),5 Great Western St.,,St. Catharines,ON,L2S 2K3,Canada,VIA Rail Canada Inc.,E,"43.147829,-79.256017",357,
+SCC,"Santa Clara (University), California",N,Platform with Shelter,1001 Railroad Avenue,Caltrain/ACE station,Santa Clara,CA,95050-4319,United States,Pacific,P,"37.353219,-121.936576",69,
+SCD,"St. Cloud, Minnesota",N,Station Building (with waiting room),555 East Saint Germain Street,,St. Cloud,MN,56304-0751,United States,Central,C,"45.567748,-94.149093",1025,66948
+SCH,"Schriever, Louisiana",N,Platform only (no shelter),Highway 20 and Highway 24,,Schriever,LA,70395,United States,Central,C,"29.746678,-90.815246",16,3018
+SCS,"Sacramento (State Capitol), California",N,Curbside Bus Stop only (no shelter),1389 10th Street,Drop-Only Bus Stop,Sacramento,CA,95814-4905,United States,Pacific,P,"38.576137,-121.495175",21,
+SCZ,"Santa Cruz, California",N,Curbside Bus Stop only (no shelter),920 Pacific Avenue,"Metro Center, lane 2 (Highway 17 Express)",Santa Cruz,CA,95060,United States,Pacific,P,"36.971017,-122.025094",9,234400
+SDC,"Sedona, Arizona",N,Curbside Bus Stop only (no shelter),300 North Highway 89A,Canyon Breeze Restaurant,Sedona,AZ,86336-4223,United States,Southwest,M,"34.870511,-111.760303",4349,
+SDL,"Slidell, Louisiana",N,Station Building (with waiting room),1827 Front Street,,Slidell,LA,70458,United States,Southern,C,"30.278372,-89.782565",8,28089
+SDY,"Schenectady, New York",Y,Station Building (with waiting room),332 Erie Boulevard,,Schenectady,NY,12305-1817,United States,Northeast,E,"42.814606,-73.942887",245,72000
+SEA,"Seattle (Amtrak), Washington",Y,Station Building (with waiting room),303 South Jackson Street,King Street Station,Seattle,WA,98104-2868,United States,Pacific Northwest,P,"47.598445,-122.330161",26,530832
+SEB,"Seabrook, Maryland",,Pseudo Station,6221 Seabrook Road,MARC Station,Lanham,MD,20706,,MARC,E,"null,null",,
+SED,"Sedalia, Missouri",N,Station Building (with waiting room),Pacific Street and North Osage Avenue,,Sedalia,MO,65301,United States,Central,C,"38.711604,-93.228706",890,20600
+SES,"Seaside, California",N,Curbside Bus Stop only (no shelter),Playa Avenue & California Avenue,Edgewater Transit Exchange,Seaside,CA,93955,United States,Pacific,P,"36.619362,-121.843842",39,
+SFA,"Sanford (Auto Train), Florida",Y,Station Building (with waiting room),600 South Persimmon Avenue,,Sanford,FL,32771-2385,United States,Southern,E,"28.808544,-81.291274",21,
+SFB,San Francisco Bay Cruise Admission Ticket,,Pseudo Station,San Francisco Bay Cruise,Book between SFW and SFB,San Francisco,CA,94133,,,,"null,null",,
+SFC,"San Francisco (Ferry), California",Y,Station Building (with waiting room),101 The Embarcadero,at Mission St. and The Embarcadero,San Francisco,CA,94105-1216,United States,Pacific,P,"37.794459,-122.392155",8,824525
+SFF,"San Francisco (Financial), California",N,Curbside Bus Stop only (no shelter),5 Embarcadero Center,Corner of California & Drumm Streets,San Francisco,CA,94111-4800,United States,Pacific,P,"37.793874,-122.396302",9,659000
+SFG,"San Francisco (Groups Only),California",N,Curbside Bus Stop only (no shelter),No specific stop location,Special stops in city for groups,San Francisco,CA,94111,United States,Pacific,P,"null,null",,
+SFM,"San Francisco (Conv Ctr), California",N,Curbside Bus Stop only (no shelter),747 Howard St.,4th & Howard Sts. - Moscone Convention Ctr.,San Francisco,CA,94103-3118,United States,Pacific,P,"37.783471,-122.402609",29,659000
+SFP,"San Francisco (Caltrain), California",N,Curbside Bus Stop only (no shelter),700 4th St.,Fourth and Townsend Sts. - Caltrain Station,San Francisco,CA,94107-1617,United States,Pacific,P,"37.776627,-122.394601",9,
+SFS,"San Francisco (Shopping), California",N,Curbside Bus Stop only (no shelter),835 Market Street,Westfield San Francisco Centre,San Francisco,CA,94103-1901,United States,Pacific,P,"37.784720,-122.406918",35,659000
+SFV,"San Francisco (Civic Center), California",N,Curbside Bus Stop only (no shelter),1139 Market Street,"South side of Market, between 7th and 8th Streets",San Francisco,CA,94102,United States,Pacific,P,"37.779798,-122.413262",44,
+SFW,"San Francisco (Wharf), California",N,Curbside Bus Stop only (no shelter),Beach St. & The Embarcadero,Pier 39 - Fisherman's Wharf,San Francisco,CA,94133,United States,Pacific,P,"37.808458,-122.410306",10,659000
+SGL,"Sagle, Idaho",N,Curbside Bus Stop only (no shelter),468810 Highway 95,Travel America Conoco Plaza,Sagle,ID,83860,United States,Pacific Northwest,P,"48.203681,-116.565810",2206,
+SGW,"Saginaw, Michigan",N,Station Building (with waiting room),511 Johnson Street,Saginaw Bus Center,Saginaw,MI,48607,United States,Central,E,"43.434928,-83.933429",594,
+SHB,"Sheboygan, Wisconsin",N,Curbside Bus Stop only (no shelter),830 Pennsylvania Avenue,Metro Center Transfer Point,Sheboygan,WI,53081,United States,Central,C,"43.749920,-87.714028",628,
+SHR,"Shreveport, Louisiana",N,Curbside Bus Stop only (no shelter),Exit 13 off IH 20,Shreveport Regional Airport,Shreveport,LA,71109-7764,United States,Southwest,C,"32.454512,-93.828086",250,219000
+SHW,"Shawano, Wisconsin",N,Curbside Bus Stop only (no shelter),N4543 State Highway 22,Shawano Shell,Shawano,WI,54166-6160,United States,Central,C,"44.753147,-88.615339",876,
+SID,"Sandpoint (Bus), Idaho",N,Curbside Bus Stop only (no shelter),1105 Michigan Avenue,Conoco Gas Station Dairy Depot,Sandpoint,ID,83864,United States,Pacific Northwest,P,"48.269569,-116.562907",2093,
+SIM,"Simi Valley, California",N,Platform only (no shelter),5050 Los Angeles Avenue,Amtrak/Metrolink Station,Simi Valley,CA,93063,United States,Southwest,P,"34.270204,-118.695163",988,85000
+SJC,"San Jose, California",Y,Station Building (with waiting room),65 Cahill Street,Diridon Station,San Jose,CA,95110,United States,Pacific,P,"37.329933,-121.902388",97,929936
+SJM,"St. Joseph, Michigan",N,Station Building (with waiting room),410 1/2 Vine Street,,St. Joseph,MI,49085,United States,Central,E,"42.109080,-86.484484",603,8623
+SKE,"Skykomish (Eastbound), Washington",N,Curbside Bus Stop only (no shelter),147 5th Street North,Sky Gas Station,Skykomish,WA,98288,United States,Pacific Northwest,P,"47.711229,-121.361738",933,300
+SKN,"Stockton (711-718), California",Y,Station Building (with waiting room),735 South San Joaquin Street,,Stockton,CA,95203,United States,Pacific,P,"37.945468,-121.285632",17,290141
+SKT,"Stockton (ACE, 701-704), California",N,Platform with Shelter,949 East Channel St.,Robert J. Cabral Station,Stockton,CA,95202,United States,Pacific,P,"37.957038,-121.279000",19,
+SKW,"Skykomish (Westbound), Washington",N,Curbside Bus Stop only (no shelter),90000 NE Stevens Pass Highway,next to former Sky Chalet Restaurant,Skykomish,WA,98288,United States,Pacific Northwest,P,"47.711903,-121.360091",939,300
+SKY,"Sandusky, Ohio",N,Platform with Shelter,1200 North Depot St.,at Shelby St.,Sandusky,OH,44870-3165,United States,Central,E,"41.440671,-82.717866",597,61963
+SLB,"Salt Lake City (Buses), Utah",N,Station Building (with waiting room),300 South 600 West,Intermodal Hub Bus Terminal,Salt Lake City,UT,84101,United States,Pacific,M,"40.763040,-111.908510",4232,950000
+SLC,"Salt Lake City (Amtrak), Utah",Y,Station Building (with waiting room),340 South 600 West,,Salt Lake City,UT,84101,United States,Pacific,M,"40.761661,-111.908349",4231,950000
+SLG,"Salem (Greyhound), Oregon",N,Station Building (with waiting room),450 Church St. NE,Greyhound Station,Salem,OR,97301-3725,United States,Pacific Northwest,P,"44.942975,-123.033525",160,
+SLH,"Stateline Transit Center, California",N,Curbside Bus Stop only (no shelter),4114 Lake Tahoe Blvd,Transportation Center,Stateline,CA,96150,United States,Pacific,P,"38.957790,-119.942288",6293,
+SLM,"Salem, Oregon",Y,Station Building (with waiting room),500 13th Street SE,,Salem,OR,97301,United States,Pacific Northwest,P,"44.932331,-123.028331",165,100000
+SLN,"Stateline, Nevada",N,Curbside Bus Stop only (no shelter),169 Highway 50,Kingsbury Transit Center,Stateline,NV,89449,United States,Pacific,P,"38.969907,-119.934816",6325,
+SLO,"San Luis Obispo, California",Y,Station Building (with waiting room),1011 Railroad Avenue,,San Luis Obispo,CA,93401-4449,United States,Southwest,P,"35.276434,-120.654701",248,41200
+SLP,"San Luis Obispo (Cal Poly), California",N,Curbside Bus Stop only (no shelter),Grand Avenue & Deer Road,Vista Grande Restaurant,San Luis Obispo,CA,93401,United States,Southwest,P,"35.299260,-120.656635",391,40400
+SLQ,"St-Lambert, Quebec",Y,Station Building (with waiting room),329 avenue St-Denis,,St-Lambert,QC,J4P 2G5,Canada,VIA Rail Canada Inc.,E,"45.498896,-73.507287",69,50000
+SLS,"Salisbury (BayRunner Shuttle), Maryland",N,Curbside Bus Stop only (no shelter),547E Riverside Drive,BayRunner Shuttle,Salisbury,MD,21801,United States,Mid-Atlantic,E,"38.361983,-75.605898",8,
+SLT,"South Lake Tahoe, California",N,Curbside Bus Stop only (no shelter),1000 Emerald Bay Road,South Y Transit Center,South Lake Tahoe,CA,96151,United States,Pacific,P,"38.913065,-120.004765",6271,23100
+SLV,"Solvang, California",N,Curbside Bus Stop only (no shelter),1630 Mission Drive,,Solvang,CA,93463,United States,Southwest,P,"34.595913,-120.140580",495,20000
+SLY,"Salisbury (Greyhound), Maryland",N,Station Building (with waiting room),799 North Salisbury Boulevard,Suite 1300 - Shore Transit/Tri-County,Salisbury,MD,21801-4126,United States,Mid-Atlantic,E,"38.374109,-75.592050",29,
+SMC,"San Marcos, Texas",N,Platform with Shelter,338 South Guadalupe Street,San Marcos Intermodal Station,San Marcos,TX,78666-6310,United States,Southwest,C,"29.876571,-97.941049",573,29800
+SMD,"Madison (Dutch Mill), Wisconsin",N,Curbside Bus Stop only (no shelter),Hwy 51 & East Broadway Avenue,Dutch Mill Park and Ride,Madison,WI,53716,United States,Central,C,"43.047464,-89.304303",851,
+SMI,"Sault Sainte Marie, Michigan",N,Curbside Bus Stop only (no shelter),4001 I-75 Business Spur,Eastern Upper Peninsula Transit Authority Terminal,Sault Sainte Marie,MI,49783-3619,United States,Central,E,"46.463461,-84.371705",701,
+SMR,"Smith River, California",N,Curbside Bus Stop only (no shelter),13450 US Highway 101 North,Shell Station Lucky 7 Casino Store,Smith River,CA,95567,United States,Pacific,P,"41.957498,-124.203781",79,
+SMT,"Summit, Illinois",N,Platform with Shelter,Archer Avenue and South Center Avenue,,Summit,IL,60501,United States,Central,C,"41.794912,-87.809742",600,11000
+SNA,"Santa Ana, California",Y,Station Building (with waiting room),1000 East Santa Ana Boulevard,Santa Ana Regional Transportation Center,Santa Ana,CA,92701,United States,Southwest,P,"33.751629,-117.856607",137,210000
+SNB,"San Bernardino (Amtrak Station), California",N,Station Building (with waiting room),1170 West Third Street,,San Bernardino,CA,92410-1715,United States,Southwest,P,"34.104112,-117.310659",1064,187000
+SNC,"San Juan Capistrano, California",Y,Station Building (with waiting room),26701 Verdugo Street,,San Juan Capistrano,CA,92675,United States,Southwest,P,"33.501318,-117.663813",112,25000
+SND,"Sanderson, Texas",N,Platform with Shelter,201 West Downie Street,,Sanderson,TX,79848,United States,Southwest,C,"30.139951,-102.398746",2774,974
+SNP,"San Clemente Pier, California",N,Platform only (no shelter),615 Avenida Victoria,at the San Clemente Pier,San Clemente,CA,92672-5301,United States,Southwest,P,"33.419645,-117.619733",18,50000
+SNS,"Salinas, California",Y,Station Building (with waiting room),11 Station Place,1 block north of Market St. ,Salinas,CA,93901-1432,United States,Pacific,P,"36.679145,-121.656745",52,145032
+SNY,"Stanley, Wisconsin",N,Curbside Bus Stop only (no shelter),604 South Broadway Street,Shell Station Travel Plaza,Stanley,WI,54768,United States,Central,C,"44.949813,-90.938352",1065,
+SOB,"South Bend, Indiana",Y,Station Building (with waiting room),2702 West Washington Avenue,,South Bend,IN,46628,United States,Central,E,"41.678360,-86.287345",715,125580
+SOL,"Solana Beach, California",Y,Station Building (with waiting room),105 North Cedros Avenue,Solana Beach Transit Center,Solana Beach,CA,92075,United States,Southwest,P,"32.992937,-117.271135",79,17000
+SOP,"Southern Pines, North Carolina",N,Station Building (with waiting room),235 Northwest Broad Street,,Southern Pines,NC,28387,United States,Southern,E,"35.175069,-79.390303",508,8800
+SPB,"Spartanburg, South Carolina",N,Station Building (with waiting room),290 Magnolia Street,,Spartanburg,SC,29303,United States,Southern,E,"34.953736,-81.936917",759,38561
+SPD,"San Pedro (Catalina Terminal), California",N,Curbside Bus Stop only (no shelter),North Front Street and Swinford Street,"Berth 95, Catalina Terminal",San Pedro,CA,90731,United States,Southwest,P,"33.749855,-118.278320",13,
+SPG,"Springfield, Massachusetts",Y,Station Building (with waiting room),66 Lyman Street,,Springfield,MA,01103,United States,Northeast,E,"42.105987,-72.592905",69,27900
+SPI,"Springfield, Illinois",Y,Station Building (with waiting room),100 North Third Street,,Springfield,IL,62701-1106,United States,Central,C,"39.802323,-89.651384",596,116482
+SPK,"Spokane, Washington",Y,Station Building (with waiting room),221 West 1st Avenue,,Spokane,WA,99201-3704,United States,Pacific Northwest,P,"47.656720,-117.415455",1905,200000
+SPL,"Staples, Minnesota",N,Station Building (with waiting room),First Avenue N.E. and Fourth Street N.E.,(On south side of new HWY 10),Staples,MN,56479,United States,Central,C,"46.354601,-94.795331",1274,3019
+SPM,"South Shore-South Portsmouth, Kentucky",N,Platform with Shelter,Main Street & US 23,,South Shore,KY,41174,United States,Central,E,"38.721281,-82.963751",532,34989
+SPO,"San Pedro (Downtown), California",N,Curbside Bus Stop only (no shelter),931 South Gaffey Street,Public Library,San Pedro,CA,90731,United States,Southwest,P,"33.735694,-118.292499",113,
+SPT,"Sandpoint (Amtrak), Idaho",N,Platform with Shelter,450 Railroad Avenue,Former Northern Pacific Station Site,Sandpoint,ID,83864,United States,Pacific Northwest,P,"48.276234,-116.545583",2087,6835
+SPX,"Sparks, Nevada (Thruway Buses)",N,Curbside Bus Stop only (no shelter),1100 Nugget Avenue,John Ascuaga's Nugget Hotel and Casino,Sparks,NV,89431,United States,Pacific,P,"39.533532,-119.757111",4418,
+SQA,"Squamish, British Columbia",N,Station Building (with waiting room),38163 Second Avenue,Greyhound Canada Transit Bus Stop,Squamish,BC,V0N 3G0,Canada,Pacific,P,"49.701680,-123.152996",14,
+SRA,"Sarasota, Florida",N,Curbside Bus Stop only (no shelter),1993 Main Street,"US 301 and Main St., Hollywood 20 Complex",Sarasota,FL,34231-5914,United States,Southern,E,"27.336522,-82.531496",24,
+SRC,"Santa Rosa, California",N,Curbside Bus Stop only (no shelter),175 Railroad Street,Courtyard Marriott Hotel,Santa Rosa,CA,95401,United States,Pacific,P,"38.435884,-122.720145",157,104700
+SRK,"Saratoga Race Course, Saratoga Springs, New York",N,Curbside Bus Stop only (no shelter),267 Union Avenue,,Saratoga Springs,NY,12866,United States,Northeast,E,"43.074607,-73.771017",309,
+SRT,"Searsport, Maine",N,Curbside Bus Stop only (no shelter),161 East Main Street,Steamboat Mobil,Searsport,ME,04974-3322,United States,Northeast,E,"44.460756,-68.909658",84,
+SSD,"Seaside, Oregon",N,Curbside Bus Stop only (no shelter),1215 South Holladay Drive,"Del's Chevron, South Holladay Dr at US 101/26",Seaside,OR,97301,United States,Pacific Northwest,P,"45.985913,-123.923410",6,5900
+SSM,"Selma, North Carolina",N,Station Building (with waiting room),500 East Railroad Street,,Selma,NC,27576,United States,Southern,E,"35.532786,-78.280099",175,30000
+SSP,"Silver Spring, Maryland",,Pseudo Station,1170 Bonifant Street,MARC Station,Silver Spring,MD,20910,United States,MARC,E,"null,null",,
+SSW,"Stevens Pass, Washington",N,Curbside Bus Stop only (no shelter),US Highway 2 at Summit Parking Lot,"WB stop on north side, EB stop on south side US2",Stevens Pass,WA,98826,United States,Pacific Northwest,P,"47.746634,-121.088387",4056,500
+STA,"Staunton, Virginia",N,Station Building (with waiting room),1 Middlebrook Avenue,,Staunton,VA,24401,United States,Mid-Atlantic,E,"38.147639,-79.071776",1419,23341
+STD,"St. Denis, Maryland",,Pseudo Station,1734 Arlington Avenue,MARC Station,Baltimore,MD,21227,United States,MARC,E,"null,null",,
+STG,"St. George, Utah",N,Curbside Bus Stop only (no shelter),1235 South Bluff St.,McDonalds Restaurant,St. George,UT,84770-5249,United States,Southwest,M,"37.087577,-113.583845",2590,
+STI,"St. Ignace, Michigan",N,Station Building (with waiting room),700 West US Hwy 2,Transportation Center,St. Ignace,MI,49781-9617,United States,Central,E,"45.858556,-84.721153",680,2575
+STL,"St. Louis, Missouri",Y,Station Building (with waiting room),430 South 15th Street,St. Louis Gateway Station,St. Louis,MO,63103-2607,United States,Central,C,"38.624461,-90.203838",458,347181
+STM,"Stamford, Connecticut",Y,Station Building (with waiting room),Washington Blvd and South State Street,Amtrak/Metro-North Station,Stamford,CT,06902,United States,Northeast,E,"41.047130,-73.542160",20,102453
+STN,"Stanley, North Dakota",N,Station Building (with waiting room),Main Street & Railroad Avenue,,Stanley,ND,58784,United States,Pacific Northwest,C,"48.319813,-102.389379",2251,1218
+STP,"St Petersburg-Clearwater, Florida",Y,Station Building (with waiting room),5251 110th Avenue North,"Pinellas Park Square, Suite 101",Clearwater,FL,33760-4846,United States,Southern,E,"27.873108,-82.704424",10,
+STS,"New Haven (State Street), Connecticut",,Pseudo Station,370 State Street,,New Haven,CT,06510,,Shore Line East,E,"null,null",,
+STW,"Stanwood, Washington",N,Platform only (no shelter),27111 Florence Way,,Stanwood,WA,98292,United States,Pacific Northwest,P,"48.242638,-122.349935",13,
+SUI,"Suisun-Fairfield, California",N,Station Building (with waiting room),177 Main Street,,Suisun City,CA,94585-2466,United States,Pacific,P,"38.243401,-122.041099",8,
+SUN,"Sunriver, Oregon",N,Curbside Bus Stop only (no shelter),56896 Venture Ln # 4,Crossroads Shell Station,Sunriver,OR,97707,United States,Pacific Northwest,P,"43.873858,-121.446097",4164,
+SUT,"Sun City-Menifee, California",N,Curbside Bus Stop only (no shelter),26938 Cherry Hills Blvd.,In front of Menifee Valley Community Cupboard,Sun City-Menifee,CA,92586,United States,Southwest,P,"33.710967,-117.189812",1435,
+SUY,"Surrey, British Columbia",N,Curbside Bus Stop only (no shelter),1160 King George Boulevard,Pacific Inn,South Surrey,BC,V4A 4Z2,Canada,Pacific,P,"49.023123,-122.764723",114,245173
+SVF,"Seattle (Ferry - Pier 69), Washington",N,Platform with Shelter,2701 Alaskan Way,"Victoria Clipper Ferry, Pier 69",Seattle,WA,98121,United States,Pacific,P,"47.613623,-122.353001",7,
+SVG,"Savage, Maryland",,Pseudo Station,9009 Dorsey Run Road,MARC Station,Annapolis Junction,MD,20701,United States,MARC,E,"null,null",,
+SVP,"Stevens Point (200 Division St), Wisconsin",N,Curbside Bus Stop only (no shelter),200 Division Street,Olympia Family Restaurant,Stevens Point,WI,54481-1843,United States,Central,C,"44.533158,-89.575535",1109,
+SVT,"Sturtevant, Wisconsin",N,Station Building (with waiting room),9900 East Exploration Court,,Sturtevant,WI,53177-1764,United States,Central,C,"42.718292,-87.906300",730,6913
+SVU,"Stevens Point (University of Wisconsin), Wisconsin",N,Curbside Bus Stop only (no shelter),2050 4th Avenue,University of Wisconsin Health Enhancement Ctr,Stevens Point,WI,54481,United States,Central,C,"44.528941,-89.571578",1093,
+SVY,"Scotts Valley, California",N,Curbside Bus Stop only (no shelter),246 Kings Village Road,Scotts Valley Transit Center,Scotts Valley,CA,95066-4029,United States,Pacific,P,"37.048984,-122.027947",542,
+SYR,"Syracuse, New York",Y,Station Building (with waiting room),131 Alliance Bank Parkway,,Syracuse,NY,13208,United States,Northeast,E,"43.076548,-76.169244",370,160000
+TAC,"Tacoma, Washington",Y,Station Building (with waiting room),1001 Puyallup Avenue,,Tacoma,WA,98421-2122,United States,Pacific Northwest,P,"47.241894,-122.420509",19,150000
+TAY,"Taylor, Texas",N,Platform only (no shelter),118 East First Street,Union Pacific Yard Office,Taylor,TX,76574-3627,United States,Southwest,C,"30.567667,-97.407763",546,15322
+TCA,"Toccoa, Georgia",N,Station Building (with waiting room),47 North Alexander Street,,Toccoa,GA,30577,United States,Southern,E,"34.578456,-83.331542",1012,9069
+TCL,"Tuscaloosa, Alabama",Y,Station Building (with waiting room),2105 Greensboro Avenue,,Tuscaloosa,AL,35401,United States,Southern,C,"33.193165,-87.560228",187,83052
+TDO,"Toledo, Oregon",N,Curbside Bus Stop only (no shelter),1805 NW Highway 20,Dairy Queen/Valley Retriever Bus Stop,Toledo,OR,97391-1000,United States,Pacific Northwest,P,"44.632298,-123.947973",19,
+TEH,"Tehachapi, California",N,Curbside Bus Stop only (no shelter),Westside of Mullbery Street,50 Yards off Tehachapi Boulevard,Tehachapi,CA,93561,United States,Southwest,P,"35.131909,-118.456943",3959,6700
+TFI,"Twin Falls, Idaho",N,Curbside Bus Stop only (no shelter),1390 Blue Lakes Boulevard North,Oasis Stop N Go #14,Twin Falls,ID,83301,United States,Pacific Northwest,M,"42.586494,-114.459625",3661,
+THD,"The Dalles, Oregon",N,Curbside Bus Stop only (no shelter),201 East Federal Street,City Transportation Center,The Dalles,OR,97058,United States,Pacific Northwest,P,"45.601204,-121.180275",101,
+THN,"Thurmond, West Virginia",N,Platform with Shelter,Hwy 25 & Hwy 2,platform 1000 ft north of intersection,Thurmond,WV,25936,United States,Mid-Atlantic,E,"37.956986,-81.078754",1073,200
+TLT,"Tilton, New Hampshire",N,Curbside Bus Stop only (no shelter),63 Laconia Road,Evans Expressmart/Exxon Station,Tilton,NH,03276,United States,Northeast,E,"43.455699,-71.565590",476,
+TOA,"Torrance, California",N,Curbside Bus Stop only (no shelter),20575 Hamilton Avenue,Alpine Village,Torrance,CA,90502,United States,Southwest,P,"33.843364,-118.286676",29,
+TOH,"Tomah, Wisconsin",N,Station Building (with waiting room),North Superior Avenue and Washington Street,,Tomah,WI,54660,United States,Central,C,"43.986007,-90.505331",964,8664
+TOL,"Toledo, Ohio",Y,Station Building (with waiting room),415 Emerald Avenue,"Martin Luther King, Jr. Plaza",Toledo,OH,43604-8817,United States,Central,E,"41.638345,-83.541721",594,350000
+TOP,"Topeka, Kansas",Y,Station Building (with waiting room),500 SE Holliday Place,East 5th & Holliday,Topeka,KS,66607-1100,United States,Central,C,"39.051415,-95.664916",889,127473
+TPA,"Tampa, Florida",Y,Station Building (with waiting room),601 North Nebraska Avenue,,Tampa,FL,33602-3555,United States,Southern,E,"27.952492,-82.450777",22,332888
+TPL,"Temple, Texas",Y,Station Building (with waiting room),315 West Avenue B,,Temple,TX,76501,United States,Southwest,C,"31.095883,-97.345792",704,60000
+TRA,"Tracy (Bus), California",N,Curbside Bus Stop only (no shelter),725 West Clover Road,Wendy's Restaurant,Tracy,CA,95376-1746,United States,Pacific,P,"37.761409,-121.436094",18,18428
+TRC,"Tracy (ACE Station), California",N,Platform with Shelter,4800 Tracy Boulevard,,Tracy,CA,95377,United States,Pacific,P,"37.696211,-121.433970",152,
+TRE,"Trenton, New Jersey",Y,Station Building (with waiting room),72 South Clinton Avenue,Trenton Transit Center,Trenton,NJ,08609-1238,United States,Northeast,E,"40.219011,-74.754440",40,91430
+TRI,"Trinidad, Colorado",N,Platform with Shelter,110 West Pine Street,,Trinidad,CO,81082,United States,Southwest,M,"37.172688,-104.507981",5988,9663
+TRK,"Turlock-Denair, California",N,Platform with Shelter,3800 Santa Fe Avenue,Corner of Elm Street,Denair,CA,95316,United States,Pacific,P,"37.527229,-120.798009",123,39000
+TRU,"Truckee, California",N,Station Building (with waiting room),10065 Donner Pass Road,,Truckee,CA,96161-0329,United States,Pacific,P,"39.327616,-120.185387",5825,2389
+TRV,"Traverse City, Michigan",N,Curbside Bus Stop only (no shelter),107 Hall St.,,Traverse City,MI,49684-2215,United States,Central,E,"44.765169,-85.627845",591,15800
+TSY,"Tusayan, Arizona",N,Curbside Bus Stop only (no shelter),Arizona Highway 64,Grand Canyon Village/IMAX Theatre,Tusayan,AZ,86023,United States,Southwest,M,"35.974367,-112.126413",6594,
+TUK,"Tukwila, Washington",N,Platform with Shelter,7301 Longacres Way,Sounder Commuter Rail Station,Tukwila,WA,98188,United States,Pacific Northwest,P,"47.461081,-122.240254",29,14480
+TUS,"Tucson, Arizona",Y,Station Building (with waiting room),400 North Toole Avenue,,Tucson,AZ,85701-1899,United States,Southwest,M,"32.222977,-110.966770",2394,541132
+TVF,"The Villages, Florida",N,Curbside Bus Stop only (no shelter),1150 Paige Place,Spanish Springs Shuttle Station,The Villages,FL,32159-9318,United States,Southern,E,"28.940672,-81.948381",70,
+TWC,"Tawas City, Michigan",N,Curbside Bus Stop only (no shelter),1020 West Lake Street,Bay Inn,Tawas City,MI,48763,United States,Central,E,"44.257281,-83.531059",591,
+TWO,"Toronto, Ontario",Y,Station Building (with waiting room),65 Front Street West,Union Station,Toronto,ON,M5J 1E7,Canada,VIA Rail Canada Inc.,E,"43.645427,-79.380762",266,3000000
+TXA,"Texarkana, Arkansas",Y,Station Building (with waiting room),100 East Front Street,,Texarkana,AR,71854-5907,United States,Southwest,C,"33.420067,-94.043082",311,93000
+TYR,"Tyrone, Pennsylvania",N,Platform with Shelter,Pennsylvania Avenue and West 10th Street,,Tyrone,PA,16686,United States,Mid-Atlantic,E,"40.667705,-78.240470",912,7000
+UCA,"Utica, New York",Y,Station Building (with waiting room),321 Main Street,Boehlert Transportation Center,Utica,NY,13501,United States,Northeast,E,"43.103892,-75.223434",418,63000
+UKH,"Ukiah, California",N,Curbside Bus Stop only (no shelter),711 East Perkins Street,Burger King,Ukiah,CA,95482,United States,Pacific,P,"39.151579,-123.193671",601,13700
+UOP,"University of Pennsylvania, Philadelphia, Pennsylvania",,Pseudo Station,3417 Spruce Street,Houston Hall (Student Union),Philadelphia,PA,19104,United States,Mid-Atlantic,E,"null,null",,
+USA,USA Rail Pass,,Pseudo Station,,,,,,,,,"null,null",,
+USF,USA Rail Pass Pseudo Station for MAAS processing only,,Pseudo Station,,,,,,,,,"null,null",,
+UWS,"Winston-Salem State Univ, Winston-Salem, North Carolina",N,Curbside Bus Stop only (no shelter),"Martin Luther King, Jr. Drive & Stadium Drive",PART bus stop south of F.L. Atkins Nursing Bldg,Winston-Salem,NC,27110-0001,United States,Southern,E,"36.090808,-80.227821",873,187000
+VAB,"Virginia Beach, Virginia",N,Platform with Shelter,19th St. and Pacific Ave.,,Virginia Beach,VA,23451,United States,Mid-Atlantic,E,"36.847208,-75.976410",14,500000
+VAC,"Vancouver, British Columbia, Canada",Y,Station Building (with waiting room),1150 Station Street,Pacific Central Station,Vancouver,BC,V6A 4C7,Canada,VIA Rail Canada Inc.,P,"49.273757,-123.098336",20,500000
+VAE,"Vale, Oregon",N,Curbside Bus Stop only (no shelter),151 Smith Street North,Sinclair Gas Station,Vale,OR,97918-1163,United States,Pacific Northwest,P,"43.982436,-117.248191",2243,
+VAI,"Vail, Colorado",N,Curbside Bus Stop only (no shelter),241 South Frontage Road East,,Vail,CO,81657,United States,Central,M,"39.642215,-106.373460",8190,4460
+VAL,"Vallejo, California",N,Curbside Bus Stop only (no shelter),4355 Sonoma Blvd.,Denny's Restaurant,Vallejo,CA,94589,United States,Pacific,P,"38.136142,-122.256328",7,
+VAN,"Vancouver, Washington, United States",Y,Station Building (with waiting room),1301 West 11th Street,,Vancouver,WA,98660,United States,Pacific Northwest,P,"45.628901,-122.686544",53,135100
+VAS,"Livermore (Vasco Road-ACE Station), California",N,Platform with Shelter,575 South Vasco Road,,Livermore,CA,94550,United States,Pacific,P,"37.696986,-121.718346",563,
+VBC,"Victoria (Bus Station), British Columbia",N,Station Building (with waiting room),700 Douglas St.,behind the Empress Hotel,Victoria,BC,V8W 3M6,Canada,Pacific,P,"48.420579,-123.366424",23,66000
+VEC,"Ventura, California",N,Platform with Shelter,Harbor Boulevard and Figueroa Street,,Ventura,CA,93003,United States,Southwest,P,"34.276929,-119.299918",13,55000
+VIA,VIA Rail Canada,,Pseudo Station,,,,,,,,,"null,null",,
+VIF,"Victoria (Ferry), British Columbia",N,Platform only (no shelter),254 Belleville St.,"Victoria Clipper Ferry, Inner Harbour",Victoria,BC,V8V 1W9,Canada,Pacific,P,"48.422426,-123.374174",15,
+VIS,"Visalia, California",N,Station Building (with waiting room),425 E. Oak Street,Visalia Transit Center,Visalia,CA,93291-5053,United States,Pacific,P,"36.331892,-119.288424",334,98400
+VMW,"Six Flags Discovery Kingdom (Seasonal), Vallejo, California",N,Curbside Bus Stop only (no shelter),Highway 37 and Fairgrounds Drive,See VAL for daily Vallejo bus stop,Vallejo,CA,94589,United States,Pacific,P,"38.138008,-122.230557",83,
+VNC,"Van Nuys, California",Y,Station Building (with waiting room),7724 Van Nuys Boulevard,Amtrak/Metrolink Station,Van Nuys,CA,91405,United States,Southwest,P,"34.211294,-118.448206",779,136443
+VRB,"Victorville (Thruway Buses), California",N,Station Building (with waiting room),16838 South D Street,Victor Valley Transit Center/Greyhound Station,Victorville,CA,92395-3219,United States,Southwest,P,"34.537467,-117.293918",2723,25000
+VRV,"Victorville (Southwest Chief train), California",N,Platform with Shelter,16858 South D Street,,Victorville,CA,92395,United States,Southwest,P,"34.537200,-117.292956",2725,25000
+WAB,"Waterbury, Vermont",N,Platform with Shelter,US Highway 2 and Park Row,,Waterbury,VT,05676,United States,Northeast,E,"44.335011,-72.751806",421,1689
+WAC,"Wasco, California",N,Platform with Shelter,700 G Street,,Wasco,CA,93280-2026,United States,Pacific,P,"35.594092,-119.332309",337,24279
+WAH,"Washington, Missouri",N,Station Building (with waiting room),301 West Front Street,,Washington,MO,63090-2118,United States,Central,C,"38.561466,-91.012717",495,13000
+WAR,"Warrensburg, Missouri",N,Station Building (with waiting room),100 South Holden Street,,Warrensburg,MO,64093-2331,United States,Central,C,"38.762750,-93.740900",832,13807
+WAS,"Washington, District of Columbia",Y,Station Building (with waiting room),50 Massachusetts Avenue NE,Union Station,Washington,DC,20002-4214,United States,Mid-Atlantic,E,"38.896993,-77.006422",56,650000
+WAU,"Waupaca, Wisconsin",N,Curbside Bus Stop only (no shelter),1222 West Fulton Street,Waupaca Mobil Travel Center,Waupaca,WI,54981-8236,United States,Central,C,"44.356797,-89.119758",906,
+WBG,"Williamsburg, Virginia",Y,Station Building (with waiting room),468 North Boundary Street,,Williamsburg,VA,23185-3650,United States,Mid-Atlantic,E,"37.276414,-76.708564",77,10000
+WBL,"West Baltimore, Maryland",,Pseudo Station,401 Smallwood Street,MARC Station,Baltimore,MD,21202,United States,MARC,E,"null,null",,
+WCH,"Westchester, California",N,Curbside Bus Stop only (no shelter),6860 Park Terrace Drive,Culver City Transit route 6 stop,Westchester,CA,90045,United States,Southwest,P,"33.975825,-118.392390",69,
+WCT,"White City, Oregon",N,Curbside Bus Stop only (no shelter),7455 Highway 62,at Highway 140,White City,OR,97503,United States,Pacific,P,"42.423973,-122.852689",1315,
+WDB,"Woodbridge, Virginia",N,Platform with Shelter,1040 Express Way,,Woodbridge,VA,22194,United States,Mid-Atlantic,E,"38.658915,-77.247852",49,
+WDL,"Wisconsin Dells, Wisconsin",N,Station Building (with waiting room),100 LaCrosse Street, Intersection of Superior and La Crosse Streets,Wisconsin Dells,WI,53965,United States,Central,C,"43.626509,-89.777451",891,2476
+WDO,"Waldo, Florida",N,Station Building (with waiting room),14648 NE 147th Avenue,Intersection Hwy 301 & SR24,Waldo,FL,32694-0802,United States,Southern,E,"29.790507,-82.166727",153,
+WDR,"Waldoboro, Maine",N,Curbside Bus Stop only (no shelter),1519 Atlantic Highway,Mobil Station/Big Apple Convenience Store,Waldoboro,ME,04572,United States,Northeast,E,"44.101471,-69.382112",51,
+WEM,"Wells, Maine",N,Station Building (with waiting room),696 Sanford Road,,Wells,ME,04090,United States,Northeast,E,"43.320836,-70.612192",133,10038
+WEN,"Wenatchee, Washington",N,Platform with Shelter,Kittitas & South Columbia Streets,Bus stop is across the street from train platform,Wenatchee,WA,98801-6008,United States,Pacific Northwest,P,"47.421556,-120.306552",650,17000
+WES,"Westwood-UCLA, California",N,Curbside Bus Stop only (no shelter),592 Gayley Ave.,LAMTA route 2 stop (westbound),Los Angeles,CA,90024,United States,Southwest,P,"34.068772,-118.448979",373,
+WFD,"Wallingford, Connecticut",N,Platform with Shelter,37 Hall Avenue,,Wallingford,CT,06492,United States,Northeast,E,"41.456969,-72.825221",78,38000
+WFH,"Whitefish, Montana",Y,Station Building (with waiting room),500 Depot Street,,Whitefish,MT,59937-2567,United States,Pacific Northwest,M,"48.413474,-114.335575",3033,5032
+WGL,"West Glacier, Montana",N,Station Building (with waiting room),Highway 2 and Going-to-the-Sun Highway,,West Glacier,MT,59936,United States,Pacific Northwest,M,"48.496218,-113.979164",3230,200
+WGM,"Washington Grove, Maryland",,Pseudo Station,100 Railroad Street,MARC Station,Gaithersburg,MD,20877,,MARC,E,"null,null",,
+WHL,"Whitehall, New York",N,Platform with Shelter,Main Street and Saunders Street,,Whitehall,NY,12887,United States,Northeast,E,"43.554740,-73.403206",130,3000
+WIH,"Wishram, Washington",N,Platform with Shelter,1 Railroad Avenue,,Wishram,WA,98673,United States,Pacific Northwest,P,"45.657669,-120.966142",179,500
+WIL,"Wilmington, Delaware",Y,Station Building (with waiting room),100 South French Street,,Wilmington,DE,19801-5036,United States,Mid-Atlantic,E,"39.737263,-75.551095",9,75000
+WIN,"Winona, Minnesota",Y,Station Building (with waiting room),65 East Mark Street,,Winona,MN,55987,United States,Central,C,"44.044404,-91.640073",656,26785
+WIP,"Winter Park/Fraser, Colorado",N,Platform with Shelter,205 Fraser Avenue,,Fraser,CO,80442,United States,Central,M,"39.947566,-105.817388",8567,500
+WIT,"Wittenberg, Wisconsin",N,Curbside Bus Stop only (no shelter),505 Grand Avenue,Wittenberg Shell,Wittenberg,WI,54499,United States,Central,C,"44.826834,-89.164447",1172,
+WLN,"Wilson, North Carolina",Y,Station Building (with waiting room),401 East Nash Street,,Wilson,NC,27893,United States,Southern,E,"35.723135,-77.908029",141,37000
+WLO,"Winslow, Arizona",N,Platform with Shelter,303 East Second Street (Route 66),(La Posada Hotel Lobby),Winslow,AZ,86047,United States,Southwest,M,"35.021666,-110.694981",4853,9000
+WLY,"Westerly, Rhode Island",Y,Station Building (with waiting room),14 Railroad Avenue,,Westerly,RI,02891,United States,Northeast,E,"41.381081,-71.829780",34,30000
+WMA,"Williams, Arizona",N,Station Building (with waiting room),233 North Grand Canyon Blvd,Grand Canyon Railway Depot,Williams,AZ,86046-2563,United States,Southwest,M,"35.251950,-112.190106",6762,3201
+WMJ,"Williams Junction, Arizona",N,Platform only (no shelter),"No address, no private access",Book free shuttle from WMA,Williams Junction,AZ,86046,United States,Southwest,M,"35.251950,-112.190106",6762,0
+WND,"Windsor, Connecticut",N,Platform with Shelter,41 Central Street,,Windsor,CT,06095-2908,United States,Northeast,E,"41.852013,-72.642253",54,25000
+WNK,"Walloon Lake, Michigan",N,Curbside Bus Stop only (no shelter),Hwy 131 & Hwy 75,,Walloon Lake,MI,49796,United States,Central,E,"45.265871,-84.925044",716,
+WNL,"Windsor Locks, Connecticut",N,Platform with Shelter,South Main Street at Stanton Road,,Windsor Locks,CT,06096,United States,Northeast,E,"41.913956,-72.626101",30,13043
+WNM,"Windsor, Vermont",N,Platform only (no shelter),26 Depot Avenue,,Windsor,VT,05089-1407,United States,Northeast,E,"43.479908,-72.384985",333,3696
+WNN,"Winnemucca, Nevada",N,Platform with Shelter,209 Railroad Street,,Winnemucca,NV,89445,United States,Pacific,P,"40.969044,-117.732210",4338,3587
+WNR,"Walnut Ridge, Arkansas",N,Station Building (with waiting room),109 Southwest Front Street,,Walnut Ridge,AR,72476,United States,Central,C,"36.067660,-90.956766",271,4666
+WNS,"Winston-Salem, North Carolina",N,Station Building (with waiting room),100 West 5th Street,Corner of 5th Street & Trade Street,Winston-Salem,NC,27101,United States,Southern,E,"36.099779,-80.245561",933,186000
+WNT,"Warrenton, Oregon",N,Curbside Bus Stop only (no shelter),695 S. Highway 101,Fred Meyer Shopping Center,Warrenton,OR,97146-9319,United States,Pacific Northwest,P,"46.161461,-123.901883",22,4096
+WOB,"Woburn, Massachusetts",N,Station Building (with waiting room),100 Atlantic Avenue,Woburn-Anderson Regional Trans Center,Woburn,MA,01801-1081,United States,Northeast,E,"42.517358,-71.143823",75,37010
+WOR,"Worcester, Massachusetts",Y,Station Building (with waiting room),2 Washington Square,Worcester Union Station,Worcester,MA,01604,United States,Northeast,E,"42.261478,-71.794812",473,172648
+WPB,"West Palm Beach, Florida",Y,Station Building (with waiting room),209 South Tamarind Avenue,,West Palm Beach,FL,33401,United States,Southern,E,"26.712554,-80.062184",22,89302
+WPK,"Winter Park, Florida",Y,Station Building (with waiting room),150 West Morse Blvd,,Winter Park,FL,32789-3825,United States,Southern,E,"28.597654,-81.351842",93,24090
+WPN,"Waupun, Wisconsin",N,Curbside Bus Stop only (no shelter),928 East Main Street,End of the Train Candy Shop,Waupun,WI,53963,United States,Central,C,"43.633335,-88.717972",889,
+WPT,"Wolf Point, Montana",Y,Station Building (with waiting room),320 Front Street,,Wolf Point,MT,59201-1413,United States,Pacific Northwest,M,"48.091672,-105.642736",2003,2663
+WRJ,"White River Jct., Vermont",N,Station Building (with waiting room),102 Railroad Row,,White River Junction,VT,05001-7042,United States,Northeast,E,"43.647785,-72.317272",364,2569
+WRM,"Western Railway Museum, Rio Vista Junction, California",N,Curbside Bus Stop only (no shelter),5848 State Highway 12,Delta Breeze Transit Stop,Rio Vista Junction,CA,94585,United States,Pacific,P,"38.203447,-121.874302",90,
+WSB,"Westbrook, Connecticut",,Pseudo Station,119 Essex Road,,Westbrook,CT,06498,United States,Shore Line East,E,"null,null",,
+WSF,"Westfield, Wisconsin",N,Curbside Bus Stop only (no shelter),244 North Pioneer Park Road,Mobil Station,Westfield,WI,53964,United States,Central,C,"43.887791,-89.484089",860,
+WSJ,"Wausau (Transit Center), Wisconsin",N,Curbside Bus Stop only (no shelter),555 Jefferson Street,Wausau Transit Center,Wausau,WI,54403,United States,Central,C,"44.959456,-89.624628",1215,
+WSL,"Whistler, British Columbia",N,Curbside Bus Stop only (no shelter),2029 London Lane,SS Services - Whistler Village,Whistler Village,BC,V0N 1B4,Canada,Pacific,P,"50.094810,-122.989823",2138,
+WSP,"Westport, New York",N,Station Building (with waiting room),6705 Main Street,at Highway 9N and Railroad Tracks,Westport,NY,12993,United States,Northeast,E,"44.187288,-73.451773",265,750
+WSS,"White Sulphur Springs, West Virginia",N,Platform with Shelter,315 West Main Street,,White Sulphur Springs,WV,24986,United States,Mid-Atlantic,E,"37.786443,-80.304004",1928,2321
+WST,"Wiscasset, Maine",N,Curbside Bus Stop only (no shelter),279 Bath Road,Huber's Market,Wiscasset,ME,04578-4624,United States,Northeast,E,"43.994287,-69.686490",113,
+WSU,"Wausau-Rothschild (Lamer Bus), Wisconsin",N,Station Building (with waiting room),2415 Trailwood Lane,Lamers Bus Lines Station,Rothschild,WI,54474,United States,Central,C,"44.854324,-89.635643",1175,
+WTH,"Winter Haven, Florida",Y,Station Building (with waiting room),1800 7th Street SW,,Winter Haven,FL,33880-4375,United States,Southern,E,"28.002146,-81.734878",144,30978
+WTI,"Waterloo, Indiana",N,Platform only (no shelter),Lincoln and Center Street,,Waterloo,IN,46793,United States,Central,E,"41.431687,-85.025659",915,2040
+WTN,"Williston, North Dakota",Y,Station Building (with waiting room),1 South Main Street,,Williston,ND,58801-6057,United States,Pacific Northwest,C,"48.143000,-103.620926",1867,12641
+WTS,"Willits, California",N,Curbside Bus Stop only (no shelter),200 E. Commercial Street,California Western Railroad Depot,Willits,CA,95490,United States,Pacific,P,"39.412423,-123.350961",1369,4008
+WWA,"Walla Walla, Washington",N,Curbside Bus Stop only (no shelter),108 West Main Street,Transit Center,Walla Walla,WA,99362,United States,Pacific Northwest,P,"46.065989,-118.341502",947,
+WWD,"Wildwood, Florida",N,Station Building (with waiting room),601 North Main Street,,Wildwood,FL,34785-3842,United States,Southern,E,"28.866164,-82.039518",64,
+YAZ,"Yazoo City, Mississippi",N,Platform with Shelter,West Broadway (SR149) & North Water Street,,Yazoo City,MS,39194,United States,Central,C,"32.848477,-90.415230",107,14550
+YEM,"Yemassee, South Carolina",N,Platform with Shelter,Railroad Avenue and Old Salkehatchie Highway,,Yemassee,SC,29945,United States,Southern,E,"32.688286,-80.846901",26,2000
+YNY,"Yonkers, New York",N,Station Building (with waiting room),5 Buena Vista Avenue,Amtrak/Metro-North Station,Yonkers,NY,10701-3544,United States,Northeast,E,"40.935586,-73.902263",11,186300
+YOA,"Yosemite - Ahwahnee Hotel, California",N,Curbside Bus Stop only (no shelter),Yosemite Village,,Yosemite National Park,CA,95389,United States,Pacific,P,"37.746617,-119.574613",3993,
+YOC,"Yosemite - Curry Village, California",N,Curbside Bus Stop only (no shelter),Curry Village,,Yosemite National Park,CA,95389,United States,Pacific,P,"37.737730,-119.570605",3995,
+YOF,"Yosemite - Crane Flat, California",N,Curbside Bus Stop only (no shelter),8028 Big Oak Flat Road,Chevron Gas Station,Yosemite National Park,CA,95389,United States,Pacific,P,"37.753134,-119.797145",6158,
+YOS,"Yosemite - Lodge, California",N,Curbside Bus Stop only (no shelter),9006 Yosemite Lodge Drive,Yosemite Park Lodge,Yosemite National Park,CA,95389,United States,Pacific,P,"37.742646,-119.599331",3978,
+YOT,"Yosemite - Tuolumne Meadow, California",N,Curbside Bus Stop only (no shelter),Tuolumne Meadows Visitors Center,Highway 120 East,Yosemite National Park,CA,95389,United States,Pacific,P,"37.872240,-119.373801",8593,
+YOV,"Yosemite - Visitor Center, California",N,Curbside Bus Stop only (no shelter),National Park Visitor Center,Yosemite Village.  Transfer point to park shuttles,Yosemite National Park,CA,95389,United States,Pacific,P,"37.748042,-119.586318",3996,
+YOW,"Yosemite - White Wolf, California",N,Curbside Bus Stop only (no shelter),Old Tioga Road at Highway 120 East,White Wolfe Lodge,Yosemite National Park,CA,95389,United States,Pacific,P,"37.869636,-119.649293",7877,
+YUM,"Yuma, Arizona",N,Platform only (no shelter),281 Gila Street,,Yuma,AZ,85364,United States,Southwest,M,"32.723139,-114.615571",135,87423
+ZMW,Six Flags Discovery Kingdom Admission Ticket ,,Pseudo Station,Six Flags Discovery Kingdom,Book between VMW and ZMW,Vallejo,CA,94589,United States,,,"null,null",,
